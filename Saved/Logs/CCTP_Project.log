@@ -3832,3 +3832,1115 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2026.01.08-15.19.25:830][321]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.01.08-15.19.25:830][321]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.01.08-15.19.25:830][321]AssetCheck: /Game/AI/Components/C_InformationTracker Validating asset
+[2026.01.08-15.20.56:167][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.01.08-15.21.03:776][293]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11527.437500
+[2026.01.08-15.21.03:925][302]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-15.21.03:925][303]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11527.570312, Update Interval: 343.961304
+[2026.01.08-15.25.50:990][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.01.08-15.25.51:034][825]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-15.25.51:072][825]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_GetRandPointInRoom] ([2] browsable assets)...
+[2026.01.08-15.25.51:072][825]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_GetRandPointInRoom]
+[2026.01.08-15.25.51:081][825]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_GetRandPointInRoom
+[2026.01.08-15.25.51:083][825]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_GetRandPointInRoomE2E1A4924C55648248EEA895D78C0E8C.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_GetRandPointInRoom.uasset'
+[2026.01.08-15.25.51:097][825]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.098 ms (total: 5.52 sec)
+[2026.01.08-15.25.51:155][825]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-15.25.51:155][825]LogContentValidation: Enabled validators:
+[2026.01.08-15.25.51:155][825]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-15.25.51:155][825]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-15.25.51:155][825]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-15.25.51:155][825]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-15.25.51:155][825]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-15.25.51:155][825]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-15.25.51:155][825]AssetCheck: /Game/AI/Trees/Tasks/BTT_GetRandPointInRoom Validating asset
+[2026.01.08-15.26.13:951][385]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.08-15.26.13:973][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.08-15.26.14:002][385]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IndoorArea_Greybox
+[2026.01.08-15.26.14:006][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005150s)
+[2026.01.08-15.26.14:006][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IndoorArea_Greybox.IndoorArea_Greybox to /Game/Maps/UEDPIE_0_IndoorArea_Greybox.IndoorArea_Greybox (0.005240s)
+[2026.01.08-15.26.14:024][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.01.08-15.26.14:028][385]LogChaosDD: Creating Chaos Debug Draw Scene for world IndoorArea_Greybox
+[2026.01.08-15.26.14:031][385]LogPlayLevel: PIE: World Init took: (0.001790s)
+[2026.01.08-15.26.14:031][385]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.01.08-15.26.14:031][385]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.08-15.26.14:031][385]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.08-15.26.14:031][385]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.08-15.26.14:032][385]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.08-15.26.14:032][385]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.01.08-15.26.14:032][385]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.08-15.26.14:032][385]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.01.08-15.26.14:032][385]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.08-15.26.14:032][385]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.08-15.26.14:032][385]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.08-15.26.14:032][385]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.08-15.26.14:035][385]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.08-15.26.14:065][385]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH520)
+[2026.01.08-15.26.14:066][385]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.08-15.26.14:066][385]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.08-15.26.14:066][385]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.08-15.26.14:066][385]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2026.01.08-15.26.14:066][385]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2026.01.08-15.26.14:069][385]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.01.08-15.26.14:069][385]LogInit: FAudioDevice initialized with ID 16.
+[2026.01.08-15.26.14:069][385]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2026.01.08-15.26.14:069][385]LogAudio: Display: Audio Device (ID: 16) registered with world 'IndoorArea_Greybox'.
+[2026.01.08-15.26.14:069][385]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.01.08-15.26.14:074][385]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.08-15.26.14:077][385]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IndoorArea_Greybox.IndoorArea_Greybox up for play (max tick rate 60) at 2026.01.08-15.26.14
+[2026.01.08-15.26.14:078][385]LogWorld: Bringing up level for play took: 0.003495
+[2026.01.08-15.26.14:080][385]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2026.01.08-15.26.14:086][385]PIE: Server logged in
+[2026.01.08-15.26.14:088][385]PIE: Play in editor total start time 0.127 seconds.
+[2026.01.08-15.26.14:101][386]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room6
+[2026.01.08-15.26.14:101][386]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-15.26.41:373][ 15]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room2
+[2026.01.08-15.26.41:373][ 15]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-15.26.58:858][ 64]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room5
+[2026.01.08-15.26.58:858][ 64]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-15.27.11:377][815]LogBlueprintUserMessages: [BP_HidingVolume_C_1] Player is hiding
+[2026.01.08-15.27.11:527][824]LogBlueprintUserMessages: [BP_HidingVolume_C_1] Player stopped hiding
+[2026.01.08-15.27.13:745][957]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room3
+[2026.01.08-15.27.13:745][957]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-15.27.27:323][771]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room3
+[2026.01.08-15.27.27:324][771]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-15.27.33:032][113]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11916.722656
+[2026.01.08-15.27.33:183][122]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-15.27.33:183][122]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11916.856445, Update Interval: 359.461670
+[2026.01.08-15.27.51:176][202]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room4
+[2026.01.08-15.27.51:176][202]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-15.27.58:376][634]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room4
+[2026.01.08-15.27.58:376][634]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-15.28.00:381][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.08-15.28.00:381][752]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IndoorArea_Greybox
+[2026.01.08-15.28.00:382][752]LogWorld: UWorld::CleanupWorld for IndoorArea_Greybox, bSessionEnded=true, bCleanupResources=true
+[2026.01.08-15.28.00:382][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-15.28.00:388][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.08-15.28.00:395][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-15.28.00:418][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.08-15.28.00:419][752]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.01.08-15.28.00:419][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2026.01.08-15.28.00:421][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2026.01.08-15.28.00:433][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.01.08-15.28.00:503][753]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2026.01.08-15.28.31:798][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.01.08-15.28.31:852][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-15.28.31:896][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_GetRandPointInRoom] ([2] browsable assets)...
+[2026.01.08-15.28.31:896][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_GetRandPointInRoom]
+[2026.01.08-15.28.31:905][537]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_GetRandPointInRoom
+[2026.01.08-15.28.31:907][537]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_GetRandPointInRoomA0319D9D40D6278401590D89F65CB315.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_GetRandPointInRoom.uasset'
+[2026.01.08-15.28.31:921][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.228 ms (total: 5.59 sec)
+[2026.01.08-15.28.31:968][537]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-15.28.31:968][537]LogContentValidation: Enabled validators:
+[2026.01.08-15.28.31:968][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-15.28.31:968][537]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-15.28.31:968][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-15.28.31:968][537]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-15.28.31:968][537]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-15.28.31:968][537]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-15.28.31:968][537]AssetCheck: /Game/AI/Trees/Tasks/BTT_GetRandPointInRoom Validating asset
+[2026.01.08-15.28.36:665][719]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.08-15.28.36:683][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.08-15.28.36:721][719]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IndoorArea_Greybox
+[2026.01.08-15.28.36:726][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004794s)
+[2026.01.08-15.28.36:726][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IndoorArea_Greybox.IndoorArea_Greybox to /Game/Maps/UEDPIE_0_IndoorArea_Greybox.IndoorArea_Greybox (0.004851s)
+[2026.01.08-15.28.36:744][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.01.08-15.28.36:749][719]LogChaosDD: Creating Chaos Debug Draw Scene for world IndoorArea_Greybox
+[2026.01.08-15.28.36:751][719]LogPlayLevel: PIE: World Init took: (0.001761s)
+[2026.01.08-15.28.36:752][719]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.01.08-15.28.36:752][719]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.08-15.28.36:752][719]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.08-15.28.36:752][719]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.08-15.28.36:752][719]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.08-15.28.36:752][719]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.01.08-15.28.36:752][719]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.08-15.28.36:752][719]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.01.08-15.28.36:752][719]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.08-15.28.36:752][719]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.08-15.28.36:752][719]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.08-15.28.36:752][719]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.08-15.28.36:755][719]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.08-15.28.36:790][719]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH520)
+[2026.01.08-15.28.36:790][719]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.08-15.28.36:790][719]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.08-15.28.36:791][719]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.08-15.28.36:791][719]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2026.01.08-15.28.36:791][719]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.01.08-15.28.36:794][719]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.01.08-15.28.36:794][719]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2026.01.08-15.28.36:794][719]LogInit: FAudioDevice initialized with ID 17.
+[2026.01.08-15.28.36:794][719]LogAudio: Display: Audio Device (ID: 17) registered with world 'IndoorArea_Greybox'.
+[2026.01.08-15.28.36:794][719]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.01.08-15.28.36:807][719]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.08-15.28.36:810][719]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IndoorArea_Greybox.IndoorArea_Greybox up for play (max tick rate 60) at 2026.01.08-15.28.36
+[2026.01.08-15.28.36:811][719]LogWorld: Bringing up level for play took: 0.004248
+[2026.01.08-15.28.36:814][719]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2026.01.08-15.28.36:821][719]PIE: Server logged in
+[2026.01.08-15.28.36:823][719]PIE: Play in editor total start time 0.149 seconds.
+[2026.01.08-15.28.36:845][720]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room4
+[2026.01.08-15.28.36:845][720]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-15.28.45:621][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.08-15.28.45:621][235]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IndoorArea_Greybox
+[2026.01.08-15.28.45:621][235]LogWorld: UWorld::CleanupWorld for IndoorArea_Greybox, bSessionEnded=true, bCleanupResources=true
+[2026.01.08-15.28.45:622][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-15.28.45:627][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.08-15.28.45:630][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-15.28.45:654][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.08-15.28.45:654][235]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.01.08-15.28.45:654][235]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2026.01.08-15.28.45:657][235]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2026.01.08-15.28.45:666][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.01.08-15.28.45:739][236]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2026.01.08-15.28.47:740][353]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.08-15.28.47:757][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.08-15.28.47:757][353]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IndoorArea_Greybox
+[2026.01.08-15.28.47:761][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004780s)
+[2026.01.08-15.28.47:761][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IndoorArea_Greybox.IndoorArea_Greybox to /Game/Maps/UEDPIE_0_IndoorArea_Greybox.IndoorArea_Greybox (0.004824s)
+[2026.01.08-15.28.47:783][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.01.08-15.28.47:787][353]LogChaosDD: Creating Chaos Debug Draw Scene for world IndoorArea_Greybox
+[2026.01.08-15.28.47:789][353]LogPlayLevel: PIE: World Init took: (0.001827s)
+[2026.01.08-15.28.47:789][353]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2026.01.08-15.28.47:789][353]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.08-15.28.47:789][353]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.08-15.28.47:789][353]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.08-15.28.47:789][353]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.08-15.28.47:789][353]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.01.08-15.28.47:789][353]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.08-15.28.47:789][353]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.01.08-15.28.47:789][353]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.08-15.28.47:789][353]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.08-15.28.47:789][353]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.08-15.28.47:789][353]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.08-15.28.47:793][353]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.08-15.28.47:826][353]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH520)
+[2026.01.08-15.28.47:827][353]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.08-15.28.47:827][353]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.08-15.28.47:827][353]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.08-15.28.47:827][353]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2026.01.08-15.28.47:827][353]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2026.01.08-15.28.47:830][353]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2026.01.08-15.28.47:830][353]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2026.01.08-15.28.47:830][353]LogInit: FAudioDevice initialized with ID 18.
+[2026.01.08-15.28.47:830][353]LogAudio: Display: Audio Device (ID: 18) registered with world 'IndoorArea_Greybox'.
+[2026.01.08-15.28.47:830][353]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2026.01.08-15.28.47:834][353]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.08-15.28.47:838][353]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IndoorArea_Greybox.IndoorArea_Greybox up for play (max tick rate 60) at 2026.01.08-15.28.47
+[2026.01.08-15.28.47:839][353]LogWorld: Bringing up level for play took: 0.003948
+[2026.01.08-15.28.47:843][353]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2026.01.08-15.28.47:849][353]PIE: Server logged in
+[2026.01.08-15.28.47:851][353]PIE: Play in editor total start time 0.104 seconds.
+[2026.01.08-15.28.47:868][354]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room5
+[2026.01.08-15.28.47:868][354]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-15.28.57:526][925]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room1
+[2026.01.08-15.28.57:527][925]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-15.29.14:862][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.08-15.29.14:862][962]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IndoorArea_Greybox
+[2026.01.08-15.29.14:863][962]LogWorld: UWorld::CleanupWorld for IndoorArea_Greybox, bSessionEnded=true, bCleanupResources=true
+[2026.01.08-15.29.14:863][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-15.29.14:869][962]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.08-15.29.14:873][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-15.29.14:899][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.08-15.29.14:899][962]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2026.01.08-15.29.14:899][962]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2026.01.08-15.29.14:901][962]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2026.01.08-15.29.14:912][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.01.08-15.29.14:988][963]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2026.01.08-15.34.26:554][617]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12330.265625
+[2026.01.08-15.34.26:688][625]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-15.34.26:688][626]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12330.381836, Update Interval: 359.686890
+[2026.01.08-15.41.20:845][338]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12744.781250
+[2026.01.08-15.41.21:012][348]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-15.41.21:012][348]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12744.930664, Update Interval: 342.707001
+[2026.01.08-15.47.49:420][649]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13133.394531
+[2026.01.08-15.47.49:570][658]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-15.47.49:570][658]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13133.527344, Update Interval: 317.104401
+[2026.01.08-15.53.48:903][ 75]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13492.960938
+[2026.01.08-15.53.49:057][ 84]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-15.53.49:057][ 84]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13493.092773, Update Interval: 330.907318
+[2026.01.08-15.59.01:416][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.01.08-15.59.01:470][105]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-15.59.01:505][105]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_GetRandPointInRoom] ([2] browsable assets)...
+[2026.01.08-15.59.01:505][105]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_GetRandPointInRoom]
+[2026.01.08-15.59.01:515][105]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_GetRandPointInRoom
+[2026.01.08-15.59.01:516][105]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_GetRandPointInRoom730A6D884059A5852A66B896C78D27A6.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_GetRandPointInRoom.uasset'
+[2026.01.08-15.59.01:531][105]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.627 ms (total: 5.65 sec)
+[2026.01.08-15.59.01:570][105]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-15.59.01:570][105]LogContentValidation: Enabled validators:
+[2026.01.08-15.59.01:570][105]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-15.59.01:570][105]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-15.59.01:570][105]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-15.59.01:570][105]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-15.59.01:570][105]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-15.59.01:570][105]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-15.59.01:570][105]AssetCheck: /Game/AI/Trees/Tasks/BTT_GetRandPointInRoom Validating asset
+[2026.01.08-15.59.50:479][847]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13854.577148
+[2026.01.08-15.59.50:669][857]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-15.59.50:669][857]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13854.750977, Update Interval: 306.698212
+[2026.01.08-15.59.53:971][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.01.08-15.59.53:975][ 35]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/IndoorArea_Greybox' took 0.031
+[2026.01.08-15.59.53:976][ 35]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_GetRandPointInRoom] ([2] browsable assets)...
+[2026.01.08-15.59.53:976][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_GetRandPointInRoom]
+[2026.01.08-15.59.53:987][ 35]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/Trees/Tasks/BTT_GetRandPointInRoom_Auto5
+[2026.01.08-15.59.53:987][ 35]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_GetRandPointInRoom_Auto5685EAA564C0C5AC6FA0139B120A64C1A.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/Autosaves/Game/AI/Trees/Tasks/BTT_GetRandPointInRoom_Auto5.uasset'
+[2026.01.08-15.59.53:988][ 35]LogFileHelpers: Auto-saving content packages took 0.013
+[2026.01.08-16.00.07:912][842]LogEditorTransaction: Undo Straighten Connection(s)
+[2026.01.08-16.00.13:855][175]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-16.00.13:889][175]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_GetRandPointInRoom] ([2] browsable assets)...
+[2026.01.08-16.00.13:889][175]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_GetRandPointInRoom]
+[2026.01.08-16.00.13:899][175]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_GetRandPointInRoom
+[2026.01.08-16.00.13:901][175]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_GetRandPointInRoomBFFB23904A98DA639405EC87C52D8334.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_GetRandPointInRoom.uasset'
+[2026.01.08-16.00.13:913][175]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.546 ms (total: 5.71 sec)
+[2026.01.08-16.00.13:949][175]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-16.00.13:949][175]LogContentValidation: Enabled validators:
+[2026.01.08-16.00.13:949][175]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-16.00.13:949][175]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-16.00.13:949][175]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-16.00.13:949][175]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-16.00.13:949][175]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-16.00.13:949][175]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-16.00.13:949][175]AssetCheck: /Game/AI/Trees/Tasks/BTT_GetRandPointInRoom Validating asset
+[2026.01.08-16.00.19:972][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.01.08-16.00.20:029][531]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-16.00.20:062][531]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_GetRandPointInRoom] ([2] browsable assets)...
+[2026.01.08-16.00.20:062][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_GetRandPointInRoom]
+[2026.01.08-16.00.20:072][531]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_GetRandPointInRoom
+[2026.01.08-16.00.20:075][531]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_GetRandPointInRoom673325B147CFA099182DC682AFA3E460.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_GetRandPointInRoom.uasset'
+[2026.01.08-16.00.20:090][531]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.190 ms (total: 5.77 sec)
+[2026.01.08-16.00.20:129][531]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-16.00.20:129][531]LogContentValidation: Enabled validators:
+[2026.01.08-16.00.20:129][531]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-16.00.20:129][531]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-16.00.20:129][531]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-16.00.20:129][531]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-16.00.20:129][531]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-16.00.20:129][531]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-16.00.20:129][531]AssetCheck: /Game/AI/Trees/Tasks/BTT_GetRandPointInRoom Validating asset
+[2026.01.08-16.00.24:830][807]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.08-16.00.24:848][807]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.08-16.00.24:883][807]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IndoorArea_Greybox
+[2026.01.08-16.00.24:887][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004331s)
+[2026.01.08-16.00.24:887][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IndoorArea_Greybox.IndoorArea_Greybox to /Game/Maps/UEDPIE_0_IndoorArea_Greybox.IndoorArea_Greybox (0.004384s)
+[2026.01.08-16.00.24:905][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.01.08-16.00.24:909][807]LogChaosDD: Creating Chaos Debug Draw Scene for world IndoorArea_Greybox
+[2026.01.08-16.00.24:910][807]LogPlayLevel: PIE: World Init took: (0.001757s)
+[2026.01.08-16.00.24:911][807]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2026.01.08-16.00.24:911][807]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.08-16.00.24:911][807]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.08-16.00.24:911][807]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.08-16.00.24:911][807]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.08-16.00.24:911][807]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.01.08-16.00.24:911][807]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.08-16.00.24:911][807]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.01.08-16.00.24:911][807]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.08-16.00.24:911][807]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.08-16.00.24:911][807]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.08-16.00.24:912][807]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.08-16.00.24:915][807]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.08-16.00.24:954][807]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH520)
+[2026.01.08-16.00.24:954][807]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.08-16.00.24:954][807]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.08-16.00.24:954][807]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.08-16.00.24:955][807]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2026.01.08-16.00.24:955][807]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2026.01.08-16.00.24:958][807]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2026.01.08-16.00.24:958][807]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2026.01.08-16.00.24:958][807]LogInit: FAudioDevice initialized with ID 19.
+[2026.01.08-16.00.24:958][807]LogAudio: Display: Audio Device (ID: 19) registered with world 'IndoorArea_Greybox'.
+[2026.01.08-16.00.24:958][807]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2026.01.08-16.00.24:967][807]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.08-16.00.24:970][807]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IndoorArea_Greybox.IndoorArea_Greybox up for play (max tick rate 60) at 2026.01.08-16.00.24
+[2026.01.08-16.00.24:971][807]LogWorld: Bringing up level for play took: 0.003615
+[2026.01.08-16.00.24:973][807]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2026.01.08-16.00.24:980][807]PIE: Server logged in
+[2026.01.08-16.00.24:982][807]PIE: Play in editor total start time 0.143 seconds.
+[2026.01.08-16.00.24:996][808]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room2
+[2026.01.08-16.00.24:996][808]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-16.00.35:433][428]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room1
+[2026.01.08-16.00.35:433][428]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-16.00.57:317][741]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room2
+[2026.01.08-16.00.57:317][741]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-16.01.04:984][201]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room6
+[2026.01.08-16.01.04:985][201]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-16.01.11:885][614]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room6
+[2026.01.08-16.01.11:885][614]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-16.01.22:523][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.08-16.01.22:523][250]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IndoorArea_Greybox
+[2026.01.08-16.01.22:524][250]LogWorld: UWorld::CleanupWorld for IndoorArea_Greybox, bSessionEnded=true, bCleanupResources=true
+[2026.01.08-16.01.22:525][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-16.01.22:530][250]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.08-16.01.22:533][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-16.01.22:555][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.08-16.01.22:556][250]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2026.01.08-16.01.22:556][250]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2026.01.08-16.01.22:559][250]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2026.01.08-16.01.22:572][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.01.08-16.01.22:643][251]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2026.01.08-16.01.26:050][453]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.08-16.01.26:068][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.08-16.01.26:068][453]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IndoorArea_Greybox
+[2026.01.08-16.01.26:073][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005109s)
+[2026.01.08-16.01.26:073][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IndoorArea_Greybox.IndoorArea_Greybox to /Game/Maps/UEDPIE_0_IndoorArea_Greybox.IndoorArea_Greybox (0.005156s)
+[2026.01.08-16.01.26:095][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.01.08-16.01.26:100][453]LogChaosDD: Creating Chaos Debug Draw Scene for world IndoorArea_Greybox
+[2026.01.08-16.01.26:102][453]LogPlayLevel: PIE: World Init took: (0.001825s)
+[2026.01.08-16.01.26:102][453]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2026.01.08-16.01.26:102][453]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.08-16.01.26:102][453]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.08-16.01.26:102][453]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.08-16.01.26:102][453]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.08-16.01.26:102][453]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.01.08-16.01.26:102][453]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.08-16.01.26:102][453]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.01.08-16.01.26:102][453]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.08-16.01.26:102][453]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.08-16.01.26:102][453]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.08-16.01.26:102][453]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.08-16.01.26:105][453]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.08-16.01.26:142][453]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH520)
+[2026.01.08-16.01.26:142][453]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.08-16.01.26:142][453]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.08-16.01.26:142][453]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.08-16.01.26:144][453]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2026.01.08-16.01.26:144][453]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2026.01.08-16.01.26:147][453]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2026.01.08-16.01.26:147][453]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2026.01.08-16.01.26:147][453]LogInit: FAudioDevice initialized with ID 20.
+[2026.01.08-16.01.26:147][453]LogAudio: Display: Audio Device (ID: 20) registered with world 'IndoorArea_Greybox'.
+[2026.01.08-16.01.26:147][453]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2026.01.08-16.01.26:151][453]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.08-16.01.26:154][453]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IndoorArea_Greybox.IndoorArea_Greybox up for play (max tick rate 60) at 2026.01.08-16.01.26
+[2026.01.08-16.01.26:155][453]LogWorld: Bringing up level for play took: 0.003573
+[2026.01.08-16.01.26:158][453]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2026.01.08-16.01.26:164][453]PIE: Server logged in
+[2026.01.08-16.01.26:166][453]PIE: Play in editor total start time 0.107 seconds.
+[2026.01.08-16.01.26:180][454]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room2
+[2026.01.08-16.01.26:180][454]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-16.01.30:120][680]LogStreaming: Display: FlushAsyncLoading(540): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.08-16.01.37:789][134]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room2
+[2026.01.08-16.01.37:789][134]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-16.01.42:372][409]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room3
+[2026.01.08-16.01.42:372][409]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-16.02.11:192][138]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room6
+[2026.01.08-16.02.11:192][138]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-16.02.15:537][398]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room2
+[2026.01.08-16.02.15:537][398]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-16.02.36:890][679]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room6
+[2026.01.08-16.02.36:890][679]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-16.02.53:051][648]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room4
+[2026.01.08-16.02.53:051][648]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-16.03.01:115][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.08-16.03.01:115][129]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IndoorArea_Greybox
+[2026.01.08-16.03.01:115][129]LogWorld: UWorld::CleanupWorld for IndoorArea_Greybox, bSessionEnded=true, bCleanupResources=true
+[2026.01.08-16.03.01:116][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-16.03.01:122][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.08-16.03.01:126][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-16.03.01:148][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.08-16.03.01:148][129]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2026.01.08-16.03.01:148][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2026.01.08-16.03.01:151][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2026.01.08-16.03.01:177][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.01.08-16.03.01:255][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-16.03.01:406][130]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2026.01.08-16.03.01:415][130]LogSlate: Took 0.007750 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.01.08-16.03.01:477][130]LogSlate: Took 0.000457 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.01.08-16.03.04:598][298]Cmd: SELECT NONE
+[2026.01.08-16.03.05:294][336]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-16.03.05:383][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.01.08-16.03.05:407][336]LogSavePackage: Moving output files for package: /Game/Maps/IndoorArea_Greybox
+[2026.01.08-16.03.05:408][336]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/IndoorArea_GreyboxF9AEC66844D198C1D4C862B74098AB0B.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/IndoorArea_Greybox.umap'
+[2026.01.08-16.03.05:423][336]LogFileHelpers: Saving map 'IndoorArea_Greybox' took 0.092
+[2026.01.08-16.03.05:449][336]LogFileHelpers: InternalPromptForCheckoutAndSave took 155.296 ms (total: 5.93 sec)
+[2026.01.08-16.03.05:491][336]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-16.03.05:491][336]LogContentValidation: Enabled validators:
+[2026.01.08-16.03.05:491][336]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-16.03.05:491][336]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-16.03.05:491][336]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-16.03.05:491][336]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-16.03.05:491][336]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-16.03.05:491][336]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-16.03.05:492][336]AssetCheck: /Game/Maps/IndoorArea_Greybox Validating asset
+[2026.01.08-16.03.20:980][128]LogSlate: Took 0.008360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.01.08-16.03.23:552][259]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-16.03.23:636][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.01.08-16.03.23:658][259]LogSavePackage: Moving output files for package: /Game/Maps/IndoorArea_Greybox
+[2026.01.08-16.03.23:659][259]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/IndoorArea_GreyboxE1470C464E8298390934A49854DAA620.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/IndoorArea_Greybox.umap'
+[2026.01.08-16.03.23:674][259]LogFileHelpers: Saving map 'IndoorArea_Greybox' took 0.085
+[2026.01.08-16.03.23:698][259]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.776 ms (total: 6.07 sec)
+[2026.01.08-16.03.23:737][259]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-16.03.23:738][259]LogContentValidation: Enabled validators:
+[2026.01.08-16.03.23:738][259]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-16.03.23:738][259]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-16.03.23:738][259]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-16.03.23:738][259]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-16.03.23:738][259]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-16.03.23:738][259]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-16.03.23:738][259]AssetCheck: /Game/Maps/IndoorArea_Greybox Validating asset
+[2026.01.08-16.03.54:823][970]LogSlate: Took 0.010687 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.01.08-16.03.54:830][970]LogSlate: Took 0.006676 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2026.01.08-16.04.03:701][491]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-16.04.03:735][491]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/BT_Advanced] ([1] browsable assets)...
+[2026.01.08-16.04.03:735][491]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/BT_Advanced]
+[2026.01.08-16.04.03:735][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Trees/BT_Advanced" FILE="../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset" SILENT=true
+[2026.01.08-16.04.03:742][491]LogSavePackage: Moving output files for package: /Game/AI/Trees/BT_Advanced
+[2026.01.08-16.04.03:743][491]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BT_AdvancedE06CC0804F36235D25D5988669A1C38A.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset'
+[2026.01.08-16.04.03:758][491]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.021 ms (total: 6.13 sec)
+[2026.01.08-16.04.03:797][491]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-16.04.03:797][491]LogContentValidation: Enabled validators:
+[2026.01.08-16.04.03:797][491]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-16.04.03:797][491]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-16.04.03:797][491]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-16.04.03:797][491]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-16.04.03:797][491]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-16.04.03:797][491]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-16.04.03:797][491]AssetCheck: /Game/AI/Trees/BT_Advanced Validating asset
+[2026.01.08-16.05.34:426][658]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14198.517578
+[2026.01.08-16.05.35:427][661]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-16.05.35:427][661]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14199.185547, Update Interval: 339.885254
+[2026.01.08-16.05.49:959][432]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 59e...e56
+[2026.01.08-16.05.49:959][432]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.553e+07
+[2026.01.08-16.05.50:141][443]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 59e...e56 Access[Expires: 2026.01.08-18.05.49 Remaining: 7200.50] Refresh[Expires: 2026-07-07T11:15:56.325Z Remaining: 15534607.32] State: Valid
+[2026.01.08-16.06.28:436][724]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-16.06.28:464][724]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/BT_Advanced] ([1] browsable assets)...
+[2026.01.08-16.06.28:464][724]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/BT_Advanced]
+[2026.01.08-16.06.28:464][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Trees/BT_Advanced" FILE="../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset" SILENT=true
+[2026.01.08-16.06.28:470][724]LogSavePackage: Moving output files for package: /Game/AI/Trees/BT_Advanced
+[2026.01.08-16.06.28:471][724]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BT_AdvancedDE3F59054A1E479A686AF5815A5E26BA.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset'
+[2026.01.08-16.06.28:485][724]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.219 ms (total: 6.18 sec)
+[2026.01.08-16.06.28:526][724]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-16.06.28:526][724]LogContentValidation: Enabled validators:
+[2026.01.08-16.06.28:526][724]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-16.06.28:526][724]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-16.06.28:526][724]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-16.06.28:526][724]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-16.06.28:526][724]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-16.06.28:526][724]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-16.06.28:526][724]AssetCheck: /Game/AI/Trees/BT_Advanced Validating asset
+[2026.01.08-16.07.21:064][860]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-16.07.21:100][860]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/BT_Advanced] ([1] browsable assets)...
+[2026.01.08-16.07.21:100][860]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/BT_Advanced]
+[2026.01.08-16.07.21:100][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Trees/BT_Advanced" FILE="../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset" SILENT=true
+[2026.01.08-16.07.21:106][860]LogSavePackage: Moving output files for package: /Game/AI/Trees/BT_Advanced
+[2026.01.08-16.07.21:107][860]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BT_AdvancedEF17004F4AE9CBB7EB9574914D754008.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset'
+[2026.01.08-16.07.21:121][860]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.304 ms (total: 6.24 sec)
+[2026.01.08-16.07.21:163][860]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-16.07.21:163][860]LogContentValidation: Enabled validators:
+[2026.01.08-16.07.21:163][860]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-16.07.21:164][860]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-16.07.21:164][860]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-16.07.21:164][860]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-16.07.21:164][860]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-16.07.21:164][860]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-16.07.21:164][860]AssetCheck: /Game/AI/Trees/BT_Advanced Validating asset
+[2026.01.08-16.08.08:247][668]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-16.08.08:289][668]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/BT_Advanced] ([1] browsable assets)...
+[2026.01.08-16.08.08:289][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/BT_Advanced]
+[2026.01.08-16.08.08:289][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Trees/BT_Advanced" FILE="../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset" SILENT=true
+[2026.01.08-16.08.08:295][668]LogSavePackage: Moving output files for package: /Game/AI/Trees/BT_Advanced
+[2026.01.08-16.08.08:296][668]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BT_Advanced2D50C428467A8A06E321E3878FF02E2A.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset'
+[2026.01.08-16.08.08:310][668]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.732 ms (total: 6.30 sec)
+[2026.01.08-16.08.08:351][668]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-16.08.08:352][668]LogContentValidation: Enabled validators:
+[2026.01.08-16.08.08:352][668]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-16.08.08:352][668]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-16.08.08:352][668]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-16.08.08:352][668]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-16.08.08:352][668]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-16.08.08:352][668]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-16.08.08:352][668]AssetCheck: /Game/AI/Trees/BT_Advanced Validating asset
+[2026.01.08-16.08.31:605][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-16.08.31:644][ 54]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/BT_Advanced] ([1] browsable assets)...
+[2026.01.08-16.08.31:644][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/BT_Advanced]
+[2026.01.08-16.08.31:644][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Trees/BT_Advanced" FILE="../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset" SILENT=true
+[2026.01.08-16.08.31:651][ 54]LogSavePackage: Moving output files for package: /Game/AI/Trees/BT_Advanced
+[2026.01.08-16.08.31:651][ 54]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BT_Advanced1E7517F7404B1F7EDAF747BB38FDE4FC.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset'
+[2026.01.08-16.08.31:664][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.317 ms (total: 6.36 sec)
+[2026.01.08-16.08.31:704][ 54]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-16.08.31:705][ 54]LogContentValidation: Enabled validators:
+[2026.01.08-16.08.31:705][ 54]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-16.08.31:705][ 54]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-16.08.31:705][ 54]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-16.08.31:705][ 54]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-16.08.31:705][ 54]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-16.08.31:705][ 54]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-16.08.31:705][ 54]AssetCheck: /Game/AI/Trees/BT_Advanced Validating asset
+[2026.01.08-16.10.29:711][685]LogDerivedDataCache: C:/Users/landy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.08-16.10.52:839][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-16.10.52:875][ 71]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/BT_Advanced] ([1] browsable assets)...
+[2026.01.08-16.10.52:876][ 71]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/BT_Advanced]
+[2026.01.08-16.10.52:876][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Trees/BT_Advanced" FILE="../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset" SILENT=true
+[2026.01.08-16.10.52:883][ 71]LogSavePackage: Moving output files for package: /Game/AI/Trees/BT_Advanced
+[2026.01.08-16.10.52:885][ 71]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BT_Advanced681EAD9F481ED3FD3D3A1BA0EE2540AB.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset'
+[2026.01.08-16.10.52:897][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.434 ms (total: 6.42 sec)
+[2026.01.08-16.10.52:935][ 71]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-16.10.52:935][ 71]LogContentValidation: Enabled validators:
+[2026.01.08-16.10.52:935][ 71]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-16.10.52:935][ 71]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-16.10.52:935][ 71]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-16.10.52:935][ 71]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-16.10.52:935][ 71]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-16.10.52:935][ 71]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-16.10.52:935][ 71]AssetCheck: /Game/AI/Trees/BT_Advanced Validating asset
+[2026.01.08-16.11.12:170][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-16.11.12:203][221]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/BT_Advanced] ([1] browsable assets)...
+[2026.01.08-16.11.12:203][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/BT_Advanced]
+[2026.01.08-16.11.12:203][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Trees/BT_Advanced" FILE="../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset" SILENT=true
+[2026.01.08-16.11.12:210][221]LogSavePackage: Moving output files for package: /Game/AI/Trees/BT_Advanced
+[2026.01.08-16.11.12:211][221]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BT_AdvancedE00D44E84A239285D411EDB6BD79D3CC.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset'
+[2026.01.08-16.11.12:229][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.715 ms (total: 6.47 sec)
+[2026.01.08-16.11.12:269][221]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-16.11.12:269][221]LogContentValidation: Enabled validators:
+[2026.01.08-16.11.12:269][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-16.11.12:269][221]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-16.11.12:269][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-16.11.12:269][221]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-16.11.12:269][221]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-16.11.12:269][221]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-16.11.12:269][221]AssetCheck: /Game/AI/Trees/BT_Advanced Validating asset
+[2026.01.08-16.11.44:229][857]LogSlate: Window 'Save Asset As' being destroyed
+[2026.01.08-16.11.44:263][857]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Trees/Tasks/BTT_SetHuntSearchRegion.BTT_SetHuntSearchRegion
+[2026.01.08-16.11.44:264][857]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.01.08-16.11.44:371][857]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/AI/Trees/Tasks/BTT_SetHuntSearchRegion.
+[2026.01.08-16.12.09:126][468]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14593.258789
+[2026.01.08-16.12.10:126][471]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-16.12.10:126][471]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14593.923828, Update Interval: 340.048218
+[2026.01.08-16.13.23:943][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.01.08-16.13.23:946][692]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/IndoorArea_Greybox' took 0.090
+[2026.01.08-16.13.23:947][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_SetHuntSearchRegion] ([2] browsable assets)...
+[2026.01.08-16.13.23:947][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_SetHuntSearchRegion]
+[2026.01.08-16.13.23:949][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/Trees/Tasks/BTT_SetHuntSearchRegion_Auto6
+[2026.01.08-16.13.23:949][692]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_SetHuntSearchRegion_Auto60AB3B7CE4336DF8200D15D99292D5286.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/Autosaves/Game/AI/Trees/Tasks/BTT_SetHuntSearchRegion_Auto6.uasset'
+[2026.01.08-16.13.23:951][692]LogFileHelpers: Auto-saving content packages took 0.004
+[2026.01.08-16.17.25:235][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.01.08-16.17.25:247][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-16.17.25:285][ 44]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_SetHuntSearchRegion] ([2] browsable assets)...
+[2026.01.08-16.17.25:285][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_SetHuntSearchRegion]
+[2026.01.08-16.17.25:287][ 44]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_SetHuntSearchRegion
+[2026.01.08-16.17.25:287][ 44]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_SetHuntSearchRegionDEFF65EB48F49DC46ECFE28B7E40D31C.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_SetHuntSearchRegion.uasset'
+[2026.01.08-16.17.25:289][ 44]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/Trees/Tasks/BTT_SetHuntSearchRegion.
+[2026.01.08-16.17.25:301][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.001 ms (total: 6.53 sec)
+[2026.01.08-16.17.25:338][ 44]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-16.17.25:339][ 44]LogContentValidation: Enabled validators:
+[2026.01.08-16.17.25:339][ 44]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-16.17.25:339][ 44]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-16.17.25:339][ 44]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-16.17.25:339][ 44]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-16.17.25:339][ 44]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-16.17.25:339][ 44]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-16.17.25:339][ 44]AssetCheck: /Game/AI/Trees/Tasks/BTT_SetHuntSearchRegion Validating asset
+[2026.01.08-16.18.33:432][816]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14977.579102
+[2026.01.08-16.18.34:434][819]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-16.18.34:434][819]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14978.247070, Update Interval: 352.774445
+[2026.01.08-16.23.18:440][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.01.08-16.23.18:458][971]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-16.23.18:492][971]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_SetHuntSearchRegion] ([2] browsable assets)...
+[2026.01.08-16.23.18:492][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_SetHuntSearchRegion]
+[2026.01.08-16.23.18:495][971]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_SetHuntSearchRegion
+[2026.01.08-16.23.18:497][971]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_SetHuntSearchRegion42ED6CE04E472AA020A68F8108DA6DCD.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_SetHuntSearchRegion.uasset'
+[2026.01.08-16.23.18:510][971]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.218 ms (total: 6.58 sec)
+[2026.01.08-16.23.18:544][971]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-16.23.18:544][971]LogContentValidation: Enabled validators:
+[2026.01.08-16.23.18:544][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-16.23.18:544][971]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-16.23.18:544][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-16.23.18:544][971]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-16.23.18:544][971]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-16.23.18:544][971]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-16.23.18:544][971]AssetCheck: /Game/AI/Trees/Tasks/BTT_SetHuntSearchRegion Validating asset
+[2026.01.08-16.23.20:908][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.01.08-16.23.20:929][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-16.23.20:963][101]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_SetHuntSearchRegion] ([2] browsable assets)...
+[2026.01.08-16.23.20:963][101]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_SetHuntSearchRegion]
+[2026.01.08-16.23.20:967][101]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_SetHuntSearchRegion
+[2026.01.08-16.23.20:967][101]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_SetHuntSearchRegion0F410AC74286CCF19F51E8A88DA34451.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_SetHuntSearchRegion.uasset'
+[2026.01.08-16.23.20:981][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.054 ms (total: 6.63 sec)
+[2026.01.08-16.23.21:058][101]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-16.23.21:058][101]LogContentValidation: Enabled validators:
+[2026.01.08-16.23.21:058][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-16.23.21:058][101]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-16.23.21:058][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-16.23.21:058][101]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-16.23.21:058][101]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-16.23.21:058][101]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-16.23.21:058][101]AssetCheck: /Game/AI/Trees/Tasks/BTT_SetHuntSearchRegion Validating asset
+[2026.01.08-16.23.27:608][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.01.08-16.23.27:631][464]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-16.23.27:666][464]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_SetHuntSearchRegion] ([2] browsable assets)...
+[2026.01.08-16.23.27:666][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_SetHuntSearchRegion]
+[2026.01.08-16.23.27:670][464]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_SetHuntSearchRegion
+[2026.01.08-16.23.27:671][464]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_SetHuntSearchRegion4AF2596E48B2110DA6FDE698126C4AE7.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_SetHuntSearchRegion.uasset'
+[2026.01.08-16.23.27:685][464]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.826 ms (total: 6.69 sec)
+[2026.01.08-16.23.27:722][464]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-16.23.27:722][464]LogContentValidation: Enabled validators:
+[2026.01.08-16.23.27:722][464]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-16.23.27:722][464]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-16.23.27:722][464]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-16.23.27:722][464]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-16.23.27:722][464]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-16.23.27:722][464]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-16.23.27:722][464]AssetCheck: /Game/AI/Trees/Tasks/BTT_SetHuntSearchRegion Validating asset
+[2026.01.08-16.23.49:205][710]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-16.23.49:243][710]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/BT_Advanced] ([1] browsable assets)...
+[2026.01.08-16.23.49:244][710]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/BT_Advanced]
+[2026.01.08-16.23.49:244][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Trees/BT_Advanced" FILE="../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset" SILENT=true
+[2026.01.08-16.23.49:250][710]LogSavePackage: Moving output files for package: /Game/AI/Trees/BT_Advanced
+[2026.01.08-16.23.49:253][710]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BT_AdvancedCE66D6524F761595CC4508939AD49DD8.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset'
+[2026.01.08-16.23.49:265][710]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.901 ms (total: 6.75 sec)
+[2026.01.08-16.23.49:304][710]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-16.23.49:304][710]LogContentValidation: Enabled validators:
+[2026.01.08-16.23.49:304][710]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-16.23.49:304][710]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-16.23.49:304][710]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-16.23.49:304][710]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-16.23.49:304][710]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-16.23.49:304][710]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-16.23.49:304][710]AssetCheck: /Game/AI/Trees/BT_Advanced Validating asset
+[2026.01.08-16.23.49:829][740]Cmd: ACTOR SELECT ALL
+[2026.01.08-16.23.50:715][784]Cmd: ACTOR SELECT ALL
+[2026.01.08-16.24.23:832][745]LogStreaming: Display: FlushAsyncLoading(541): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.08-16.24.38:448][610]LogStreaming: Display: FlushAsyncLoading(542): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.08-16.24.59:798][867]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-16.24.59:839][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/BT_Advanced] ([1] browsable assets)...
+[2026.01.08-16.24.59:839][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/BT_Advanced]
+[2026.01.08-16.24.59:839][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Trees/BT_Advanced" FILE="../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset" SILENT=true
+[2026.01.08-16.24.59:846][867]LogSavePackage: Moving output files for package: /Game/AI/Trees/BT_Advanced
+[2026.01.08-16.24.59:847][867]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BT_Advanced03F3B9B4428B74AF314565A52D369085.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset'
+[2026.01.08-16.24.59:860][867]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.664 ms (total: 6.81 sec)
+[2026.01.08-16.24.59:899][867]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-16.24.59:899][867]LogContentValidation: Enabled validators:
+[2026.01.08-16.24.59:899][867]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-16.24.59:899][867]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-16.24.59:899][867]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-16.24.59:899][867]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-16.24.59:899][867]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-16.24.59:899][867]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-16.24.59:899][867]AssetCheck: /Game/AI/Trees/BT_Advanced Validating asset
+[2026.01.08-16.25.12:961][589]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-16.25.12:998][589]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/BT_Advanced] ([1] browsable assets)...
+[2026.01.08-16.25.12:998][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/BT_Advanced]
+[2026.01.08-16.25.12:998][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Trees/BT_Advanced" FILE="../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset" SILENT=true
+[2026.01.08-16.25.13:004][589]LogSavePackage: Moving output files for package: /Game/AI/Trees/BT_Advanced
+[2026.01.08-16.25.13:006][589]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BT_AdvancedA9ACA0EE4B6F8B4F235C41BF4D39A6BB.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset'
+[2026.01.08-16.25.13:019][589]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.807 ms (total: 6.87 sec)
+[2026.01.08-16.25.13:060][589]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-16.25.13:060][589]LogContentValidation: Enabled validators:
+[2026.01.08-16.25.13:060][589]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-16.25.13:060][589]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-16.25.13:060][589]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-16.25.13:060][589]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-16.25.13:060][589]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-16.25.13:061][589]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-16.25.13:061][589]AssetCheck: /Game/AI/Trees/BT_Advanced Validating asset
+[2026.01.08-16.25.25:840][354]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15389.955078
+[2026.01.08-16.25.26:155][373]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-16.25.26:155][373]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15390.255859, Update Interval: 311.631226
+[2026.01.08-16.25.56:750][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.01.08-16.25.56:755][860]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/IndoorArea_Greybox' took 0.090
+[2026.01.08-16.25.56:755][860]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/BT_Advanced] ([1] browsable assets)...
+[2026.01.08-16.25.56:755][860]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/BT_Advanced]
+[2026.01.08-16.25.56:762][860]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/Trees/BT_Advanced_Auto7
+[2026.01.08-16.25.56:762][860]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BT_Advanced_Auto7E122DE7F4EFAD87545636FA08590DB63.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/Autosaves/Game/AI/Trees/BT_Advanced_Auto7.uasset'
+[2026.01.08-16.25.56:763][860]LogFileHelpers: Auto-saving content packages took 0.008
+[2026.01.08-16.26.00:203][ 64]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.08-16.26.00:212][ 64]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.08-16.26.06:722][446]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.08-16.26.06:728][446]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.08-16.26.12:236][771]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.08-16.26.12:244][771]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.08-16.26.42:878][404]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-16.26.42:905][404]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/BT_Advanced] ([1] browsable assets)...
+[2026.01.08-16.26.42:905][404]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/BT_Advanced]
+[2026.01.08-16.26.42:905][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Trees/BT_Advanced" FILE="../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset" SILENT=true
+[2026.01.08-16.26.42:911][404]LogSavePackage: Moving output files for package: /Game/AI/Trees/BT_Advanced
+[2026.01.08-16.26.42:913][404]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BT_Advanced63D977DF4CE0E90735C080A10EB058C2.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset'
+[2026.01.08-16.26.42:927][404]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.897 ms (total: 6.91 sec)
+[2026.01.08-16.26.42:965][404]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-16.26.42:965][404]LogContentValidation: Enabled validators:
+[2026.01.08-16.26.42:965][404]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-16.26.42:965][404]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-16.26.42:965][404]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-16.26.42:965][404]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-16.26.42:965][404]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-16.26.42:965][404]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-16.26.42:966][404]AssetCheck: /Game/AI/Trees/BT_Advanced Validating asset
+[2026.01.08-16.27.59:492][557]Cmd: SELECT NONE
+[2026.01.08-16.28.01:475][675]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.08-16.28.01:498][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.08-16.28.01:524][675]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IndoorArea_Greybox
+[2026.01.08-16.28.01:529][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005526s)
+[2026.01.08-16.28.01:529][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IndoorArea_Greybox.IndoorArea_Greybox to /Game/Maps/UEDPIE_0_IndoorArea_Greybox.IndoorArea_Greybox (0.005589s)
+[2026.01.08-16.28.01:557][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.01.08-16.28.01:562][675]LogChaosDD: Creating Chaos Debug Draw Scene for world IndoorArea_Greybox
+[2026.01.08-16.28.01:564][675]LogPlayLevel: PIE: World Init took: (0.002381s)
+[2026.01.08-16.28.01:564][675]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2026.01.08-16.28.01:564][675]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.08-16.28.01:564][675]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.08-16.28.01:564][675]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.08-16.28.01:564][675]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.08-16.28.01:564][675]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.01.08-16.28.01:564][675]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.08-16.28.01:564][675]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.01.08-16.28.01:564][675]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.08-16.28.01:564][675]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.08-16.28.01:564][675]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.08-16.28.01:564][675]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.08-16.28.01:569][675]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.08-16.28.01:605][675]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH520)
+[2026.01.08-16.28.01:605][675]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.08-16.28.01:605][675]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.08-16.28.01:605][675]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.08-16.28.01:607][675]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2026.01.08-16.28.01:607][675]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2026.01.08-16.28.01:610][675]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2026.01.08-16.28.01:610][675]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2026.01.08-16.28.01:610][675]LogInit: FAudioDevice initialized with ID 21.
+[2026.01.08-16.28.01:610][675]LogAudio: Display: Audio Device (ID: 21) registered with world 'IndoorArea_Greybox'.
+[2026.01.08-16.28.01:610][675]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2026.01.08-16.28.01:614][675]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.08-16.28.01:617][675]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IndoorArea_Greybox.IndoorArea_Greybox up for play (max tick rate 60) at 2026.01.08-16.28.01
+[2026.01.08-16.28.01:619][675]LogWorld: Bringing up level for play took: 0.004470
+[2026.01.08-16.28.01:622][675]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2026.01.08-16.28.01:629][675]PIE: Server logged in
+[2026.01.08-16.28.01:631][675]PIE: Play in editor total start time 0.148 seconds.
+[2026.01.08-16.28.01:648][676]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_2] Room5
+[2026.01.08-16.28.01:648][676]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_2] got a point
+[2026.01.08-16.28.01:785][679]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room6
+[2026.01.08-16.28.01:785][679]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-16.28.05:633][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.08-16.28.05:634][905]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IndoorArea_Greybox
+[2026.01.08-16.28.05:634][905]LogWorld: UWorld::CleanupWorld for IndoorArea_Greybox, bSessionEnded=true, bCleanupResources=true
+[2026.01.08-16.28.05:635][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-16.28.05:640][905]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.08-16.28.05:643][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-16.28.05:662][905]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.08-16.28.05:664][905]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2026.01.08-16.28.05:664][905]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2026.01.08-16.28.05:666][905]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2026.01.08-16.28.05:671][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.08-16.28.05:674][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.01.08-16.28.05:747][906]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2026.01.08-16.28.18:800][626]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.08-16.28.18:818][626]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.08-16.28.18:818][626]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IndoorArea_Greybox
+[2026.01.08-16.28.18:823][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004868s)
+[2026.01.08-16.28.18:823][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IndoorArea_Greybox.IndoorArea_Greybox to /Game/Maps/UEDPIE_0_IndoorArea_Greybox.IndoorArea_Greybox (0.004914s)
+[2026.01.08-16.28.18:843][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.01.08-16.28.18:848][626]LogChaosDD: Creating Chaos Debug Draw Scene for world IndoorArea_Greybox
+[2026.01.08-16.28.18:849][626]LogPlayLevel: PIE: World Init took: (0.001653s)
+[2026.01.08-16.28.18:850][626]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2026.01.08-16.28.18:850][626]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.08-16.28.18:850][626]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.08-16.28.18:850][626]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.08-16.28.18:850][626]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.08-16.28.18:850][626]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.01.08-16.28.18:850][626]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.08-16.28.18:850][626]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.01.08-16.28.18:850][626]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.08-16.28.18:850][626]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.08-16.28.18:850][626]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.08-16.28.18:850][626]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.08-16.28.18:852][626]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.08-16.28.18:884][626]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH520)
+[2026.01.08-16.28.18:885][626]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.08-16.28.18:885][626]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.08-16.28.18:885][626]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.08-16.28.18:886][626]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2026.01.08-16.28.18:886][626]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2026.01.08-16.28.18:889][626]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2026.01.08-16.28.18:889][626]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2026.01.08-16.28.18:889][626]LogInit: FAudioDevice initialized with ID 22.
+[2026.01.08-16.28.18:889][626]LogAudio: Display: Audio Device (ID: 22) registered with world 'IndoorArea_Greybox'.
+[2026.01.08-16.28.18:889][626]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2026.01.08-16.28.18:892][626]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.08-16.28.18:896][626]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IndoorArea_Greybox.IndoorArea_Greybox up for play (max tick rate 60) at 2026.01.08-16.28.18
+[2026.01.08-16.28.18:898][626]LogWorld: Bringing up level for play took: 0.004086
+[2026.01.08-16.28.18:901][626]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2026.01.08-16.28.18:907][626]PIE: Server logged in
+[2026.01.08-16.28.18:909][626]PIE: Play in editor total start time 0.101 seconds.
+[2026.01.08-16.28.18:931][627]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_2] Room1
+[2026.01.08-16.28.18:931][627]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_2] got a point
+[2026.01.08-16.28.19:048][630]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room6
+[2026.01.08-16.28.19:048][630]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-16.28.25:894][ 37]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_2] Room5
+[2026.01.08-16.28.25:894][ 37]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_2] got a point
+[2026.01.08-16.28.25:944][ 40]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room5
+[2026.01.08-16.28.25:944][ 40]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-16.28.41:824][990]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_2] Room2
+[2026.01.08-16.28.41:824][990]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_2] got a point
+[2026.01.08-16.28.41:874][993]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room2
+[2026.01.08-16.28.41:874][993]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-16.28.46:413][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.08-16.28.46:413][263]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IndoorArea_Greybox
+[2026.01.08-16.28.46:414][263]LogWorld: UWorld::CleanupWorld for IndoorArea_Greybox, bSessionEnded=true, bCleanupResources=true
+[2026.01.08-16.28.46:414][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-16.28.46:422][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.08-16.28.46:426][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-16.28.46:452][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.08-16.28.46:452][263]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2026.01.08-16.28.46:452][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2026.01.08-16.28.46:456][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2026.01.08-16.28.46:466][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.01.08-16.28.46:547][264]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2026.01.08-16.29.11:906][750]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-16.29.11:939][750]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/BT_Advanced] ([1] browsable assets)...
+[2026.01.08-16.29.11:939][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/BT_Advanced]
+[2026.01.08-16.29.11:939][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Trees/BT_Advanced" FILE="../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset" SILENT=true
+[2026.01.08-16.29.11:947][750]LogSavePackage: Moving output files for package: /Game/AI/Trees/BT_Advanced
+[2026.01.08-16.29.11:949][750]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BT_Advanced03A83AEE49F293B679A841B323EC141F.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset'
+[2026.01.08-16.29.11:961][750]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.322 ms (total: 6.97 sec)
+[2026.01.08-16.29.11:997][750]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-16.29.11:997][750]LogContentValidation: Enabled validators:
+[2026.01.08-16.29.11:997][750]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-16.29.11:997][750]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-16.29.11:997][750]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-16.29.11:997][750]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-16.29.11:997][750]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-16.29.11:997][750]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-16.29.11:997][750]AssetCheck: /Game/AI/Trees/BT_Advanced Validating asset
+[2026.01.08-16.29.26:499][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.01.08-16.29.48:581][462]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-16.29.48:617][462]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/BT_Advanced] ([1] browsable assets)...
+[2026.01.08-16.29.48:617][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/BT_Advanced]
+[2026.01.08-16.29.48:617][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Trees/BT_Advanced" FILE="../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset" SILENT=true
+[2026.01.08-16.29.48:626][462]LogSavePackage: Moving output files for package: /Game/AI/Trees/BT_Advanced
+[2026.01.08-16.29.48:627][462]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BT_AdvancedE7B8A12F4A3D0F9AA35A0EBB071834D6.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset'
+[2026.01.08-16.29.48:643][462]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.351 ms (total: 7.03 sec)
+[2026.01.08-16.29.48:680][462]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-16.29.48:680][462]LogContentValidation: Enabled validators:
+[2026.01.08-16.29.48:680][462]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-16.29.48:680][462]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-16.29.48:680][462]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-16.29.48:680][462]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-16.29.48:680][462]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-16.29.48:680][462]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-16.29.48:680][462]AssetCheck: /Game/AI/Trees/BT_Advanced Validating asset
+[2026.01.08-16.29.50:879][592]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.08-16.29.50:897][592]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.08-16.29.50:898][592]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IndoorArea_Greybox
+[2026.01.08-16.29.50:904][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005424s)
+[2026.01.08-16.29.50:904][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IndoorArea_Greybox.IndoorArea_Greybox to /Game/Maps/UEDPIE_0_IndoorArea_Greybox.IndoorArea_Greybox (0.005474s)
+[2026.01.08-16.29.50:930][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.01.08-16.29.50:934][592]LogChaosDD: Creating Chaos Debug Draw Scene for world IndoorArea_Greybox
+[2026.01.08-16.29.50:936][592]LogPlayLevel: PIE: World Init took: (0.001759s)
+[2026.01.08-16.29.50:937][592]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2026.01.08-16.29.50:937][592]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.08-16.29.50:937][592]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.08-16.29.50:937][592]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.08-16.29.50:937][592]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.08-16.29.50:937][592]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.01.08-16.29.50:937][592]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.08-16.29.50:937][592]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.01.08-16.29.50:937][592]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.08-16.29.50:937][592]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.08-16.29.50:937][592]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.08-16.29.50:937][592]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.08-16.29.50:940][592]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.08-16.29.50:972][592]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH520)
+[2026.01.08-16.29.50:972][592]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.08-16.29.50:972][592]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.08-16.29.50:972][592]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.08-16.29.50:972][592]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2026.01.08-16.29.50:972][592]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2026.01.08-16.29.50:975][592]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2026.01.08-16.29.50:976][592]LogInit: FAudioDevice initialized with ID 23.
+[2026.01.08-16.29.50:976][592]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2026.01.08-16.29.50:976][592]LogAudio: Display: Audio Device (ID: 23) registered with world 'IndoorArea_Greybox'.
+[2026.01.08-16.29.50:976][592]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2026.01.08-16.29.50:982][592]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.08-16.29.50:986][592]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IndoorArea_Greybox.IndoorArea_Greybox up for play (max tick rate 60) at 2026.01.08-16.29.50
+[2026.01.08-16.29.50:987][592]LogWorld: Bringing up level for play took: 0.003741
+[2026.01.08-16.29.50:990][592]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2026.01.08-16.29.50:995][592]PIE: Server logged in
+[2026.01.08-16.29.50:997][592]PIE: Play in editor total start time 0.11 seconds.
+[2026.01.08-16.29.51:018][593]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_2] Room6
+[2026.01.08-16.29.51:018][593]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_2] got a point
+[2026.01.08-16.29.51:138][596]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room4
+[2026.01.08-16.29.51:138][596]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-16.30.08:101][611]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_2] Room6
+[2026.01.08-16.30.08:101][611]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_2] got a point
+[2026.01.08-16.30.08:151][614]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room4
+[2026.01.08-16.30.08:151][614]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-16.30.12:602][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.08-16.30.12:602][878]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IndoorArea_Greybox
+[2026.01.08-16.30.12:602][878]LogWorld: UWorld::CleanupWorld for IndoorArea_Greybox, bSessionEnded=true, bCleanupResources=true
+[2026.01.08-16.30.12:603][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-16.30.12:608][878]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.08-16.30.12:611][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-16.30.12:636][878]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.08-16.30.12:636][878]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2026.01.08-16.30.12:636][878]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2026.01.08-16.30.12:639][878]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2026.01.08-16.30.12:644][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.08-16.30.12:647][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.01.08-16.30.12:729][879]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2026.01.08-16.30.38:292][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.01.08-16.30.39:557][457]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-16.30.39:597][457]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/BT_Advanced] ([1] browsable assets)...
+[2026.01.08-16.30.39:597][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/BT_Advanced]
+[2026.01.08-16.30.39:597][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Trees/BT_Advanced" FILE="../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset" SILENT=true
+[2026.01.08-16.30.39:603][457]LogSavePackage: Moving output files for package: /Game/AI/Trees/BT_Advanced
+[2026.01.08-16.30.39:604][457]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BT_Advanced0CF08390416CC61C5BE760925C9E3FBE.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset'
+[2026.01.08-16.30.39:617][457]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.165 ms (total: 7.09 sec)
+[2026.01.08-16.30.39:657][457]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-16.30.39:657][457]LogContentValidation: Enabled validators:
+[2026.01.08-16.30.39:657][457]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-16.30.39:657][457]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-16.30.39:657][457]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-16.30.39:657][457]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-16.30.39:657][457]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-16.30.39:657][457]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-16.30.39:657][457]AssetCheck: /Game/AI/Trees/BT_Advanced Validating asset
+[2026.01.08-16.31.10:564][267]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-16.31.10:598][267]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/BT_Advanced] ([1] browsable assets)...
+[2026.01.08-16.31.10:598][267]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/BT_Advanced]
+[2026.01.08-16.31.10:598][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Trees/BT_Advanced" FILE="../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset" SILENT=true
+[2026.01.08-16.31.10:605][267]LogSavePackage: Moving output files for package: /Game/AI/Trees/BT_Advanced
+[2026.01.08-16.31.10:606][267]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BT_AdvancedA5570AC44DE2B658F3D7A9AF05A4402C.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset'
+[2026.01.08-16.31.10:620][267]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.415 ms (total: 7.15 sec)
+[2026.01.08-16.31.10:659][267]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-16.31.10:659][267]LogContentValidation: Enabled validators:
+[2026.01.08-16.31.10:659][267]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-16.31.10:659][267]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-16.31.10:659][267]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-16.31.10:659][267]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-16.31.10:659][267]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-16.31.10:659][267]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-16.31.10:659][267]AssetCheck: /Game/AI/Trees/BT_Advanced Validating asset
+[2026.01.08-16.31.13:916][461]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.08-16.31.13:935][461]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.08-16.31.13:975][461]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IndoorArea_Greybox
+[2026.01.08-16.31.13:980][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005307s)
+[2026.01.08-16.31.13:980][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IndoorArea_Greybox.IndoorArea_Greybox to /Game/Maps/UEDPIE_0_IndoorArea_Greybox.IndoorArea_Greybox (0.005366s)
+[2026.01.08-16.31.14:001][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.01.08-16.31.14:005][461]LogChaosDD: Creating Chaos Debug Draw Scene for world IndoorArea_Greybox
+[2026.01.08-16.31.14:007][461]LogPlayLevel: PIE: World Init took: (0.001891s)
+[2026.01.08-16.31.14:007][461]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2026.01.08-16.31.14:008][461]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.08-16.31.14:008][461]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.08-16.31.14:008][461]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.08-16.31.14:008][461]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.08-16.31.14:008][461]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.01.08-16.31.14:008][461]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.08-16.31.14:008][461]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.01.08-16.31.14:008][461]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.08-16.31.14:008][461]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.08-16.31.14:008][461]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.08-16.31.14:008][461]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.08-16.31.14:011][461]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.08-16.31.14:050][461]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH520)
+[2026.01.08-16.31.14:050][461]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.08-16.31.14:050][461]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.08-16.31.14:050][461]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.08-16.31.14:051][461]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2026.01.08-16.31.14:051][461]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2026.01.08-16.31.14:056][461]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2026.01.08-16.31.14:056][461]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2026.01.08-16.31.14:056][461]LogInit: FAudioDevice initialized with ID 24.
+[2026.01.08-16.31.14:056][461]LogAudio: Display: Audio Device (ID: 24) registered with world 'IndoorArea_Greybox'.
+[2026.01.08-16.31.14:056][461]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2026.01.08-16.31.14:061][461]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.08-16.31.14:064][461]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IndoorArea_Greybox.IndoorArea_Greybox up for play (max tick rate 60) at 2026.01.08-16.31.14
+[2026.01.08-16.31.14:065][461]LogWorld: Bringing up level for play took: 0.004486
+[2026.01.08-16.31.14:068][461]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2026.01.08-16.31.14:076][461]PIE: Server logged in
+[2026.01.08-16.31.14:077][461]PIE: Play in editor total start time 0.153 seconds.
+[2026.01.08-16.31.14:102][462]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_2] Room2
+[2026.01.08-16.31.14:102][462]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_2] got a point
+[2026.01.08-16.31.14:223][465]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room1
+[2026.01.08-16.31.14:223][465]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-16.31.17:136][636]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15741.241211
+[2026.01.08-16.31.17:302][646]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-16.31.17:302][646]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15741.392578, Update Interval: 314.068420
+[2026.01.08-16.31.28:343][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.08-16.31.28:343][303]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IndoorArea_Greybox
+[2026.01.08-16.31.28:343][303]LogWorld: UWorld::CleanupWorld for IndoorArea_Greybox, bSessionEnded=true, bCleanupResources=true
+[2026.01.08-16.31.28:344][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-16.31.28:350][303]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.08-16.31.28:354][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-16.31.28:377][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.08-16.31.28:378][303]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2026.01.08-16.31.28:378][303]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2026.01.08-16.31.28:381][303]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2026.01.08-16.31.28:390][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.01.08-16.31.28:477][304]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2026.01.08-16.31.42:048][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-16.31.42:088][ 99]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/BT_Advanced] ([1] browsable assets)...
+[2026.01.08-16.31.42:088][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/BT_Advanced]
+[2026.01.08-16.31.42:088][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Trees/BT_Advanced" FILE="../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset" SILENT=true
+[2026.01.08-16.31.42:095][ 99]LogSavePackage: Moving output files for package: /Game/AI/Trees/BT_Advanced
+[2026.01.08-16.31.42:096][ 99]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BT_Advanced16C4DCF64E930FA8CEA3A8A19D9436CA.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset'
+[2026.01.08-16.31.42:110][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.303 ms (total: 7.21 sec)
+[2026.01.08-16.31.42:155][ 99]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-16.31.42:155][ 99]LogContentValidation: Enabled validators:
+[2026.01.08-16.31.42:155][ 99]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-16.31.42:156][ 99]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-16.31.42:156][ 99]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-16.31.42:156][ 99]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-16.31.42:156][ 99]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-16.31.42:156][ 99]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-16.31.42:156][ 99]AssetCheck: /Game/AI/Trees/BT_Advanced Validating asset
+[2026.01.08-16.31.43:645][187]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.08-16.31.43:662][187]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.08-16.31.43:662][187]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IndoorArea_Greybox
+[2026.01.08-16.31.43:668][187]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004684s)
+[2026.01.08-16.31.43:668][187]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IndoorArea_Greybox.IndoorArea_Greybox to /Game/Maps/UEDPIE_0_IndoorArea_Greybox.IndoorArea_Greybox (0.004723s)
+[2026.01.08-16.31.43:692][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.01.08-16.31.43:696][187]LogChaosDD: Creating Chaos Debug Draw Scene for world IndoorArea_Greybox
+[2026.01.08-16.31.43:698][187]LogPlayLevel: PIE: World Init took: (0.001876s)
+[2026.01.08-16.31.43:699][187]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2026.01.08-16.31.43:699][187]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.08-16.31.43:699][187]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.08-16.31.43:699][187]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.08-16.31.43:699][187]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.08-16.31.43:699][187]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.01.08-16.31.43:699][187]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.08-16.31.43:699][187]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.01.08-16.31.43:699][187]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.08-16.31.43:699][187]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.08-16.31.43:699][187]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.08-16.31.43:699][187]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.08-16.31.43:701][187]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.08-16.31.43:738][187]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH520)
+[2026.01.08-16.31.43:738][187]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.08-16.31.43:739][187]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.08-16.31.43:739][187]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.08-16.31.43:739][187]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2026.01.08-16.31.43:739][187]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2026.01.08-16.31.43:744][187]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2026.01.08-16.31.43:744][187]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2026.01.08-16.31.43:744][187]LogInit: FAudioDevice initialized with ID 25.
+[2026.01.08-16.31.43:744][187]LogAudio: Display: Audio Device (ID: 25) registered with world 'IndoorArea_Greybox'.
+[2026.01.08-16.31.43:744][187]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2026.01.08-16.31.43:749][187]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.08-16.31.43:752][187]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IndoorArea_Greybox.IndoorArea_Greybox up for play (max tick rate 60) at 2026.01.08-16.31.43
+[2026.01.08-16.31.43:754][187]LogWorld: Bringing up level for play took: 0.004523
+[2026.01.08-16.31.43:757][187]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2026.01.08-16.31.43:764][187]PIE: Server logged in
+[2026.01.08-16.31.43:766][187]PIE: Play in editor total start time 0.112 seconds.
+[2026.01.08-16.31.43:789][188]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_2] Room1
+[2026.01.08-16.31.43:789][188]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_2] got a point
+[2026.01.08-16.31.59:597][124]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_2] Room2
+[2026.01.08-16.31.59:597][124]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_2] got a point
+[2026.01.08-16.31.59:648][127]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room3
+[2026.01.08-16.31.59:648][127]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-16.32.12:511][898]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_2] Room2
+[2026.01.08-16.32.12:511][898]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_2] got a point
+[2026.01.08-16.32.12:560][901]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room6
+[2026.01.08-16.32.12:560][901]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-16.32.19:061][291]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_2] Room2
+[2026.01.08-16.32.19:061][291]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_2] got a point
+[2026.01.08-16.32.19:111][294]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room2
+[2026.01.08-16.32.19:111][294]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-16.32.34:119][194]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_2] Room2
+[2026.01.08-16.32.34:119][194]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_2] got a point
+[2026.01.08-16.32.34:168][197]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] Room4
+[2026.01.08-16.32.34:169][197]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_1] got a point
+[2026.01.08-16.32.35:654][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.08-16.32.35:654][283]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IndoorArea_Greybox
+[2026.01.08-16.32.35:654][283]LogWorld: UWorld::CleanupWorld for IndoorArea_Greybox, bSessionEnded=true, bCleanupResources=true
+[2026.01.08-16.32.35:655][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-16.32.35:661][283]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.08-16.32.35:665][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-16.32.35:685][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.08-16.32.35:686][283]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2026.01.08-16.32.35:686][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2026.01.08-16.32.35:689][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2026.01.08-16.32.35:699][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.01.08-16.32.35:786][284]LogPlayLevel: Display: Destroying online subsystem :Context_41
