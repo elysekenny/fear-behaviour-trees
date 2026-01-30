@@ -8273,3 +8273,583 @@ Script Stack (0 frames) :
 [2026.01.30-12.00.31:394][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2026.01.30-12.00.31:398][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
 [2026.01.30-12.00.31:449][255]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2026.01.30-12.01.57:775][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.01.30-12.01.57:824][539]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-12.01.57:896][539]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Components/C_InformationTracker] ([2] browsable assets)...
+[2026.01.30-12.01.57:896][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Components/C_InformationTracker]
+[2026.01.30-12.01.57:920][539]LogSavePackage: Moving output files for package: /Game/AI/Components/C_InformationTracker
+[2026.01.30-12.01.57:921][539]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/C_InformationTrackerB50E7D3449CAAE917155A19F7684F736.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Components/C_InformationTracker.uasset'
+[2026.01.30-12.01.57:931][539]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.065 ms (total: 10.3 sec)
+[2026.01.30-12.01.57:970][539]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-12.01.57:970][539]LogContentValidation: Enabled validators:
+[2026.01.30-12.01.57:970][539]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-12.01.57:970][539]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-12.01.57:970][539]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-12.01.57:970][539]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-12.01.57:970][539]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-12.01.57:970][539]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-12.01.57:970][539]AssetCheck: /Game/AI/Components/C_InformationTracker Validating asset
+[2026.01.30-12.03.13:024][686]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/EnvironmentManagement/BP_RoomVolume.BP_RoomVolume
+[2026.01.30-12.03.13:024][686]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.01.30-12.03.38:694][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.01.30-12.03.38:714][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-12.03.38:785][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EnvironmentManagement/BP_RoomVolume] ([2] browsable assets)...
+[2026.01.30-12.03.38:785][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnvironmentManagement/BP_RoomVolume]
+[2026.01.30-12.03.38:792][ 98]LogSavePackage: Moving output files for package: /Game/EnvironmentManagement/BP_RoomVolume
+[2026.01.30-12.03.38:793][ 98]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BP_RoomVolume10799714400F763A7AA39CB7BD5AF012.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/EnvironmentManagement/BP_RoomVolume.uasset'
+[2026.01.30-12.03.38:803][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.586 ms (total: 10.4 sec)
+[2026.01.30-12.03.38:845][ 98]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-12.03.38:845][ 98]LogContentValidation: Enabled validators:
+[2026.01.30-12.03.38:845][ 98]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-12.03.38:845][ 98]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-12.03.38:845][ 98]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-12.03.38:845][ 98]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-12.03.38:845][ 98]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-12.03.38:845][ 98]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-12.03.38:845][ 98]AssetCheck: /Game/EnvironmentManagement/BP_RoomVolume Validating asset
+[2026.01.30-12.03.57:980][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.01.30-12.03.58:000][141]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-12.03.58:078][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EnvironmentManagement/BP_RoomVolume] ([2] browsable assets)...
+[2026.01.30-12.03.58:078][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnvironmentManagement/BP_RoomVolume]
+[2026.01.30-12.03.58:086][141]LogSavePackage: Moving output files for package: /Game/EnvironmentManagement/BP_RoomVolume
+[2026.01.30-12.03.58:086][141]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BP_RoomVolume4198E0C640F9D42A7296BB91D4721AE4.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/EnvironmentManagement/BP_RoomVolume.uasset'
+[2026.01.30-12.03.58:098][141]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.243 ms (total: 10.5 sec)
+[2026.01.30-12.03.58:143][141]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-12.03.58:143][141]LogContentValidation: Enabled validators:
+[2026.01.30-12.03.58:143][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-12.03.58:143][141]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-12.03.58:143][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-12.03.58:143][141]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-12.03.58:143][141]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-12.03.58:143][141]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-12.03.58:143][141]AssetCheck: /Game/EnvironmentManagement/BP_RoomVolume Validating asset
+[2026.01.30-12.04.09:775][790]LogStreaming: Display: FlushAsyncLoading(548): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.30-12.04.09:810][790]LogChaosDD: Creating Chaos Debug Draw Scene for world IndoorArea_SHOWCASE
+[2026.01.30-12.05.06:397][879]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4974.835938
+[2026.01.30-12.05.06:546][888]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.30-12.05.06:546][888]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4974.968262, Update Interval: 328.440796
+[2026.01.30-12.05.10:805][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.01.30-12.05.10:841][132]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-12.05.10:915][132]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EnvironmentManagement/BP_RoomVolume] ([2] browsable assets)...
+[2026.01.30-12.05.10:915][132]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnvironmentManagement/BP_RoomVolume]
+[2026.01.30-12.05.10:924][132]LogSavePackage: Moving output files for package: /Game/EnvironmentManagement/BP_RoomVolume
+[2026.01.30-12.05.10:924][132]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BP_RoomVolume2D02240C48EED243F844679ECD36C5C5.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/EnvironmentManagement/BP_RoomVolume.uasset'
+[2026.01.30-12.05.10:936][132]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.438 ms (total: 10.6 sec)
+[2026.01.30-12.05.10:980][132]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-12.05.10:980][132]LogContentValidation: Enabled validators:
+[2026.01.30-12.05.10:980][132]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-12.05.10:980][132]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-12.05.10:980][132]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-12.05.10:980][132]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-12.05.10:980][132]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-12.05.10:980][132]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-12.05.10:980][132]AssetCheck: /Game/EnvironmentManagement/BP_RoomVolume Validating asset
+[2026.01.30-12.06.29:122][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.01.30-12.06.29:161][435]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-12.06.29:282][435]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EnvironmentManagement/BP_RoomVolume] ([2] browsable assets)...
+[2026.01.30-12.06.29:282][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnvironmentManagement/BP_RoomVolume]
+[2026.01.30-12.06.29:289][435]LogSavePackage: Moving output files for package: /Game/EnvironmentManagement/BP_RoomVolume
+[2026.01.30-12.06.29:291][435]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BP_RoomVolume04EB70C94CAD34970F7FFCB1507EA121.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/EnvironmentManagement/BP_RoomVolume.uasset'
+[2026.01.30-12.06.29:306][435]LogFileHelpers: InternalPromptForCheckoutAndSave took 143.679 ms (total: 10.7 sec)
+[2026.01.30-12.06.29:348][435]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-12.06.29:348][435]LogContentValidation: Enabled validators:
+[2026.01.30-12.06.29:348][435]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-12.06.29:348][435]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-12.06.29:348][435]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-12.06.29:348][435]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-12.06.29:348][435]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-12.06.29:348][435]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-12.06.29:348][435]AssetCheck: /Game/EnvironmentManagement/BP_RoomVolume Validating asset
+[2026.01.30-12.07.02:926][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.01.30-12.07.03:012][272]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-12.07.03:084][272]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Components/C_InformationTracker] ([2] browsable assets)...
+[2026.01.30-12.07.03:084][272]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Components/C_InformationTracker]
+[2026.01.30-12.07.03:109][272]LogSavePackage: Moving output files for package: /Game/AI/Components/C_InformationTracker
+[2026.01.30-12.07.03:111][272]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/C_InformationTrackerD1F161A041A86BB5C5E4FD8BD1EF8452.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Components/C_InformationTracker.uasset'
+[2026.01.30-12.07.03:126][272]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.122 ms (total: 10.8 sec)
+[2026.01.30-12.07.03:168][272]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-12.07.03:168][272]LogContentValidation: Enabled validators:
+[2026.01.30-12.07.03:168][272]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-12.07.03:168][272]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-12.07.03:168][272]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-12.07.03:168][272]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-12.07.03:168][272]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-12.07.03:168][272]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-12.07.03:169][272]AssetCheck: /Game/AI/Components/C_InformationTracker Validating asset
+[2026.01.30-12.07.14:852][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.01.30-12.07.14:886][907]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-12.07.14:975][907]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Components/C_InformationTracker] ([2] browsable assets)...
+[2026.01.30-12.07.14:975][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Components/C_InformationTracker]
+[2026.01.30-12.07.14:999][907]LogSavePackage: Moving output files for package: /Game/AI/Components/C_InformationTracker
+[2026.01.30-12.07.15:000][907]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/C_InformationTracker188FBC4B4614FED9FD9CA98C2796D21F.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Components/C_InformationTracker.uasset'
+[2026.01.30-12.07.15:013][907]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.835 ms (total: 11.0 sec)
+[2026.01.30-12.07.15:055][907]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-12.07.15:055][907]LogContentValidation: Enabled validators:
+[2026.01.30-12.07.15:055][907]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-12.07.15:055][907]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-12.07.15:055][907]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-12.07.15:055][907]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-12.07.15:055][907]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-12.07.15:055][907]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-12.07.15:055][907]AssetCheck: /Game/AI/Components/C_InformationTracker Validating asset
+[2026.01.30-12.08.23:193][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.01.30-12.08.23:239][641]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-12.08.23:346][641]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Components/C_InformationTracker] ([2] browsable assets)...
+[2026.01.30-12.08.23:347][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Components/C_InformationTracker]
+[2026.01.30-12.08.23:372][641]LogSavePackage: Moving output files for package: /Game/AI/Components/C_InformationTracker
+[2026.01.30-12.08.23:373][641]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/C_InformationTracker9DDFAFA544F2C8EC504BFFA6161866DE.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Components/C_InformationTracker.uasset'
+[2026.01.30-12.08.23:384][641]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.907 ms (total: 11.1 sec)
+[2026.01.30-12.08.23:426][641]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-12.08.23:426][641]LogContentValidation: Enabled validators:
+[2026.01.30-12.08.23:426][641]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-12.08.23:426][641]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-12.08.23:426][641]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-12.08.23:426][641]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-12.08.23:426][641]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-12.08.23:426][641]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-12.08.23:426][641]AssetCheck: /Game/AI/Components/C_InformationTracker Validating asset
+[2026.01.30-12.08.36:736][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.01.30-12.08.36:789][363]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-12.08.36:867][363]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Components/C_InformationTracker] ([2] browsable assets)...
+[2026.01.30-12.08.36:867][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Components/C_InformationTracker]
+[2026.01.30-12.08.36:888][363]LogSavePackage: Moving output files for package: /Game/AI/Components/C_InformationTracker
+[2026.01.30-12.08.36:889][363]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/C_InformationTracker002694114B3B6AFAC8F854BC28A2D4B2.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Components/C_InformationTracker.uasset'
+[2026.01.30-12.08.36:899][363]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.655 ms (total: 11.2 sec)
+[2026.01.30-12.08.36:953][363]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-12.08.36:953][363]LogContentValidation: Enabled validators:
+[2026.01.30-12.08.36:953][363]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-12.08.36:954][363]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-12.08.36:954][363]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-12.08.36:954][363]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-12.08.36:954][363]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-12.08.36:954][363]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-12.08.36:954][363]AssetCheck: /Game/AI/Components/C_InformationTracker Validating asset
+[2026.01.30-12.08.37:867][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.01.30-12.08.37:899][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-12.08.37:972][410]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Action] ([2] browsable assets)...
+[2026.01.30-12.08.37:972][410]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Action]
+[2026.01.30-12.08.37:980][410]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Action
+[2026.01.30-12.08.37:982][410]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_DetermineProbability_ActionA754E64440E9AD55BC3DE5BC067CEC5C.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_DetermineProbability_Action.uasset'
+[2026.01.30-12.08.37:993][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.354 ms (total: 11.3 sec)
+[2026.01.30-12.08.38:038][410]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-12.08.38:038][410]LogContentValidation: Enabled validators:
+[2026.01.30-12.08.38:038][410]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-12.08.38:038][410]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-12.08.38:038][410]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-12.08.38:038][410]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-12.08.38:038][410]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-12.08.38:038][410]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-12.08.38:038][410]AssetCheck: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Action Validating asset
+[2026.01.30-12.08.48:318][977]LogEditorTransaction: Undo Move Node
+[2026.01.30-12.08.53:977][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.01.30-12.08.54:013][276]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-12.08.54:117][276]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Action] ([2] browsable assets)...
+[2026.01.30-12.08.54:117][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Action]
+[2026.01.30-12.08.54:124][276]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Action
+[2026.01.30-12.08.54:125][276]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_DetermineProbability_Action51A6468E4371C74FCC4BD8BFB2F678D2.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_DetermineProbability_Action.uasset'
+[2026.01.30-12.08.54:136][276]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.886 ms (total: 11.4 sec)
+[2026.01.30-12.08.54:184][276]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-12.08.54:184][276]LogContentValidation: Enabled validators:
+[2026.01.30-12.08.54:184][276]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-12.08.54:184][276]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-12.08.54:184][276]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-12.08.54:184][276]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-12.08.54:184][276]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-12.08.54:184][276]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-12.08.54:184][276]AssetCheck: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Action Validating asset
+[2026.01.30-12.09.00:327][496]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.30-12.09.01:483][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.01.30-12.09.01:516][553]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-12.09.01:583][553]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Action] ([2] browsable assets)...
+[2026.01.30-12.09.01:583][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Action]
+[2026.01.30-12.09.01:589][553]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Action
+[2026.01.30-12.09.01:590][553]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_DetermineProbability_Action44D0C6484227B6B7F868988CD94CDB8E.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_DetermineProbability_Action.uasset'
+[2026.01.30-12.09.01:601][553]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.213 ms (total: 11.5 sec)
+[2026.01.30-12.09.01:642][553]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-12.09.01:642][553]LogContentValidation: Enabled validators:
+[2026.01.30-12.09.01:642][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-12.09.01:642][553]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-12.09.01:642][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-12.09.01:642][553]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-12.09.01:642][553]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-12.09.01:642][553]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-12.09.01:642][553]AssetCheck: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Action Validating asset
+[2026.01.30-12.09.04:283][695]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.30-12.09.04:303][695]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.30-12.09.04:303][695]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IndoorArea_Greybox
+[2026.01.30-12.09.04:309][695]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005229s)
+[2026.01.30-12.09.04:309][695]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IndoorArea_Greybox.IndoorArea_Greybox to /Game/Maps/UEDPIE_0_IndoorArea_Greybox.IndoorArea_Greybox (0.005273s)
+[2026.01.30-12.09.04:335][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.01.30-12.09.04:338][695]LogChaosDD: Creating Chaos Debug Draw Scene for world IndoorArea_Greybox
+[2026.01.30-12.09.04:340][695]LogPlayLevel: PIE: World Init took: (0.001750s)
+[2026.01.30-12.09.04:341][695]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2026.01.30-12.09.04:341][695]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.30-12.09.04:341][695]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.30-12.09.04:341][695]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.30-12.09.04:341][695]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.30-12.09.04:341][695]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.01.30-12.09.04:341][695]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.30-12.09.04:341][695]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.01.30-12.09.04:341][695]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.30-12.09.04:341][695]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.30-12.09.04:341][695]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.30-12.09.04:341][695]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.30-12.09.04:343][695]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.30-12.09.04:378][695]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Realtek(R) Audio)
+[2026.01.30-12.09.04:378][695]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.30-12.09.04:378][695]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.30-12.09.04:378][695]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.30-12.09.04:379][695]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2026.01.30-12.09.04:379][695]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2026.01.30-12.09.04:382][695]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2026.01.30-12.09.04:382][695]LogInit: FAudioDevice initialized with ID 37.
+[2026.01.30-12.09.04:382][695]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2026.01.30-12.09.04:382][695]LogAudio: Display: Audio Device (ID: 37) registered with world 'IndoorArea_Greybox'.
+[2026.01.30-12.09.04:382][695]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2026.01.30-12.09.04:385][695]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.30-12.09.04:389][695]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IndoorArea_Greybox.IndoorArea_Greybox up for play (max tick rate 60) at 2026.01.30-12.09.04
+[2026.01.30-12.09.04:391][695]LogWorld: Bringing up level for play took: 0.004852
+[2026.01.30-12.09.04:394][695]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2026.01.30-12.09.04:399][695]LogBlueprintUserMessages: [InformationTracker] Room1 - to -Room2 = 0.5
+[2026.01.30-12.09.04:399][695]LogBlueprintUserMessages: [InformationTracker] Room1 - to -Room3 = 0.5
+[2026.01.30-12.09.04:399][695]LogBlueprintUserMessages: [InformationTracker] Room2 - to -Room1 = 0.333333
+[2026.01.30-12.09.04:399][695]LogBlueprintUserMessages: [InformationTracker] Room2 - to -Room5 = 0.333333
+[2026.01.30-12.09.04:399][695]LogBlueprintUserMessages: [InformationTracker] Room2 - to -Room6 = 0.333333
+[2026.01.30-12.09.04:399][695]LogBlueprintUserMessages: [InformationTracker] Room3 - to -Room1 = 0.5
+[2026.01.30-12.09.04:399][695]LogBlueprintUserMessages: [InformationTracker] Room3 - to -Room4 = 0.5
+[2026.01.30-12.09.04:399][695]LogBlueprintUserMessages: [InformationTracker] Room4 - to -Room3 = 1.0
+[2026.01.30-12.09.04:399][695]LogBlueprintUserMessages: [InformationTracker] Room5 - to -Room2 = 1.0
+[2026.01.30-12.09.04:399][695]LogBlueprintUserMessages: [InformationTracker] Room6 - to -Room2 = 1.0
+[2026.01.30-12.09.04:400][695]PIE: Server logged in
+[2026.01.30-12.09.04:402][695]PIE: Play in editor total start time 0.109 seconds.
+[2026.01.30-12.09.04:403][695]LogBlueprintUserMessages: [BTT_DetermineProbability_Action_C_0] In room: None
+[2026.01.30-12.09.06:306][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.30-12.09.06:306][800]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IndoorArea_Greybox
+[2026.01.30-12.09.06:307][800]LogWorld: UWorld::CleanupWorld for IndoorArea_Greybox, bSessionEnded=true, bCleanupResources=true
+[2026.01.30-12.09.06:308][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.30-12.09.06:311][800]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.30-12.09.06:314][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.30-12.09.06:336][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.30-12.09.06:338][800]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2026.01.30-12.09.06:338][800]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2026.01.30-12.09.06:340][800]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2026.01.30-12.09.06:349][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.01.30-12.09.06:411][801]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2026.01.30-12.09.24:526][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.01.30-12.09.24:606][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-12.09.24:679][813]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Components/C_InformationTracker] ([2] browsable assets)...
+[2026.01.30-12.09.24:679][813]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Components/C_InformationTracker]
+[2026.01.30-12.09.24:698][813]LogSavePackage: Moving output files for package: /Game/AI/Components/C_InformationTracker
+[2026.01.30-12.09.24:699][813]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/C_InformationTracker581FA4AC4CBDB5A03C593D9DA7EB3EF7.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Components/C_InformationTracker.uasset'
+[2026.01.30-12.09.24:709][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.929 ms (total: 11.6 sec)
+[2026.01.30-12.09.24:752][813]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-12.09.24:752][813]LogContentValidation: Enabled validators:
+[2026.01.30-12.09.24:752][813]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-12.09.24:752][813]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-12.09.24:752][813]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-12.09.24:752][813]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-12.09.24:752][813]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-12.09.24:752][813]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-12.09.24:752][813]AssetCheck: /Game/AI/Components/C_InformationTracker Validating asset
+[2026.01.30-12.09.28:970][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.01.30-12.09.29:009][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-12.09.29:127][ 43]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Components/C_InformationTracker] ([2] browsable assets)...
+[2026.01.30-12.09.29:127][ 43]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Components/C_InformationTracker]
+[2026.01.30-12.09.29:156][ 43]LogSavePackage: Moving output files for package: /Game/AI/Components/C_InformationTracker
+[2026.01.30-12.09.29:158][ 43]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/C_InformationTracker09BBD6284DF8A323A848FBA8E388F186.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Components/C_InformationTracker.uasset'
+[2026.01.30-12.09.29:171][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave took 161.264 ms (total: 11.8 sec)
+[2026.01.30-12.09.29:219][ 43]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-12.09.29:219][ 43]LogContentValidation: Enabled validators:
+[2026.01.30-12.09.29:219][ 43]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-12.09.29:219][ 43]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-12.09.29:219][ 43]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-12.09.29:219][ 43]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-12.09.29:219][ 43]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-12.09.29:219][ 43]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-12.09.29:219][ 43]AssetCheck: /Game/AI/Components/C_InformationTracker Validating asset
+[2026.01.30-12.10.23:485][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.01.30-12.10.23:529][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-12.10.23:606][ 10]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EnvironmentManagement/BP_RoomVolume] ([2] browsable assets)...
+[2026.01.30-12.10.23:606][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnvironmentManagement/BP_RoomVolume]
+[2026.01.30-12.10.23:616][ 10]LogSavePackage: Moving output files for package: /Game/EnvironmentManagement/BP_RoomVolume
+[2026.01.30-12.10.23:617][ 10]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BP_RoomVolumeE10855D44B705C5D80B549B9D367AB52.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/EnvironmentManagement/BP_RoomVolume.uasset'
+[2026.01.30-12.10.23:631][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.749 ms (total: 11.9 sec)
+[2026.01.30-12.10.23:677][ 10]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-12.10.23:677][ 10]LogContentValidation: Enabled validators:
+[2026.01.30-12.10.23:677][ 10]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-12.10.23:677][ 10]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-12.10.23:677][ 10]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-12.10.23:677][ 10]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-12.10.23:677][ 10]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-12.10.23:677][ 10]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-12.10.23:677][ 10]AssetCheck: /Game/EnvironmentManagement/BP_RoomVolume Validating asset
+[2026.01.30-12.11.32:576][786]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5361.001953
+[2026.01.30-12.11.32:757][796]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.30-12.11.32:757][796]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5361.165039, Update Interval: 352.182983
+[2026.01.30-12.12.41:634][117]LogSlate: Window 'Delete Function' being destroyed
+[2026.01.30-12.13.04:468][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.01.30-12.13.04:526][389]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-12.13.04:603][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Components/C_InformationTracker] ([2] browsable assets)...
+[2026.01.30-12.13.04:603][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Components/C_InformationTracker]
+[2026.01.30-12.13.04:627][389]LogSavePackage: Moving output files for package: /Game/AI/Components/C_InformationTracker
+[2026.01.30-12.13.04:629][389]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/C_InformationTrackerF5E089704D31471BD40C05AFD4B3A446.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Components/C_InformationTracker.uasset'
+[2026.01.30-12.13.04:642][389]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.478 ms (total: 12.0 sec)
+[2026.01.30-12.13.04:687][389]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-12.13.04:687][389]LogContentValidation: Enabled validators:
+[2026.01.30-12.13.04:687][389]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-12.13.04:687][389]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-12.13.04:687][389]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-12.13.04:687][389]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-12.13.04:687][389]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-12.13.04:687][389]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-12.13.04:687][389]AssetCheck: /Game/AI/Components/C_InformationTracker Validating asset
+[2026.01.30-12.13.11:083][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.01.30-12.13.11:125][736]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-12.13.11:216][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Components/C_InformationTracker] ([2] browsable assets)...
+[2026.01.30-12.13.11:216][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Components/C_InformationTracker]
+[2026.01.30-12.13.11:241][736]LogSavePackage: Moving output files for package: /Game/AI/Components/C_InformationTracker
+[2026.01.30-12.13.11:242][736]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/C_InformationTracker2A60A9E942B50B9C5DB7CAB91474D5E8.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Components/C_InformationTracker.uasset'
+[2026.01.30-12.13.11:256][736]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.955 ms (total: 12.1 sec)
+[2026.01.30-12.13.11:296][736]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-12.13.11:297][736]LogContentValidation: Enabled validators:
+[2026.01.30-12.13.11:297][736]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-12.13.11:297][736]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-12.13.11:297][736]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-12.13.11:297][736]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-12.13.11:297][736]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-12.13.11:297][736]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-12.13.11:297][736]AssetCheck: /Game/AI/Components/C_InformationTracker Validating asset
+[2026.01.30-12.13.22:810][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.01.30-12.13.22:851][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-12.13.22:924][362]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Components/C_InformationTracker] ([2] browsable assets)...
+[2026.01.30-12.13.22:924][362]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Components/C_InformationTracker]
+[2026.01.30-12.13.22:946][362]LogSavePackage: Moving output files for package: /Game/AI/Components/C_InformationTracker
+[2026.01.30-12.13.22:948][362]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/C_InformationTrackerE0F2569540C8035E379CF99728514084.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Components/C_InformationTracker.uasset'
+[2026.01.30-12.13.22:960][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.346 ms (total: 12.2 sec)
+[2026.01.30-12.13.23:007][362]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-12.13.23:007][362]LogContentValidation: Enabled validators:
+[2026.01.30-12.13.23:007][362]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-12.13.23:007][362]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-12.13.23:007][362]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-12.13.23:007][362]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-12.13.23:007][362]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-12.13.23:007][362]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-12.13.23:007][362]AssetCheck: /Game/AI/Components/C_InformationTracker Validating asset
+[2026.01.30-12.13.44:204][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.01.30-12.13.44:250][562]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-12.13.44:317][562]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EnvironmentManagement/BP_RoomVolume] ([2] browsable assets)...
+[2026.01.30-12.13.44:317][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnvironmentManagement/BP_RoomVolume]
+[2026.01.30-12.13.44:325][562]LogSavePackage: Moving output files for package: /Game/EnvironmentManagement/BP_RoomVolume
+[2026.01.30-12.13.44:326][562]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BP_RoomVolume7BD4DF954198B55BDCDD94B30A7A93FC.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/EnvironmentManagement/BP_RoomVolume.uasset'
+[2026.01.30-12.13.44:339][562]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.962 ms (total: 12.3 sec)
+[2026.01.30-12.13.44:383][562]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-12.13.44:383][562]LogContentValidation: Enabled validators:
+[2026.01.30-12.13.44:383][562]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-12.13.44:383][562]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-12.13.44:383][562]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-12.13.44:383][562]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-12.13.44:383][562]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-12.13.44:383][562]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-12.13.44:383][562]AssetCheck: /Game/EnvironmentManagement/BP_RoomVolume Validating asset
+[2026.01.30-12.13.52:703][ 30]LogEditorTransaction: Undo Straighten Connection(s)
+[2026.01.30-12.13.59:163][384]LogEditorTransaction: Undo Straighten Connection(s)
+[2026.01.30-12.14.07:108][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.01.30-12.14.07:154][812]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-12.14.07:253][812]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EnvironmentManagement/BP_RoomVolume] ([2] browsable assets)...
+[2026.01.30-12.14.07:253][812]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnvironmentManagement/BP_RoomVolume]
+[2026.01.30-12.14.07:264][812]LogSavePackage: Moving output files for package: /Game/EnvironmentManagement/BP_RoomVolume
+[2026.01.30-12.14.07:265][812]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BP_RoomVolume04816CFC4215F0B4FA3FDC9EC632608A.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/EnvironmentManagement/BP_RoomVolume.uasset'
+[2026.01.30-12.14.07:276][812]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.666 ms (total: 12.5 sec)
+[2026.01.30-12.14.07:318][812]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-12.14.07:318][812]LogContentValidation: Enabled validators:
+[2026.01.30-12.14.07:318][812]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-12.14.07:318][812]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-12.14.07:318][812]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-12.14.07:318][812]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-12.14.07:318][812]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-12.14.07:318][812]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-12.14.07:318][812]AssetCheck: /Game/EnvironmentManagement/BP_RoomVolume Validating asset
+[2026.01.30-12.14.46:754][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.01.30-12.14.46:798][971]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-12.14.46:865][971]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EnvironmentManagement/BP_RoomVolume] ([2] browsable assets)...
+[2026.01.30-12.14.46:865][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnvironmentManagement/BP_RoomVolume]
+[2026.01.30-12.14.46:875][971]LogSavePackage: Moving output files for package: /Game/EnvironmentManagement/BP_RoomVolume
+[2026.01.30-12.14.46:876][971]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BP_RoomVolume29B3141B4A1F7F033FC13295A9E2DFFF.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/EnvironmentManagement/BP_RoomVolume.uasset'
+[2026.01.30-12.14.46:885][971]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.568 ms (total: 12.5 sec)
+[2026.01.30-12.14.46:923][971]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-12.14.46:923][971]LogContentValidation: Enabled validators:
+[2026.01.30-12.14.46:923][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-12.14.46:923][971]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-12.14.46:923][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-12.14.46:923][971]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-12.14.46:923][971]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-12.14.46:923][971]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-12.14.46:923][971]AssetCheck: /Game/EnvironmentManagement/BP_RoomVolume Validating asset
+[2026.01.30-12.15.16:730][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.01.30-12.15.16:782][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-12.15.16:853][671]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EnvironmentManagement/BP_RoomVolume] ([2] browsable assets)...
+[2026.01.30-12.15.16:853][671]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnvironmentManagement/BP_RoomVolume]
+[2026.01.30-12.15.16:862][671]LogSavePackage: Moving output files for package: /Game/EnvironmentManagement/BP_RoomVolume
+[2026.01.30-12.15.16:863][671]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BP_RoomVolumeAFF20B674BA4C8BF1922D2961E29E779.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/EnvironmentManagement/BP_RoomVolume.uasset'
+[2026.01.30-12.15.16:875][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.759 ms (total: 12.6 sec)
+[2026.01.30-12.15.16:926][671]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-12.15.16:926][671]LogContentValidation: Enabled validators:
+[2026.01.30-12.15.16:926][671]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-12.15.16:926][671]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-12.15.16:926][671]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-12.15.16:926][671]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-12.15.16:926][671]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-12.15.16:926][671]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-12.15.16:926][671]AssetCheck: /Game/EnvironmentManagement/BP_RoomVolume Validating asset
+[2026.01.30-12.16.28:608][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.01.30-12.16.28:649][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-12.16.28:719][542]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EnvironmentManagement/BP_RoomVolume] ([2] browsable assets)...
+[2026.01.30-12.16.28:719][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnvironmentManagement/BP_RoomVolume]
+[2026.01.30-12.16.28:729][542]LogSavePackage: Moving output files for package: /Game/EnvironmentManagement/BP_RoomVolume
+[2026.01.30-12.16.28:730][542]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BP_RoomVolumeDE8991A341DBF00A88E7D1986189704B.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/EnvironmentManagement/BP_RoomVolume.uasset'
+[2026.01.30-12.16.28:740][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.999 ms (total: 12.7 sec)
+[2026.01.30-12.16.28:782][542]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-12.16.28:782][542]LogContentValidation: Enabled validators:
+[2026.01.30-12.16.28:782][542]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-12.16.28:783][542]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-12.16.28:783][542]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-12.16.28:783][542]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-12.16.28:783][542]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-12.16.28:783][542]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-12.16.28:783][542]AssetCheck: /Game/EnvironmentManagement/BP_RoomVolume Validating asset
+[2026.01.30-12.16.30:753][653]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.30-12.16.30:772][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.30-12.16.30:773][653]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IndoorArea_Greybox
+[2026.01.30-12.16.30:777][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005044s)
+[2026.01.30-12.16.30:777][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IndoorArea_Greybox.IndoorArea_Greybox to /Game/Maps/UEDPIE_0_IndoorArea_Greybox.IndoorArea_Greybox (0.005083s)
+[2026.01.30-12.16.30:803][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.01.30-12.16.30:806][653]LogChaosDD: Creating Chaos Debug Draw Scene for world IndoorArea_Greybox
+[2026.01.30-12.16.30:807][653]LogPlayLevel: PIE: World Init took: (0.001700s)
+[2026.01.30-12.16.30:808][653]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2026.01.30-12.16.30:808][653]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.30-12.16.30:808][653]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.30-12.16.30:808][653]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.30-12.16.30:808][653]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.30-12.16.30:808][653]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.01.30-12.16.30:808][653]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.30-12.16.30:808][653]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.01.30-12.16.30:809][653]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.30-12.16.30:809][653]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.30-12.16.30:809][653]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.30-12.16.30:809][653]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.30-12.16.30:812][653]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.30-12.16.30:846][653]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Realtek(R) Audio)
+[2026.01.30-12.16.30:846][653]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.30-12.16.30:846][653]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.30-12.16.30:846][653]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.30-12.16.30:848][653]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2026.01.30-12.16.30:848][653]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2026.01.30-12.16.30:850][653]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2026.01.30-12.16.30:850][653]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2026.01.30-12.16.30:850][653]LogInit: FAudioDevice initialized with ID 38.
+[2026.01.30-12.16.30:850][653]LogAudio: Display: Audio Device (ID: 38) registered with world 'IndoorArea_Greybox'.
+[2026.01.30-12.16.30:850][653]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2026.01.30-12.16.30:854][653]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.30-12.16.30:857][653]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IndoorArea_Greybox.IndoorArea_Greybox up for play (max tick rate 60) at 2026.01.30-12.16.30
+[2026.01.30-12.16.30:859][653]LogWorld: Bringing up level for play took: 0.005024
+[2026.01.30-12.16.30:862][653]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2026.01.30-12.16.30:867][653]LogBlueprintUserMessages: [InformationTracker] Room1 - to -Room2 = 0.5
+[2026.01.30-12.16.30:867][653]LogBlueprintUserMessages: [InformationTracker] Room1 - to -Room3 = 0.5
+[2026.01.30-12.16.30:867][653]LogBlueprintUserMessages: [InformationTracker] Room2 - to -Room1 = 0.333333
+[2026.01.30-12.16.30:867][653]LogBlueprintUserMessages: [InformationTracker] Room2 - to -Room5 = 0.333333
+[2026.01.30-12.16.30:867][653]LogBlueprintUserMessages: [InformationTracker] Room2 - to -Room6 = 0.333333
+[2026.01.30-12.16.30:867][653]LogBlueprintUserMessages: [InformationTracker] Room3 - to -Room1 = 0.5
+[2026.01.30-12.16.30:867][653]LogBlueprintUserMessages: [InformationTracker] Room3 - to -Room4 = 0.5
+[2026.01.30-12.16.30:867][653]LogBlueprintUserMessages: [InformationTracker] Room4 - to -Room3 = 1.0
+[2026.01.30-12.16.30:867][653]LogBlueprintUserMessages: [InformationTracker] Room5 - to -Room2 = 1.0
+[2026.01.30-12.16.30:867][653]LogBlueprintUserMessages: [InformationTracker] Room6 - to -Room2 = 1.0
+[2026.01.30-12.16.30:868][653]PIE: Server logged in
+[2026.01.30-12.16.30:869][653]PIE: Play in editor total start time 0.108 seconds.
+[2026.01.30-12.16.30:871][653]LogBlueprintUserMessages: [BTT_DetermineProbability_Action_C_0] In room: Room2
+[2026.01.30-12.16.42:236][330]LogBlueprintUserMessages: [BTT_DetermineProbability_Action_C_0] In room: Room3
+[2026.01.30-12.17.02:944][571]LogBlueprintUserMessages: [BTT_DetermineProbability_Action_C_0] In room: Room6
+[2026.01.30-12.17.28:577][109]LogBlueprintUserMessages: [InformationTracker] Player has been caught
+[2026.01.30-12.17.29:297][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.30-12.17.29:298][150]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IndoorArea_Greybox
+[2026.01.30-12.17.29:298][150]LogWorld: UWorld::CleanupWorld for IndoorArea_Greybox, bSessionEnded=true, bCleanupResources=true
+[2026.01.30-12.17.29:299][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.30-12.17.29:303][150]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.30-12.17.29:306][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.30-12.17.29:327][150]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.30-12.17.29:327][150]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2026.01.30-12.17.29:327][150]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2026.01.30-12.17.29:329][150]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2026.01.30-12.17.29:333][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.30-12.17.29:336][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.01.30-12.17.29:415][151]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2026.01.30-12.18.03:200][173]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5751.667969
+[2026.01.30-12.18.03:366][183]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.30-12.18.03:366][183]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5751.817383, Update Interval: 316.802277
+[2026.01.30-12.18.52:157][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2026.01.30-12.19.15:619][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.01.30-12.19.15:648][485]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-12.19.15:717][485]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Action] ([2] browsable assets)...
+[2026.01.30-12.19.15:718][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Action]
+[2026.01.30-12.19.15:725][485]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Action
+[2026.01.30-12.19.15:726][485]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_DetermineProbability_ActionC99C06BD428C3487F86753AD9240D6C2.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_DetermineProbability_Action.uasset'
+[2026.01.30-12.19.15:739][485]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.093 ms (total: 12.8 sec)
+[2026.01.30-12.19.15:789][485]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-12.19.15:789][485]LogContentValidation: Enabled validators:
+[2026.01.30-12.19.15:789][485]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-12.19.15:789][485]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-12.19.15:789][485]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-12.19.15:789][485]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-12.19.15:789][485]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-12.19.15:789][485]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-12.19.15:789][485]AssetCheck: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Action Validating asset
+[2026.01.30-12.20.00:499][ 51]LogEditorTransaction: Undo Straighten Connection(s)
+[2026.01.30-12.20.01:935][119]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetStringLibrary::Concat_StrStr' [The specified module could not be found.]
+[2026.01.30-12.20.18:833][945]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.30-12.20.23:263][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.01.30-12.20.23:358][184]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-12.20.23:424][184]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Components/C_InformationTracker] ([2] browsable assets)...
+[2026.01.30-12.20.23:424][184]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Components/C_InformationTracker]
+[2026.01.30-12.20.23:447][184]LogSavePackage: Moving output files for package: /Game/AI/Components/C_InformationTracker
+[2026.01.30-12.20.23:447][184]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/C_InformationTrackerFAC683464F85ACB0CD48ECACA49F50BE.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Components/C_InformationTracker.uasset'
+[2026.01.30-12.20.23:458][184]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.157 ms (total: 12.9 sec)
+[2026.01.30-12.20.23:499][184]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-12.20.23:500][184]LogContentValidation: Enabled validators:
+[2026.01.30-12.20.23:500][184]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-12.20.23:500][184]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-12.20.23:500][184]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-12.20.23:500][184]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-12.20.23:500][184]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-12.20.23:500][184]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-12.20.23:500][184]AssetCheck: /Game/AI/Components/C_InformationTracker Validating asset
+[2026.01.30-12.20.26:604][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.01.30-12.20.26:655][359]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-12.20.26:732][359]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Components/C_InformationTracker] ([2] browsable assets)...
+[2026.01.30-12.20.26:732][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Components/C_InformationTracker]
+[2026.01.30-12.20.26:756][359]LogSavePackage: Moving output files for package: /Game/AI/Components/C_InformationTracker
+[2026.01.30-12.20.26:758][359]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/C_InformationTrackerD66695104D6668F50B099299DB9CA83A.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Components/C_InformationTracker.uasset'
+[2026.01.30-12.20.26:771][359]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.334 ms (total: 13.0 sec)
+[2026.01.30-12.20.26:818][359]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-12.20.26:818][359]LogContentValidation: Enabled validators:
+[2026.01.30-12.20.26:818][359]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-12.20.26:818][359]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-12.20.26:818][359]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-12.20.26:818][359]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-12.20.26:818][359]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-12.20.26:818][359]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-12.20.26:818][359]AssetCheck: /Game/AI/Components/C_InformationTracker Validating asset
+[2026.01.30-12.20.44:242][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.01.30-12.20.44:290][382]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-12.20.44:362][382]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Components/C_InformationTracker] ([2] browsable assets)...
+[2026.01.30-12.20.44:362][382]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Components/C_InformationTracker]
+[2026.01.30-12.20.44:389][382]LogSavePackage: Moving output files for package: /Game/AI/Components/C_InformationTracker
+[2026.01.30-12.20.44:390][382]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/C_InformationTracker8A9ED83E4DCB9CB356CB3A9F511CC392.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Components/C_InformationTracker.uasset'
+[2026.01.30-12.20.44:404][382]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.239 ms (total: 13.1 sec)
+[2026.01.30-12.20.44:447][382]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-12.20.44:448][382]LogContentValidation: Enabled validators:
+[2026.01.30-12.20.44:448][382]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-12.20.44:448][382]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-12.20.44:448][382]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-12.20.44:448][382]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-12.20.44:448][382]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-12.20.44:448][382]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-12.20.44:448][382]AssetCheck: /Game/AI/Components/C_InformationTracker Validating asset
