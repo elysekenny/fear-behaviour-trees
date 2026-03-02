@@ -5278,3 +5278,521 @@ LogInit: Object subsystem initialized
 [2026.03.02-10.00.43:119][306]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.03.02-10.00.43:119][306]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.02-10.00.43:119][306]AssetCheck: /Game/UI/Widgets/WBP_Map Validating asset
+[2026.03.02-10.05.10:819][114]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-10.05.10:819][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-10.05.10:970][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2026.03.02-10.05.19:040][510]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-10.05.19:040][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-10.05.19:142][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2026.03.02-10.05.21:587][626]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-10.05.21:587][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-10.05.21:693][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2026.03.02-10.05.23:908][735]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.02-10.05.23:908][735]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-10.05.23:908][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-10.05.24:025][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.03.02-10.05.24:905][774]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-10.05.24:905][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-10.05.24:918][774]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-10.05.24:918][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-10.05.24:994][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2026.03.02-10.05.26:406][842]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.02-10.05.26:406][842]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-10.05.26:407][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-10.05.26:491][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.03.02-10.05.33:671][197]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-10.05.33:671][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-10.05.33:765][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2026.03.02-10.05.44:868][745]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2026.03.02-10.06.06:143][789]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room.BTT_DetermineProbability_Room
+[2026.03.02-10.06.06:143][789]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2026.03.02-10.06.41:522][508]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3516.396729
+[2026.03.02-10.06.41:690][517]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-10.06.41:690][517]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3516.545410, Update Interval: 337.329010
+[2026.03.02-10.09.06:081][631]LogBlueprint: Error: [AssetLog] C:\Users\landy\OneDrive\Documents\Unreal Projects\fear-behaviour-trees\Content\AI\Trees\Tasks\BTT_FindHidingSpot.uasset: [Compiler] In use pin  Input Pin  no longer exists on node  New Macro . Please refresh node or break links to remove pin.
+[2026.03.02-10.09.06:205][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.03.02-10.09.45:812][431]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.02-10.09.47:717][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.03.02-10.09.47:751][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.09.47:839][509]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot] ([2] browsable assets)...
+[2026.03.02-10.09.47:839][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot]
+[2026.03.02-10.09.47:851][509]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_FindHidingSpot
+[2026.03.02-10.09.47:852][509]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_FindHidingSpot6210E1F54C0C0A5F583F1093FFDC8FC2.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_FindHidingSpot.uasset'
+[2026.03.02-10.09.47:868][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.835 ms (total: 6.22 sec)
+[2026.03.02-10.09.47:960][509]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.09.47:960][509]LogContentValidation: Enabled validators:
+[2026.03.02-10.09.47:960][509]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.09.47:960][509]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.09.47:960][509]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.09.47:960][509]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.09.47:960][509]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.09.47:960][509]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.09.47:960][509]AssetCheck: /Game/AI/Trees/Tasks/BTT_FindHidingSpot Validating asset
+[2026.03.02-10.09.59:077][ 60]LogDerivedDataCache: C:/Users/landy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.02-10.10.24:432][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2026.03.02-10.10.24:437][309]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/FullEnvironment' took 0.038
+[2026.03.02-10.10.24:438][309]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/BT_Advanced] ([1] browsable assets)...
+[2026.03.02-10.10.24:438][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/BT_Advanced]
+[2026.03.02-10.10.24:456][309]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/Trees/BT_Advanced_Auto3
+[2026.03.02-10.10.24:458][309]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BT_Advanced_Auto3FE76FD4A402C942CDA79D789B1F7EFDC.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/Autosaves/Game/AI/Trees/BT_Advanced_Auto3.uasset'
+[2026.03.02-10.10.24:460][309]LogFileHelpers: Auto-saving content packages took 0.022
+[2026.03.02-10.10.49:421][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.03.02-10.10.49:449][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.10.49:543][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot] ([2] browsable assets)...
+[2026.03.02-10.10.49:543][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot]
+[2026.03.02-10.10.49:554][537]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_FindHidingSpot
+[2026.03.02-10.10.49:555][537]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_FindHidingSpot1F2DC82645D01232D05EBC84D0647563.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_FindHidingSpot.uasset'
+[2026.03.02-10.10.49:575][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.459 ms (total: 6.34 sec)
+[2026.03.02-10.10.49:681][537]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.10.49:681][537]LogContentValidation: Enabled validators:
+[2026.03.02-10.10.49:681][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.10.49:681][537]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.10.49:681][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.10.49:681][537]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.10.49:681][537]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.10.49:681][537]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.10.49:681][537]AssetCheck: /Game/AI/Trees/Tasks/BTT_FindHidingSpot Validating asset
+[2026.03.02-10.11.04:770][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.03.02-10.11.04:800][278]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.11.04:891][278]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot] ([2] browsable assets)...
+[2026.03.02-10.11.04:891][278]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot]
+[2026.03.02-10.11.04:904][278]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_FindHidingSpot
+[2026.03.02-10.11.04:904][278]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_FindHidingSpotF23BB0F0472A6A79574DA1B6FADEC435.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_FindHidingSpot.uasset'
+[2026.03.02-10.11.04:921][278]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.375 ms (total: 6.46 sec)
+[2026.03.02-10.11.05:035][278]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.11.05:035][278]LogContentValidation: Enabled validators:
+[2026.03.02-10.11.05:035][278]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.11.05:035][278]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.11.05:035][278]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.11.05:035][278]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.11.05:035][278]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.11.05:035][278]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.11.05:035][278]AssetCheck: /Game/AI/Trees/Tasks/BTT_FindHidingSpot Validating asset
+[2026.03.02-10.11.30:453][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.03.02-10.11.30:507][525]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.11.30:597][525]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot] ([2] browsable assets)...
+[2026.03.02-10.11.30:597][525]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot]
+[2026.03.02-10.11.30:615][525]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_FindHidingSpot
+[2026.03.02-10.11.30:618][525]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_FindHidingSpot75039A374AD9236BC804E1B398DC85A3.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_FindHidingSpot.uasset'
+[2026.03.02-10.11.30:637][525]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.452 ms (total: 6.59 sec)
+[2026.03.02-10.11.30:743][525]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.11.30:743][525]LogContentValidation: Enabled validators:
+[2026.03.02-10.11.30:743][525]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.11.30:743][525]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.11.30:743][525]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.11.30:743][525]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.11.30:743][525]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.11.30:743][525]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.11.30:743][525]AssetCheck: /Game/AI/Trees/Tasks/BTT_FindHidingSpot Validating asset
+[2026.03.02-10.11.45:389][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.03.02-10.11.45:444][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.11.45:540][243]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot] ([2] browsable assets)...
+[2026.03.02-10.11.45:540][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot]
+[2026.03.02-10.11.45:552][243]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_FindHidingSpot
+[2026.03.02-10.11.45:553][243]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_FindHidingSpot95A3D0174ADEC86FFBC5A7842C7B542D.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_FindHidingSpot.uasset'
+[2026.03.02-10.11.45:567][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.750 ms (total: 6.72 sec)
+[2026.03.02-10.11.45:678][243]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.11.45:678][243]LogContentValidation: Enabled validators:
+[2026.03.02-10.11.45:678][243]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.11.45:678][243]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.11.45:678][243]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.11.45:679][243]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.11.45:679][243]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.11.45:679][243]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.11.45:679][243]AssetCheck: /Game/AI/Trees/Tasks/BTT_FindHidingSpot Validating asset
+[2026.03.02-10.12.51:454][488]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/EnvironmentManagement/BP_HidingVolume.BP_HidingVolume
+[2026.03.02-10.12.51:454][488]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2026.03.02-10.12.59:988][877]LogStreaming: Display: FlushAsyncLoading(551): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.02-10.13.00:384][877]LogChaosDD: Creating Chaos Debug Draw Scene for world IndoorArea_SHOWCASE
+[2026.03.02-10.13.00:475][877]LogChaosDD: Creating Chaos Debug Draw Scene for world IndoorArea_Greybox
+[2026.03.02-10.13.02:739][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.03.02-10.13.02:815][971]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.13.02:888][971]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EnvironmentManagement/BP_HidingVolume] ([2] browsable assets)...
+[2026.03.02-10.13.02:888][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnvironmentManagement/BP_HidingVolume]
+[2026.03.02-10.13.02:902][971]LogSavePackage: Moving output files for package: /Game/EnvironmentManagement/BP_HidingVolume
+[2026.03.02-10.13.02:903][971]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BP_HidingVolumeF97FF31348461080D5A3CCB02BECE207.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/EnvironmentManagement/BP_HidingVolume.uasset'
+[2026.03.02-10.13.02:915][971]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.278 ms (total: 6.82 sec)
+[2026.03.02-10.13.03:013][971]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.13.03:013][971]LogContentValidation: Enabled validators:
+[2026.03.02-10.13.03:013][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.13.03:013][971]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.13.03:013][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.13.03:013][971]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.13.03:013][971]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.13.03:013][971]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.13.03:014][971]AssetCheck: /Game/EnvironmentManagement/BP_HidingVolume Validating asset
+[2026.03.02-10.13.06:608][143]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3901.448486
+[2026.03.02-10.13.06:771][151]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-10.13.06:771][152]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3901.589355, Update Interval: 309.393585
+[2026.03.02-10.14.33:603][258]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2026.03.02-10.14.39:909][534]LogSlate: Window 'Details' being destroyed
+[2026.03.02-10.16.02:018][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.03.02-10.16.55:783][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2026.03.02-10.16.55:806][232]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.16.55:893][232]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot] ([2] browsable assets)...
+[2026.03.02-10.16.55:893][232]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot]
+[2026.03.02-10.16.55:906][232]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_FindHidingSpot
+[2026.03.02-10.16.55:907][232]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_FindHidingSpot33A7F19341D8E16F71F61AA45A683B53.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_FindHidingSpot.uasset'
+[2026.03.02-10.16.55:927][232]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.284 ms (total: 6.94 sec)
+[2026.03.02-10.16.56:046][232]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.16.56:046][232]LogContentValidation: Enabled validators:
+[2026.03.02-10.16.56:046][232]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.16.56:046][232]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.16.56:046][232]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.16.56:046][232]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.16.56:046][232]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.16.56:046][232]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.16.56:046][232]AssetCheck: /Game/AI/Trees/Tasks/BTT_FindHidingSpot Validating asset
+[2026.03.02-10.17.04:565][575]LogSlate: Window 'Delete Variable' being destroyed
+[2026.03.02-10.17.36:129][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.03.02-10.17.36:150][120]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.17.36:231][120]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot] ([2] browsable assets)...
+[2026.03.02-10.17.36:231][120]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot]
+[2026.03.02-10.17.36:243][120]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_FindHidingSpot
+[2026.03.02-10.17.36:244][120]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_FindHidingSpotD63F19B7422BD62E54C57AB4A00BAD2F.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_FindHidingSpot.uasset'
+[2026.03.02-10.17.36:258][120]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.108 ms (total: 7.05 sec)
+[2026.03.02-10.17.36:358][120]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.17.36:358][120]LogContentValidation: Enabled validators:
+[2026.03.02-10.17.36:358][120]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.17.36:358][120]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.17.36:358][120]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.17.36:358][120]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.17.36:358][120]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.17.36:358][120]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.17.36:358][120]AssetCheck: /Game/AI/Trees/Tasks/BTT_FindHidingSpot Validating asset
+[2026.03.02-10.17.51:345][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.03.02-10.17.51:367][844]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.17.51:456][844]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot] ([2] browsable assets)...
+[2026.03.02-10.17.51:456][844]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot]
+[2026.03.02-10.17.51:467][844]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_FindHidingSpot
+[2026.03.02-10.17.51:468][844]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_FindHidingSpot39D958954669EDA4879884A95DB00A25.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_FindHidingSpot.uasset'
+[2026.03.02-10.17.51:479][844]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.146 ms (total: 7.16 sec)
+[2026.03.02-10.17.51:572][844]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.17.51:572][844]LogContentValidation: Enabled validators:
+[2026.03.02-10.17.51:572][844]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.17.51:572][844]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.17.51:572][844]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.17.51:572][844]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.17.51:572][844]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.17.51:572][844]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.17.51:572][844]AssetCheck: /Game/AI/Trees/Tasks/BTT_FindHidingSpot Validating asset
+[2026.03.02-10.18.16:200][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2026.03.02-10.18.18:308][161]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.18.18:415][161]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/BT_Advanced] ([1] browsable assets)...
+[2026.03.02-10.18.18:415][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/BT_Advanced]
+[2026.03.02-10.18.18:415][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Trees/BT_Advanced" FILE="../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset" SILENT=true
+[2026.03.02-10.18.18:427][161]LogSavePackage: Moving output files for package: /Game/AI/Trees/BT_Advanced
+[2026.03.02-10.18.18:428][161]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BT_Advanced19E1A95442932B894E66CDB0AB06C1A7.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset'
+[2026.03.02-10.18.18:442][161]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.713 ms (total: 7.29 sec)
+[2026.03.02-10.18.18:535][161]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.18.18:535][161]LogContentValidation: Enabled validators:
+[2026.03.02-10.18.18:535][161]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.18.18:535][161]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.18.18:535][161]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.18.18:535][161]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.18.18:535][161]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.18.18:535][161]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.18.18:536][161]AssetCheck: /Game/AI/Trees/BT_Advanced Validating asset
+[2026.03.02-10.18.34:819][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.03.02-10.18.34:833][934]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.18.34:954][934]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot] ([2] browsable assets)...
+[2026.03.02-10.18.34:954][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot]
+[2026.03.02-10.18.34:969][934]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_FindHidingSpot
+[2026.03.02-10.18.34:970][934]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_FindHidingSpot57BD3F9E44B6815D263373965BC4739A.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_FindHidingSpot.uasset'
+[2026.03.02-10.18.34:987][934]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.148 ms (total: 7.45 sec)
+[2026.03.02-10.18.35:091][934]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.18.35:091][934]LogContentValidation: Enabled validators:
+[2026.03.02-10.18.35:091][934]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.18.35:091][934]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.18.35:091][934]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.18.35:091][934]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.18.35:091][934]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.18.35:091][934]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.18.35:091][934]AssetCheck: /Game/AI/Trees/Tasks/BTT_FindHidingSpot Validating asset
+[2026.03.02-10.18.59:901][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.03.02-10.18.59:930][136]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.19.00:011][136]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot] ([2] browsable assets)...
+[2026.03.02-10.19.00:011][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot]
+[2026.03.02-10.19.00:023][136]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_FindHidingSpot
+[2026.03.02-10.19.00:024][136]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_FindHidingSpot179C4F9B4CC99D9575A7F887682145BC.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_FindHidingSpot.uasset'
+[2026.03.02-10.19.00:036][136]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.027 ms (total: 7.55 sec)
+[2026.03.02-10.19.00:146][136]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.19.00:147][136]LogContentValidation: Enabled validators:
+[2026.03.02-10.19.00:147][136]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.19.00:147][136]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.19.00:147][136]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.19.00:147][136]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.19.00:147][136]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.19.00:147][136]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.19.00:147][136]AssetCheck: /Game/AI/Trees/Tasks/BTT_FindHidingSpot Validating asset
+[2026.03.02-10.19.10:177][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.03.02-10.19.10:203][622]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.19.10:286][622]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot] ([2] browsable assets)...
+[2026.03.02-10.19.10:286][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot]
+[2026.03.02-10.19.10:296][622]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_FindHidingSpot
+[2026.03.02-10.19.10:298][622]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_FindHidingSpotA0A05B2F449B710166853DB33A5466AC.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_FindHidingSpot.uasset'
+[2026.03.02-10.19.10:310][622]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.208 ms (total: 7.66 sec)
+[2026.03.02-10.19.10:410][622]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.19.10:410][622]LogContentValidation: Enabled validators:
+[2026.03.02-10.19.10:410][622]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.19.10:410][622]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.19.10:410][622]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.19.10:410][622]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.19.10:410][622]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.19.10:410][622]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.19.10:410][622]AssetCheck: /Game/AI/Trees/Tasks/BTT_FindHidingSpot Validating asset
+[2026.03.02-10.19.13:129][753]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4267.963867
+[2026.03.02-10.19.13:315][762]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-10.19.13:315][763]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4268.127930, Update Interval: 359.214447
+[2026.03.02-10.19.34:513][805]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Trees/Tasks/BTT_GetRandPointInRoom.BTT_GetRandPointInRoom
+[2026.03.02-10.19.34:514][805]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2026.03.02-10.19.42:428][173]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-10.19.42:428][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-10.19.42:625][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.03.02-10.19.48:374][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.03.02-10.20.13:075][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2026.03.02-10.20.13:104][625]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.20.13:172][625]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot] ([2] browsable assets)...
+[2026.03.02-10.20.13:172][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot]
+[2026.03.02-10.20.13:183][625]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_FindHidingSpot
+[2026.03.02-10.20.13:184][625]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_FindHidingSpotB5F27E624DCB4FB09A5F0086B4DEEA72.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_FindHidingSpot.uasset'
+[2026.03.02-10.20.13:199][625]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.424 ms (total: 7.75 sec)
+[2026.03.02-10.20.13:308][625]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.20.13:308][625]LogContentValidation: Enabled validators:
+[2026.03.02-10.20.13:308][625]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.20.13:308][625]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.20.13:308][625]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.20.13:308][625]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.20.13:308][625]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.20.13:308][625]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.20.13:309][625]AssetCheck: /Game/AI/Trees/Tasks/BTT_FindHidingSpot Validating asset
+[2026.03.02-10.20.36:380][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.03.02-10.20.36:409][740]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.20.36:534][740]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot] ([2] browsable assets)...
+[2026.03.02-10.20.36:534][740]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot]
+[2026.03.02-10.20.36:545][740]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_FindHidingSpot
+[2026.03.02-10.20.36:545][740]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_FindHidingSpotA370816046F92DE84FBCFBAA072208A8.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_FindHidingSpot.uasset'
+[2026.03.02-10.20.36:557][740]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.347 ms (total: 7.90 sec)
+[2026.03.02-10.20.36:666][740]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.20.36:666][740]LogContentValidation: Enabled validators:
+[2026.03.02-10.20.36:666][740]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.20.36:666][740]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.20.36:666][740]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.20.36:666][740]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.20.36:666][740]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.20.36:666][740]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.20.36:666][740]AssetCheck: /Game/AI/Trees/Tasks/BTT_FindHidingSpot Validating asset
+[2026.03.02-10.20.59:452][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.03.02-10.20.59:483][822]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.20.59:582][822]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot] ([2] browsable assets)...
+[2026.03.02-10.20.59:582][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot]
+[2026.03.02-10.20.59:595][822]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_FindHidingSpot
+[2026.03.02-10.20.59:596][822]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_FindHidingSpotA58C4E5A4403BC46696801BF98F61B51.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_FindHidingSpot.uasset'
+[2026.03.02-10.20.59:613][822]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.097 ms (total: 8.03 sec)
+[2026.03.02-10.20.59:727][822]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.20.59:727][822]LogContentValidation: Enabled validators:
+[2026.03.02-10.20.59:727][822]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.20.59:727][822]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.20.59:727][822]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.20.59:727][822]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.20.59:727][822]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.20.59:727][822]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.20.59:727][822]AssetCheck: /Game/AI/Trees/Tasks/BTT_FindHidingSpot Validating asset
+[2026.03.02-10.21.05:800][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2026.03.02-10.21.05:834][107]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.21.05:923][107]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot] ([2] browsable assets)...
+[2026.03.02-10.21.05:923][107]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot]
+[2026.03.02-10.21.05:935][107]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_FindHidingSpot
+[2026.03.02-10.21.05:936][107]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_FindHidingSpot369E505D4650AE95F3AF45BB83DF3645.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_FindHidingSpot.uasset'
+[2026.03.02-10.21.05:951][107]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.451 ms (total: 8.15 sec)
+[2026.03.02-10.21.06:073][107]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.21.06:073][107]LogContentValidation: Enabled validators:
+[2026.03.02-10.21.06:073][107]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.21.06:073][107]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.21.06:073][107]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.21.06:073][107]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.21.06:073][107]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.21.06:073][107]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.21.06:073][107]AssetCheck: /Game/AI/Trees/Tasks/BTT_FindHidingSpot Validating asset
+[2026.03.02-10.21.27:905][139]LogEditorTransaction: Undo Move Node
+[2026.03.02-10.21.45:583][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.03.02-10.21.45:615][939]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.21.45:744][939]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot] ([2] browsable assets)...
+[2026.03.02-10.21.45:744][939]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot]
+[2026.03.02-10.21.45:757][939]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_FindHidingSpot
+[2026.03.02-10.21.45:758][939]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_FindHidingSpot9B0A521D4A9E1E34DE3F0384E97668BC.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_FindHidingSpot.uasset'
+[2026.03.02-10.21.45:769][939]LogFileHelpers: InternalPromptForCheckoutAndSave took 154.420 ms (total: 8.30 sec)
+[2026.03.02-10.21.45:859][939]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.21.45:859][939]LogContentValidation: Enabled validators:
+[2026.03.02-10.21.45:859][939]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.21.45:859][939]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.21.45:859][939]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.21.45:859][939]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.21.45:859][939]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.21.45:859][939]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.21.45:860][939]AssetCheck: /Game/AI/Trees/Tasks/BTT_FindHidingSpot Validating asset
+[2026.03.02-10.22.04:274][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.03.02-10.22.04:309][820]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.22.04:389][820]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot] ([2] browsable assets)...
+[2026.03.02-10.22.04:389][820]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot]
+[2026.03.02-10.22.04:403][820]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_FindHidingSpot
+[2026.03.02-10.22.04:404][820]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_FindHidingSpotDDC6A5F44F2C3CF7170848BDE247CFE4.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_FindHidingSpot.uasset'
+[2026.03.02-10.22.04:419][820]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.587 ms (total: 8.41 sec)
+[2026.03.02-10.22.04:527][820]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.22.04:527][820]LogContentValidation: Enabled validators:
+[2026.03.02-10.22.04:527][820]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.22.04:527][820]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.22.04:527][820]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.22.04:527][820]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.22.04:527][820]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.22.04:527][820]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.22.04:527][820]AssetCheck: /Game/AI/Trees/Tasks/BTT_FindHidingSpot Validating asset
+[2026.03.02-10.22.31:784][147]LogBlueprint: Error: [AssetLog] C:\Users\landy\OneDrive\Documents\Unreal Projects\fear-behaviour-trees\Content\AI\Trees\Tasks\BTT_FindHidingSpot.uasset: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Shuffle  to imply a specific type.
+[2026.03.02-10.22.31:785][147]LogBlueprint: Error: [AssetLog] C:\Users\landy\OneDrive\Documents\Unreal Projects\fear-behaviour-trees\Content\AI\Trees\Tasks\BTT_FindHidingSpot.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.03.02-10.22.31:876][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2026.03.02-10.22.41:212][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.03.02-10.22.41:243][588]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.22.41:320][588]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot] ([2] browsable assets)...
+[2026.03.02-10.22.41:320][588]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot]
+[2026.03.02-10.22.41:334][588]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_FindHidingSpot
+[2026.03.02-10.22.41:335][588]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_FindHidingSpot8585B9144DD807FDDD7A989B2A41D2A9.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_FindHidingSpot.uasset'
+[2026.03.02-10.22.41:347][588]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.952 ms (total: 8.52 sec)
+[2026.03.02-10.22.41:451][588]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.22.41:451][588]LogContentValidation: Enabled validators:
+[2026.03.02-10.22.41:451][588]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.22.41:451][588]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.22.41:451][588]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.22.41:451][588]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.22.41:451][588]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.22.41:451][588]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.22.41:451][588]AssetCheck: /Game/AI/Trees/Tasks/BTT_FindHidingSpot Validating asset
+[2026.03.02-10.22.54:070][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.03.02-10.22.54:106][173]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.22.54:178][173]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot] ([2] browsable assets)...
+[2026.03.02-10.22.54:178][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot]
+[2026.03.02-10.22.54:193][173]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_FindHidingSpot
+[2026.03.02-10.22.54:193][173]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_FindHidingSpotB1591F194842006229BD5DAE88E86612.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_FindHidingSpot.uasset'
+[2026.03.02-10.22.54:207][173]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.507 ms (total: 8.62 sec)
+[2026.03.02-10.22.54:315][173]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.22.54:315][173]LogContentValidation: Enabled validators:
+[2026.03.02-10.22.54:315][173]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.22.54:315][173]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.22.54:315][173]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.22.54:315][173]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.22.54:315][173]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.22.54:315][173]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.22.54:315][173]AssetCheck: /Game/AI/Trees/Tasks/BTT_FindHidingSpot Validating asset
+[2026.03.02-10.23.32:049][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.03.02-10.23.32:081][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.23.32:154][ 20]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot] ([2] browsable assets)...
+[2026.03.02-10.23.32:154][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot]
+[2026.03.02-10.23.32:167][ 20]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_FindHidingSpot
+[2026.03.02-10.23.32:169][ 20]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_FindHidingSpotE0BD61584E34A6DAF6B72085E997E6A1.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_FindHidingSpot.uasset'
+[2026.03.02-10.23.32:182][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.028 ms (total: 8.72 sec)
+[2026.03.02-10.23.32:285][ 20]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.23.32:285][ 20]LogContentValidation: Enabled validators:
+[2026.03.02-10.23.32:285][ 20]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.23.32:285][ 20]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.23.32:285][ 20]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.23.32:285][ 20]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.23.32:285][ 20]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.23.32:285][ 20]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.23.32:285][ 20]AssetCheck: /Game/AI/Trees/Tasks/BTT_FindHidingSpot Validating asset
+[2026.03.02-10.23.47:744][769]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18414655634300335227
+[2026.03.02-10.23.47:744][769]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2026.03.02-10.23.47:753][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-10.23.56:661][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.03.02-10.23.57:288][192]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/FullEnvironment_Auto4
+[2026.03.02-10.23.57:288][192]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironment_Auto41A28B57F454B2997BBB927A65B5A84E5.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/Autosaves/Game/Maps/FullEnvironment_Auto4.umap'
+[2026.03.02-10.23.57:294][192]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/FullEnvironment' took 0.660
+[2026.03.02-10.23.57:294][192]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.660
+[2026.03.02-10.23.57:294][192]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/BT_Advanced] ([1] browsable assets)...
+[2026.03.02-10.23.57:294][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/BT_Advanced]
+[2026.03.02-10.23.57:304][192]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/Trees/BT_Advanced_Auto4
+[2026.03.02-10.23.57:305][192]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BT_Advanced_Auto4ADD4435F48E756180787C9B43ED80916.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/Autosaves/Game/AI/Trees/BT_Advanced_Auto4.uasset'
+[2026.03.02-10.23.57:307][192]LogFileHelpers: Auto-saving content packages took 0.013
+[2026.03.02-10.24.47:790][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.03.02-10.24.49:642][745]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.24.49:752][745]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/BT_Advanced] ([1] browsable assets)...
+[2026.03.02-10.24.49:752][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/BT_Advanced]
+[2026.03.02-10.24.49:752][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Trees/BT_Advanced" FILE="../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset" SILENT=true
+[2026.03.02-10.24.49:767][745]LogSavePackage: Moving output files for package: /Game/AI/Trees/BT_Advanced
+[2026.03.02-10.24.49:768][745]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BT_Advanced6308049C405FC785152FB69F445549A2.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset'
+[2026.03.02-10.24.49:787][745]LogFileHelpers: InternalPromptForCheckoutAndSave took 144.838 ms (total: 8.86 sec)
+[2026.03.02-10.24.49:904][745]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.24.49:904][745]LogContentValidation: Enabled validators:
+[2026.03.02-10.24.49:904][745]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.24.49:904][745]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.24.49:904][745]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.24.49:904][745]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.24.49:904][745]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.24.49:904][745]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.24.49:905][745]AssetCheck: /Game/AI/Trees/BT_Advanced Validating asset
+[2026.03.02-10.25.30:874][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.03.02-10.25.30:894][773]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.25.30:990][773]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room] ([2] browsable assets)...
+[2026.03.02-10.25.30:991][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room]
+[2026.03.02-10.25.30:997][773]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room
+[2026.03.02-10.25.30:998][773]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_DetermineProbability_Room8E11205B41CD0ED1C724FC9526436224.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_DetermineProbability_Room.uasset'
+[2026.03.02-10.25.31:012][773]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.286 ms (total: 8.98 sec)
+[2026.03.02-10.25.31:111][773]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.25.31:111][773]LogContentValidation: Enabled validators:
+[2026.03.02-10.25.31:111][773]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.25.31:111][773]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.25.31:111][773]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.25.31:111][773]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.25.31:111][773]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.25.31:111][773]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.25.31:112][773]AssetCheck: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room Validating asset
+[2026.03.02-10.25.39:593][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2026.03.02-10.25.40:802][188]LogSlate: Window 'Save Content' being destroyed
+[2026.03.02-10.25.40:812][188]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.25.41:013][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.03.02-10.25.41:619][188]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.02-10.25.41:620][188]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironmentC98719994F22D7C2874BC49D30DA67B6.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.02-10.25.41:655][188]LogFileHelpers: Saving map 'FullEnvironment' took 0.720
+[2026.03.02-10.25.41:673][188]LogFileHelpers: InternalPromptForCheckoutAndSave took 860.506 ms (total: 9.84 sec)
+[2026.03.02-10.25.41:791][188]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.25.41:791][188]LogContentValidation: Enabled validators:
+[2026.03.02-10.25.41:791][188]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.25.41:791][188]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.25.41:791][188]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.25.41:791][188]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.25.41:791][188]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.25.41:791][188]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.25.41:792][188]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.02-10.26.10:674][593]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4685.488770
+[2026.03.02-10.26.10:833][600]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-10.26.10:833][600]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4685.628906, Update Interval: 344.437378
+[2026.03.02-10.26.27:596][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.03.02-10.26.27:626][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.26.27:732][433]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room] ([2] browsable assets)...
+[2026.03.02-10.26.27:732][433]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room]
+[2026.03.02-10.26.27:739][433]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room
+[2026.03.02-10.26.27:740][433]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_DetermineProbability_RoomC75086734ED58BFC942CF68B524EBA7F.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_DetermineProbability_Room.uasset'
+[2026.03.02-10.26.27:752][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.194 ms (total: 9.97 sec)
+[2026.03.02-10.26.27:868][433]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.26.27:868][433]LogContentValidation: Enabled validators:
+[2026.03.02-10.26.27:868][433]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.26.27:868][433]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.26.27:868][433]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.26.27:868][433]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.26.27:868][433]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.26.27:868][433]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.26.27:869][433]AssetCheck: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room Validating asset
+[2026.03.02-10.27.01:121][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.03.02-10.27.01:148][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.27.01:237][ 71]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room] ([2] browsable assets)...
+[2026.03.02-10.27.01:237][ 71]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room]
+[2026.03.02-10.27.01:243][ 71]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room
+[2026.03.02-10.27.01:244][ 71]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_DetermineProbability_RoomC7B5FE2D48C7CD75722AE6837C27C560.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_DetermineProbability_Room.uasset'
+[2026.03.02-10.27.01:260][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.035 ms (total: 10.0 sec)
+[2026.03.02-10.27.01:376][ 71]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.27.01:377][ 71]LogContentValidation: Enabled validators:
+[2026.03.02-10.27.01:377][ 71]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.27.01:377][ 71]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.27.01:377][ 71]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.27.01:377][ 71]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.27.01:377][ 71]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.27.01:377][ 71]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.27.01:377][ 71]AssetCheck: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room Validating asset

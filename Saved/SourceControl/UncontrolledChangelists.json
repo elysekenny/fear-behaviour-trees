@@ -89,6 +89,8 @@
 				"C:/Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/FirstPerson/Input/Actions/IA_ToggleMap.uasset",
 				"C:/Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/FirstPerson/Input/IMC_Default.uasset",
 				"C:/Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/EnvironmentManagement/BP_RoomVolume.uasset",
+				"C:/Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset",
+				"C:/Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_DetermineProbability_Room.uasset",
 				"C:/Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Shaders/M_PaintedShader.uasset",
 				"C:/Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Hospital_Meshingun/Master_Material/MasterShader_Meshingun/Map/LV_MasterShader_Showcase.umap",
 				"C:/Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Hospital_Meshingun/Environment/Map/Overview/LV_Overview.umap",
