@@ -5796,3 +5796,566 @@ LogInit: Object subsystem initialized
 [2026.03.02-10.27.01:377][ 71]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.03.02-10.27.01:377][ 71]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.02-10.27.01:377][ 71]AssetCheck: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room Validating asset
+[2026.03.02-10.32.35:555][265]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.32.35:664][265]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/BT_Advanced] ([1] browsable assets)...
+[2026.03.02-10.32.35:664][265]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/BT_Advanced]
+[2026.03.02-10.32.35:664][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Trees/BT_Advanced" FILE="../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset" SILENT=true
+[2026.03.02-10.32.35:679][265]LogSavePackage: Moving output files for package: /Game/AI/Trees/BT_Advanced
+[2026.03.02-10.32.35:681][265]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BT_AdvancedA3A9DA5143950C7837776D87A8F6CBA9.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/BT_Advanced.uasset'
+[2026.03.02-10.32.35:702][265]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.514 ms (total: 10.2 sec)
+[2026.03.02-10.32.35:815][265]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.32.35:816][265]LogContentValidation: Enabled validators:
+[2026.03.02-10.32.35:816][265]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.32.35:816][265]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.32.35:816][265]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.32.35:816][265]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.32.35:816][265]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.32.35:816][265]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.32.35:816][265]AssetCheck: /Game/AI/Trees/BT_Advanced Validating asset
+[2026.03.02-10.32.52:399][ 92]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5087.197266
+[2026.03.02-10.32.52:558][101]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-10.32.52:559][101]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5087.337402, Update Interval: 355.969727
+[2026.03.02-10.33.58:374][381]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-10.33.58:374][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-10.33.58:507][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2026.03.02-10.34.14:415][112]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2026.03.02-10.34.20:394][398]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/AI_BasicStitched.AI_BasicStitched
+[2026.03.02-10.34.20:394][398]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2026.03.02-10.34.21:379][403]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2026.03.02-10.34.34:667][970]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.34.34:774][970]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/AI_BasicStitched] ([2] browsable assets)...
+[2026.03.02-10.34.34:774][970]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/AI_BasicStitched]
+[2026.03.02-10.34.34:774][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_BasicStitched" FILE="../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/AI_BasicStitched.uasset" SILENT=true
+[2026.03.02-10.34.34:780][970]LogSavePackage: Moving output files for package: /Game/AI/AI_BasicStitched
+[2026.03.02-10.34.34:781][970]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/AI_BasicStitchedFC2275384969DAAEDBB024AB9F2A3713.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/AI_BasicStitched.uasset'
+[2026.03.02-10.34.34:795][970]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.228 ms (total: 10.3 sec)
+[2026.03.02-10.34.34:884][970]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.34.34:884][970]LogContentValidation: Enabled validators:
+[2026.03.02-10.34.34:884][970]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.34.34:884][970]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.34.34:884][970]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.34.34:884][970]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.34.34:884][970]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.34.34:884][970]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.34.34:884][970]AssetCheck: /Game/AI/AI_BasicStitched Validating asset
+[2026.03.02-10.34.36:524][ 38]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-10.34.36:524][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-10.34.36:694][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.03.02-10.34.50:474][587]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.03.02-10.34.55:845][727]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.03.02-10.34.55:865][727]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.03.02-10.34.55:883][727]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.03.02-10.34.55:916][728]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.03.02-10.35.12:831][567]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_ObjectiveUI
+[2026.03.02-10.35.12:839][567]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/UI/Widgets/WBP_ObjectiveUI.
+[2026.03.02-10.35.12:840][567]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.03.02-10.35.14:653][656]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI
+[2026.03.02-10.35.14:653][656]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2026.03.02-10.35.14:682][656]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2026.03.02-10.35.17:257][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.03.02-10.35.17:269][753]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.35.17:396][753]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/WBP_ObjectiveUI] ([2] browsable assets)...
+[2026.03.02-10.35.17:399][753]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI]
+[2026.03.02-10.35.17:399][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/WBP_ObjectiveUI]
+[2026.03.02-10.35.17:402][753]LogSavePackage: Moving output files for package: /Game/UI/Widgets/WBP_ObjectiveUI
+[2026.03.02-10.35.17:402][753]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/WBP_ObjectiveUI1C3D0E444E856E7FB636A5A1B445BC03.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/UI/Widgets/WBP_ObjectiveUI.uasset'
+[2026.03.02-10.35.17:407][753]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/UI/Widgets/WBP_ObjectiveUI.
+[2026.03.02-10.35.17:420][753]LogFileHelpers: InternalPromptForCheckoutAndSave took 151.325 ms (total: 10.5 sec)
+[2026.03.02-10.35.17:525][753]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.35.17:525][753]LogContentValidation: Enabled validators:
+[2026.03.02-10.35.17:525][753]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.35.17:525][753]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.35.17:525][753]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.35.17:525][753]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.35.17:525][753]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.35.17:525][753]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.35.17:525][753]AssetCheck: /Game/UI/Widgets/WBP_ObjectiveUI Validating asset
+[2026.03.02-10.35.28:566][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.03.02-10.35.28:576][259]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.35.28:647][259]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/WBP_ObjectiveUI] ([2] browsable assets)...
+[2026.03.02-10.35.28:650][259]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI]
+[2026.03.02-10.35.28:650][259]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/WBP_ObjectiveUI]
+[2026.03.02-10.35.28:652][259]LogSavePackage: Moving output files for package: /Game/UI/Widgets/WBP_ObjectiveUI
+[2026.03.02-10.35.28:653][259]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/WBP_ObjectiveUI7E59249346B07177DD5847B1B2A89AB7.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/UI/Widgets/WBP_ObjectiveUI.uasset'
+[2026.03.02-10.35.28:666][259]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.533 ms (total: 10.6 sec)
+[2026.03.02-10.35.28:776][259]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.35.28:776][259]LogContentValidation: Enabled validators:
+[2026.03.02-10.35.28:776][259]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.35.28:776][259]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.35.28:776][259]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.35.28:776][259]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.35.28:776][259]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.35.28:776][259]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.35.28:776][259]AssetCheck: /Game/UI/Widgets/WBP_ObjectiveUI Validating asset
+[2026.03.02-10.35.35:105][566]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Widgets/WBP_DebugText.WBP_DebugText
+[2026.03.02-10.35.35:105][566]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2026.03.02-10.35.35:133][566]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2026.03.02-10.35.40:400][774]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.03.02-10.35.48:924][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.03.02-10.35.48:937][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.35.49:020][ 49]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/WBP_DebugText] ([2] browsable assets)...
+[2026.03.02-10.35.49:025][ 49]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/WBP_DebugText.WBP_DebugText]
+[2026.03.02-10.35.49:025][ 49]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/WBP_DebugText]
+[2026.03.02-10.35.49:034][ 49]LogSavePackage: Moving output files for package: /Game/UI/Widgets/WBP_DebugText
+[2026.03.02-10.35.49:035][ 49]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/WBP_DebugText89087A20442829FD5D7EE7A0BAFBAC6F.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/UI/Widgets/WBP_DebugText.uasset'
+[2026.03.02-10.35.49:050][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.742 ms (total: 10.7 sec)
+[2026.03.02-10.35.49:187][ 49]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.35.49:187][ 49]LogContentValidation: Enabled validators:
+[2026.03.02-10.35.49:187][ 49]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.35.49:187][ 49]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.35.49:187][ 49]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.35.49:187][ 49]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.35.49:187][ 49]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.35.49:187][ 49]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.35.49:188][ 49]AssetCheck: /Game/UI/Widgets/WBP_DebugText Validating asset
+[2026.03.02-10.36.02:249][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2026.03.02-10.36.02:376][679]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.36.02:463][679]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/WBP_ObjectiveUI] ([2] browsable assets)...
+[2026.03.02-10.36.02:465][679]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI]
+[2026.03.02-10.36.02:465][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/WBP_ObjectiveUI]
+[2026.03.02-10.36.02:468][679]LogSavePackage: Moving output files for package: /Game/UI/Widgets/WBP_ObjectiveUI
+[2026.03.02-10.36.02:469][679]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/WBP_ObjectiveUI6F45DED642E93B56BA5C50972654B430.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/UI/Widgets/WBP_ObjectiveUI.uasset'
+[2026.03.02-10.36.02:481][679]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.152 ms (total: 10.8 sec)
+[2026.03.02-10.36.02:583][679]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.36.02:583][679]LogContentValidation: Enabled validators:
+[2026.03.02-10.36.02:583][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.36.02:583][679]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.36.02:583][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.36.02:583][679]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.36.02:583][679]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.36.02:583][679]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.36.02:583][679]AssetCheck: /Game/UI/Widgets/WBP_ObjectiveUI Validating asset
+[2026.03.02-10.36.22:120][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.03.02-10.36.22:239][609]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.36.22:321][609]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/WBP_ObjectiveUI] ([2] browsable assets)...
+[2026.03.02-10.36.22:325][609]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI]
+[2026.03.02-10.36.22:325][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/WBP_ObjectiveUI]
+[2026.03.02-10.36.22:328][609]LogSavePackage: Moving output files for package: /Game/UI/Widgets/WBP_ObjectiveUI
+[2026.03.02-10.36.22:329][609]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/WBP_ObjectiveUI0BB3B757469FB1CAD0D9AD8FDCA0FFD1.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/UI/Widgets/WBP_ObjectiveUI.uasset'
+[2026.03.02-10.36.22:345][609]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.816 ms (total: 10.9 sec)
+[2026.03.02-10.36.22:465][609]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.36.22:465][609]LogContentValidation: Enabled validators:
+[2026.03.02-10.36.22:465][609]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.36.22:465][609]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.36.22:465][609]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.36.22:465][609]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.36.22:465][609]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.36.22:465][609]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.36.22:465][609]AssetCheck: /Game/UI/Widgets/WBP_ObjectiveUI Validating asset
+[2026.03.02-10.36.32:553][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.03.02-10.36.32:702][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.36.32:790][ 84]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/WBP_ObjectiveUI] ([2] browsable assets)...
+[2026.03.02-10.36.32:793][ 84]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI]
+[2026.03.02-10.36.32:793][ 84]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/WBP_ObjectiveUI]
+[2026.03.02-10.36.32:796][ 84]LogSavePackage: Moving output files for package: /Game/UI/Widgets/WBP_ObjectiveUI
+[2026.03.02-10.36.32:796][ 84]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/WBP_ObjectiveUI252916244F9B75FC5265AF84A37FCC7A.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/UI/Widgets/WBP_ObjectiveUI.uasset'
+[2026.03.02-10.36.32:809][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.708 ms (total: 11.0 sec)
+[2026.03.02-10.36.32:910][ 84]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.36.32:910][ 84]LogContentValidation: Enabled validators:
+[2026.03.02-10.36.32:910][ 84]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.36.32:910][ 84]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.36.32:910][ 84]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.36.32:910][ 84]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.36.32:910][ 84]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.36.32:910][ 84]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.36.32:911][ 84]AssetCheck: /Game/UI/Widgets/WBP_ObjectiveUI Validating asset
+[2026.03.02-10.37.31:123][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.03.02-10.37.31:283][833]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.37.31:378][833]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/WBP_ObjectiveUI] ([2] browsable assets)...
+[2026.03.02-10.37.31:381][833]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI]
+[2026.03.02-10.37.31:381][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/WBP_ObjectiveUI]
+[2026.03.02-10.37.31:385][833]LogSavePackage: Moving output files for package: /Game/UI/Widgets/WBP_ObjectiveUI
+[2026.03.02-10.37.31:386][833]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/WBP_ObjectiveUIA8E2A92F415CE51EB5D79DA52DD3741F.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/UI/Widgets/WBP_ObjectiveUI.uasset'
+[2026.03.02-10.37.31:400][833]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.927 ms (total: 11.1 sec)
+[2026.03.02-10.37.31:520][833]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.37.31:520][833]LogContentValidation: Enabled validators:
+[2026.03.02-10.37.31:520][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.37.31:520][833]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.37.31:520][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.37.31:520][833]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.37.31:520][833]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.37.31:520][833]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.37.31:520][833]AssetCheck: /Game/UI/Widgets/WBP_ObjectiveUI Validating asset
+[2026.03.02-10.37.59:781][165]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.02-10.38.01:711][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.03.02-10.38.01:831][249]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.38.01:903][249]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/WBP_ObjectiveUI] ([2] browsable assets)...
+[2026.03.02-10.38.01:906][249]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI]
+[2026.03.02-10.38.01:906][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/WBP_ObjectiveUI]
+[2026.03.02-10.38.01:910][249]LogSavePackage: Moving output files for package: /Game/UI/Widgets/WBP_ObjectiveUI
+[2026.03.02-10.38.01:910][249]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/WBP_ObjectiveUI32E706B04BFDBA31C40828B16B4E4E5F.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/UI/Widgets/WBP_ObjectiveUI.uasset'
+[2026.03.02-10.38.01:937][249]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.971 ms (total: 11.2 sec)
+[2026.03.02-10.38.02:042][249]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.38.02:042][249]LogContentValidation: Enabled validators:
+[2026.03.02-10.38.02:042][249]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.38.02:042][249]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.38.02:042][249]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.38.02:042][249]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.38.02:042][249]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.38.02:042][249]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.38.02:042][249]AssetCheck: /Game/UI/Widgets/WBP_ObjectiveUI Validating asset
+[2026.03.02-10.39.35:514][752]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.02-10.39.36:860][815]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5491.626953
+[2026.03.02-10.39.37:026][823]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-10.39.37:026][823]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5491.773926, Update Interval: 315.002289
+[2026.03.02-10.40.53:375][515]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.40.53:483][515]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/WBP_ObjectiveUI] ([2] browsable assets)...
+[2026.03.02-10.40.53:487][515]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI]
+[2026.03.02-10.40.53:487][515]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/WBP_ObjectiveUI]
+[2026.03.02-10.40.53:491][515]LogSavePackage: Moving output files for package: /Game/UI/Widgets/WBP_ObjectiveUI
+[2026.03.02-10.40.53:492][515]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/WBP_ObjectiveUI01C9D5A741401C9222A972AB5D33B41E.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/UI/Widgets/WBP_ObjectiveUI.uasset'
+[2026.03.02-10.40.53:505][515]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.331 ms (total: 11.3 sec)
+[2026.03.02-10.40.53:627][515]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.40.53:627][515]LogContentValidation: Enabled validators:
+[2026.03.02-10.40.53:627][515]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.40.53:627][515]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.40.53:627][515]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.40.53:627][515]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.40.53:627][515]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.40.53:627][515]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.40.53:627][515]AssetCheck: /Game/UI/Widgets/WBP_ObjectiveUI Validating asset
+[2026.03.02-10.41.05:621][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.41.05:728][ 96]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/WBP_ObjectiveUI] ([2] browsable assets)...
+[2026.03.02-10.41.05:732][ 96]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI]
+[2026.03.02-10.41.05:732][ 96]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/WBP_ObjectiveUI]
+[2026.03.02-10.41.05:735][ 96]LogSavePackage: Moving output files for package: /Game/UI/Widgets/WBP_ObjectiveUI
+[2026.03.02-10.41.05:735][ 96]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/WBP_ObjectiveUI02481BCF457A21D208CC5799D11EC9A0.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/UI/Widgets/WBP_ObjectiveUI.uasset'
+[2026.03.02-10.41.05:749][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.614 ms (total: 11.5 sec)
+[2026.03.02-10.41.05:844][ 96]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.41.05:844][ 96]LogContentValidation: Enabled validators:
+[2026.03.02-10.41.05:844][ 96]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.41.05:844][ 96]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.41.05:844][ 96]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.41.05:844][ 96]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.41.05:844][ 96]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.41.05:844][ 96]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.41.05:845][ 96]AssetCheck: /Game/UI/Widgets/WBP_ObjectiveUI Validating asset
+[2026.03.02-10.41.19:379][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2026.03.02-10.41.19:500][750]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.41.19:592][750]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/WBP_ObjectiveUI] ([2] browsable assets)...
+[2026.03.02-10.41.19:597][750]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI]
+[2026.03.02-10.41.19:597][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/WBP_ObjectiveUI]
+[2026.03.02-10.41.19:602][750]LogSavePackage: Moving output files for package: /Game/UI/Widgets/WBP_ObjectiveUI
+[2026.03.02-10.41.19:603][750]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/WBP_ObjectiveUI78A859A64B52B491D441CA8333D5AA80.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/UI/Widgets/WBP_ObjectiveUI.uasset'
+[2026.03.02-10.41.19:622][750]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.408 ms (total: 11.6 sec)
+[2026.03.02-10.41.19:742][750]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.41.19:742][750]LogContentValidation: Enabled validators:
+[2026.03.02-10.41.19:742][750]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.41.19:742][750]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.41.19:742][750]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.41.19:742][750]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.41.19:742][750]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.41.19:742][750]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.41.19:743][750]AssetCheck: /Game/UI/Widgets/WBP_ObjectiveUI Validating asset
+[2026.03.02-10.42.56:427][374]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.42.56:538][374]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/WBP_ObjectiveUI] ([2] browsable assets)...
+[2026.03.02-10.42.56:542][374]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI]
+[2026.03.02-10.42.56:542][374]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/WBP_ObjectiveUI]
+[2026.03.02-10.42.56:546][374]LogSavePackage: Moving output files for package: /Game/UI/Widgets/WBP_ObjectiveUI
+[2026.03.02-10.42.56:547][374]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/WBP_ObjectiveUI192C852C400E47FB7CAC20AE8B851F72.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/UI/Widgets/WBP_ObjectiveUI.uasset'
+[2026.03.02-10.42.56:561][374]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.888 ms (total: 11.7 sec)
+[2026.03.02-10.42.56:658][374]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.42.56:658][374]LogContentValidation: Enabled validators:
+[2026.03.02-10.42.56:658][374]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.42.56:658][374]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.42.56:658][374]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.42.56:658][374]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.42.56:658][374]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.42.56:658][374]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.42.56:659][374]AssetCheck: /Game/UI/Widgets/WBP_ObjectiveUI Validating asset
+[2026.03.02-10.43.00:464][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.03.02-10.43.31:189][959]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.43.31:294][959]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/WBP_ObjectiveUI] ([2] browsable assets)...
+[2026.03.02-10.43.31:299][959]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI]
+[2026.03.02-10.43.31:299][959]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/WBP_ObjectiveUI]
+[2026.03.02-10.43.31:303][959]LogSavePackage: Moving output files for package: /Game/UI/Widgets/WBP_ObjectiveUI
+[2026.03.02-10.43.31:305][959]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/WBP_ObjectiveUI01439A704BEE73CFFDA23D94BAE736AB.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/UI/Widgets/WBP_ObjectiveUI.uasset'
+[2026.03.02-10.43.31:317][959]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.508 ms (total: 11.8 sec)
+[2026.03.02-10.43.31:423][959]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.43.31:423][959]LogContentValidation: Enabled validators:
+[2026.03.02-10.43.31:423][959]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.43.31:423][959]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.43.31:424][959]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.43.31:424][959]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.43.31:424][959]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.43.31:424][959]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.43.31:424][959]AssetCheck: /Game/UI/Widgets/WBP_ObjectiveUI Validating asset
+[2026.03.02-10.43.38:029][276]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.43.38:139][276]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/WBP_ObjectiveUI] ([2] browsable assets)...
+[2026.03.02-10.43.38:142][276]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI]
+[2026.03.02-10.43.38:142][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/WBP_ObjectiveUI]
+[2026.03.02-10.43.38:148][276]LogSavePackage: Moving output files for package: /Game/UI/Widgets/WBP_ObjectiveUI
+[2026.03.02-10.43.38:148][276]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/WBP_ObjectiveUI768B04014FC5567612C09180D635A9EF.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/UI/Widgets/WBP_ObjectiveUI.uasset'
+[2026.03.02-10.43.38:160][276]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.648 ms (total: 12.0 sec)
+[2026.03.02-10.43.38:278][276]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.43.38:278][276]LogContentValidation: Enabled validators:
+[2026.03.02-10.43.38:278][276]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.43.38:278][276]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.43.38:278][276]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.43.38:278][276]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.43.38:278][276]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.43.38:279][276]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.43.38:279][276]AssetCheck: /Game/UI/Widgets/WBP_ObjectiveUI Validating asset
+[2026.03.02-10.43.57:319][186]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.43.57:446][186]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/WBP_ObjectiveUI] ([2] browsable assets)...
+[2026.03.02-10.43.57:449][186]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI]
+[2026.03.02-10.43.57:449][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/WBP_ObjectiveUI]
+[2026.03.02-10.43.57:454][186]LogSavePackage: Moving output files for package: /Game/UI/Widgets/WBP_ObjectiveUI
+[2026.03.02-10.43.57:454][186]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/WBP_ObjectiveUIEB4D16CB484C84EFF26E0AA632C7D66C.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/UI/Widgets/WBP_ObjectiveUI.uasset'
+[2026.03.02-10.43.57:468][186]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.595 ms (total: 12.1 sec)
+[2026.03.02-10.43.57:590][186]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.43.57:590][186]LogContentValidation: Enabled validators:
+[2026.03.02-10.43.57:590][186]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.43.57:590][186]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.43.57:590][186]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.43.57:590][186]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.43.57:590][186]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.43.57:590][186]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.43.57:591][186]AssetCheck: /Game/UI/Widgets/WBP_ObjectiveUI Validating asset
+[2026.03.02-10.45.27:805][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2026.03.02-10.45.27:965][593]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.45.28:047][593]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/WBP_ObjectiveUI] ([2] browsable assets)...
+[2026.03.02-10.45.28:054][593]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI]
+[2026.03.02-10.45.28:054][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/WBP_ObjectiveUI]
+[2026.03.02-10.45.28:058][593]LogSavePackage: Moving output files for package: /Game/UI/Widgets/WBP_ObjectiveUI
+[2026.03.02-10.45.28:059][593]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/WBP_ObjectiveUI5F7B20FB4B9961774DE938A21E56F85E.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/UI/Widgets/WBP_ObjectiveUI.uasset'
+[2026.03.02-10.45.28:075][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.623 ms (total: 12.2 sec)
+[2026.03.02-10.45.28:183][593]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.45.28:183][593]LogContentValidation: Enabled validators:
+[2026.03.02-10.45.28:183][593]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.45.28:184][593]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.45.28:184][593]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.45.28:184][593]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.45.28:184][593]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.45.28:184][593]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.45.28:184][593]AssetCheck: /Game/UI/Widgets/WBP_ObjectiveUI Validating asset
+[2026.03.02-10.45.34:999][915]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5849.758789
+[2026.03.02-10.45.35:193][924]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-10.45.35:193][924]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5849.929688, Update Interval: 335.049286
+[2026.03.02-10.46.15:972][874]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.FullEnvironment
+[2026.03.02-10.46.15:973][874]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_57
+[2026.03.02-10.46.47:889][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.03.02-10.46.47:908][334]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.46.48:049][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.03.02-10.46.48:657][334]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.02-10.46.48:659][334]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironment2338F2CE42747031BCDE6F997FC29DDE.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.02-10.46.48:693][334]LogFileHelpers: Saving map 'FullEnvironment' took 0.707
+[2026.03.02-10.46.48:704][334]LogFileHelpers: InternalPromptForCheckoutAndSave took 796.319 ms (total: 13.0 sec)
+[2026.03.02-10.46.48:793][334]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.46.48:793][334]LogContentValidation: Enabled validators:
+[2026.03.02-10.46.48:793][334]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.46.48:793][334]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.46.48:793][334]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.46.48:793][334]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.46.48:793][334]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.46.48:793][334]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.46.48:795][334]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.02-10.47.00:027][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.03.02-10.47.00:047][859]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.47.00:217][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.03.02-10.47.00:884][859]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.02-10.47.00:885][859]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironmentC633CB50446C43CEAC88D7A2839275BE.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.02-10.47.00:913][859]LogFileHelpers: Saving map 'FullEnvironment' took 0.772
+[2026.03.02-10.47.00:925][859]LogFileHelpers: InternalPromptForCheckoutAndSave took 878.151 ms (total: 13.9 sec)
+[2026.03.02-10.47.01:016][859]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.47.01:016][859]LogContentValidation: Enabled validators:
+[2026.03.02-10.47.01:016][859]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.47.01:016][859]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.47.01:016][859]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.47.01:016][859]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.47.01:016][859]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.47.01:016][859]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.47.01:016][859]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.02-10.47.06:955][147]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.02-10.47.06:986][147]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.02-10.47.06:986][147]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FullEnvironment
+[2026.03.02-10.47.07:197][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:197][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:261][147]LogPlayLevel: PIE: StaticDuplicateObject took: (0.273460s)
+[2026.03.02-10.47.07:261][147]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FullEnvironment.FullEnvironment to /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment (0.273533s)
+[2026.03.02-10.47.07:293][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.03.02-10.47.07:297][147]LogChaosDD: Creating Chaos Debug Draw Scene for world FullEnvironment
+[2026.03.02-10.47.07:299][147]LogPlayLevel: PIE: World Init took: (0.001922s)
+[2026.03.02-10.47.07:300][147]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.03.02-10.47.07:300][147]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.02-10.47.07:300][147]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.02-10.47.07:300][147]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.02-10.47.07:300][147]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.02-10.47.07:300][147]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.02-10.47.07:300][147]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.02-10.47.07:300][147]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.02-10.47.07:300][147]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.02-10.47.07:300][147]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.02-10.47.07:300][147]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.02-10.47.07:300][147]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.02-10.47.07:303][147]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.02-10.47.07:346][147]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Realtek(R) Audio)
+[2026.03.02-10.47.07:346][147]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.02-10.47.07:347][147]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.02-10.47.07:347][147]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.02-10.47.07:348][147]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.03.02-10.47.07:348][147]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.03.02-10.47.07:351][147]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.03.02-10.47.07:351][147]LogInit: FAudioDevice initialized with ID 11.
+[2026.03.02-10.47.07:351][147]LogAudio: Display: Audio Device (ID: 11) registered with world 'FullEnvironment'.
+[2026.03.02-10.47.07:351][147]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.03.02-10.47.07:351][147]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.03.02-10.47.07:360][147]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.02-10.47.07:477][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:477][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:477][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:477][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:477][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:477][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:477][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:477][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:573][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:574][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:574][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:574][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:574][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:574][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:574][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:574][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:574][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:574][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:574][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:574][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:574][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:574][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:574][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:574][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:574][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:574][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:574][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:574][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:574][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:574][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:576][147]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment up for play (max tick rate 60) at 2026.03.02-10.47.07
+[2026.03.02-10.47.07:579][147]LogWorld: Bringing up level for play took: 0.219398
+[2026.03.02-10.47.07:583][147]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2026.03.02-10.47.07:600][147]PIE: Server logged in
+[2026.03.02-10.47.07:602][147]PIE: Play in editor total start time 0.632 seconds.
+[2026.03.02-10.47.07:606][147]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'AllEnemyActions' of length 0 in '/Game/AI/Components/C_InformationTracker.C_InformationTracker_C'!
+[2026.03.02-10.47.07:606][147]LogScript: Warning: Script Msg called by: C_InformationTracker_C /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment:PersistentLevel.AI_AdvancedStitched_C_1.InformationTracker
+[2026.03.02-10.47.07:699][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:699][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:700][147]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.07:853][149]LogBlueprintUserMessages: [InformationTracker] Enemy in room: Room20
+[2026.03.02-10.47.11:346][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.02-10.47.11:346][303]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FullEnvironment
+[2026.03.02-10.47.11:347][303]LogWorld: UWorld::CleanupWorld for FullEnvironment, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-10.47.11:401][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-10.47.11:408][303]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.02-10.47.11:415][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-10.47.11:448][303]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.02-10.47.11:460][303]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.03.02-10.47.11:460][303]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2026.03.02-10.47.11:463][303]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2026.03.02-10.47.11:468][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.02-10.47.11:500][303]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2026.03.02-10.47.11:599][304]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2026.03.02-10.47.23:651][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2026.03.02-10.47.23:671][800]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-10.47.23:818][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.03.02-10.47.24:381][800]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.02-10.47.24:383][800]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironment58E5019C42B4AC59F26658BF4FBDBF3F.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.02-10.47.24:411][800]LogFileHelpers: Saving map 'FullEnvironment' took 0.667
+[2026.03.02-10.47.24:421][800]LogFileHelpers: InternalPromptForCheckoutAndSave took 749.508 ms (total: 14.7 sec)
+[2026.03.02-10.47.24:508][800]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-10.47.24:508][800]LogContentValidation: Enabled validators:
+[2026.03.02-10.47.24:508][800]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-10.47.24:508][800]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-10.47.24:508][800]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-10.47.24:508][800]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-10.47.24:508][800]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-10.47.24:508][800]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-10.47.24:510][800]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.02-10.47.25:822][852]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.02-10.47.25:846][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.02-10.47.25:846][852]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FullEnvironment
+[2026.03.02-10.47.26:010][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:010][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:058][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.211607s)
+[2026.03.02-10.47.26:059][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FullEnvironment.FullEnvironment to /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment (0.211676s)
+[2026.03.02-10.47.26:083][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.03.02-10.47.26:085][852]LogChaosDD: Creating Chaos Debug Draw Scene for world FullEnvironment
+[2026.03.02-10.47.26:087][852]LogPlayLevel: PIE: World Init took: (0.001656s)
+[2026.03.02-10.47.26:088][852]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.03.02-10.47.26:088][852]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.02-10.47.26:088][852]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.02-10.47.26:088][852]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.02-10.47.26:088][852]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.02-10.47.26:088][852]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.02-10.47.26:088][852]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.02-10.47.26:088][852]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.02-10.47.26:088][852]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.02-10.47.26:088][852]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.02-10.47.26:088][852]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.02-10.47.26:089][852]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.02-10.47.26:091][852]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.02-10.47.26:128][852]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Realtek(R) Audio)
+[2026.03.02-10.47.26:128][852]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.02-10.47.26:128][852]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.02-10.47.26:128][852]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.02-10.47.26:129][852]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2026.03.02-10.47.26:129][852]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.03.02-10.47.26:132][852]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.03.02-10.47.26:132][852]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2026.03.02-10.47.26:132][852]LogInit: FAudioDevice initialized with ID 12.
+[2026.03.02-10.47.26:132][852]LogAudio: Display: Audio Device (ID: 12) registered with world 'FullEnvironment'.
+[2026.03.02-10.47.26:132][852]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.03.02-10.47.26:137][852]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.02-10.47.26:252][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:252][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:252][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:252][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:252][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:252][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:252][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:252][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:340][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:340][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:340][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:340][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:340][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:340][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:340][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:340][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:340][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:340][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:340][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:340][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:340][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:340][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:340][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:340][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:340][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:340][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:340][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:340][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:340][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:340][852]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:343][852]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment up for play (max tick rate 60) at 2026.03.02-10.47.26
+[2026.03.02-10.47.26:347][852]LogWorld: Bringing up level for play took: 0.209557
+[2026.03.02-10.47.26:350][852]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2026.03.02-10.47.26:367][852]PIE: Server logged in
+[2026.03.02-10.47.26:368][852]PIE: Play in editor total start time 0.532 seconds.
+[2026.03.02-10.47.26:371][852]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'AllEnemyActions' of length 0 in '/Game/AI/Components/C_InformationTracker.C_InformationTracker_C'!
+[2026.03.02-10.47.26:371][852]LogScript: Warning: Script Msg called by: C_InformationTracker_C /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment:PersistentLevel.AI_AdvancedStitched_C_1.InformationTracker
+[2026.03.02-10.47.26:475][853]LogBlueprintUserMessages: [InformationTracker] Enemy in room: Room20
+[2026.03.02-10.47.26:476][853]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:476][853]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.26:476][853]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.02-10.47.36:978][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.02-10.47.36:978][324]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FullEnvironment
+[2026.03.02-10.47.36:980][324]LogWorld: UWorld::CleanupWorld for FullEnvironment, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-10.47.37:035][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-10.47.37:042][324]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.02-10.47.37:051][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-10.47.37:079][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.02-10.47.37:094][324]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.03.02-10.47.37:095][324]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2026.03.02-10.47.37:097][324]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2026.03.02-10.47.37:130][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.03.02-10.47.37:229][325]LogPlayLevel: Display: Destroying online subsystem :Context_37
