@@ -68076,3 +68076,766 @@ ROAM || 27.272727%
 [2026.03.07-23.29.17:114][662]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15952.744141
 [2026.03.07-23.29.18:113][665]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.07-23.29.18:113][665]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15953.411133, Update Interval: 333.864563
+[2026.03.07-23.34.01:453][715]LogBlueprint: Error: [AssetLog] C:\Users\landy\OneDrive\Documents\Unreal Projects\fear-behaviour-trees\Content\AI\Trees\Tasks\BTT_DetermineProbability_Room.uasset: [Compiler] The type of  Array generated from expanding For Each Loop  is undetermined.  Connect something to  For Each Loop generated from expanding For Each Loop  to imply a specific type.
+[2026.03.07-23.34.01:453][715]LogBlueprint: Error: [AssetLog] C:\Users\landy\OneDrive\Documents\Unreal Projects\fear-behaviour-trees\Content\AI\Trees\Tasks\BTT_DetermineProbability_Room.uasset: [Compiler] The type of  Target Array generated from expanding Calculate Action Weightings  is undetermined.  Connect something to  Length generated from expanding Calculate Action Weightings  to imply a specific type.
+[2026.03.07-23.34.01:550][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.03.07-23.35.09:096][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.03.07-23.35.09:161][627]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.07-23.35.09:197][627]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room] ([2] browsable assets)...
+[2026.03.07-23.35.09:197][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room]
+[2026.03.07-23.35.09:237][627]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room
+[2026.03.07-23.35.09:238][627]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_DetermineProbability_Room57AC6D6B435149BFC4829E97464DAEE0.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_DetermineProbability_Room.uasset'
+[2026.03.07-23.35.09:252][627]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.375 ms (total: 19.5 sec)
+[2026.03.07-23.35.09:295][627]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.07-23.35.09:295][627]LogContentValidation: Enabled validators:
+[2026.03.07-23.35.09:295][627]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.07-23.35.09:295][627]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.07-23.35.09:295][627]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.07-23.35.09:295][627]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.07-23.35.09:295][627]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.07-23.35.09:295][627]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.07-23.35.09:296][627]AssetCheck: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room Validating asset
+[2026.03.07-23.35.31:228][893]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16326.855469
+[2026.03.07-23.35.31:395][903]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.07-23.35.31:395][903]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16327.006836, Update Interval: 342.987152
+[2026.03.07-23.35.48:747][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.03.07-23.35.48:814][927]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.07-23.35.48:857][927]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room] ([2] browsable assets)...
+[2026.03.07-23.35.48:857][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room]
+[2026.03.07-23.35.48:896][927]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room
+[2026.03.07-23.35.48:897][927]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_DetermineProbability_Room73C3B14D4378FB19623E6791BC65149B.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_DetermineProbability_Room.uasset'
+[2026.03.07-23.35.48:911][927]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.191 ms (total: 19.6 sec)
+[2026.03.07-23.35.48:961][927]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.07-23.35.48:961][927]LogContentValidation: Enabled validators:
+[2026.03.07-23.35.48:961][927]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.07-23.35.48:962][927]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.07-23.35.48:962][927]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.07-23.35.48:962][927]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.07-23.35.48:962][927]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.07-23.35.48:962][927]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.07-23.35.48:962][927]AssetCheck: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room Validating asset
+[2026.03.07-23.36.28:518][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.07-23.36.28:584][183]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.07-23.36.28:621][183]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room] ([2] browsable assets)...
+[2026.03.07-23.36.28:621][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room]
+[2026.03.07-23.36.28:663][183]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room
+[2026.03.07-23.36.28:665][183]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_DetermineProbability_Room5F48D9F344CEE48A5FD028B023BB115B.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_DetermineProbability_Room.uasset'
+[2026.03.07-23.36.28:679][183]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.494 ms (total: 19.7 sec)
+[2026.03.07-23.36.28:726][183]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.07-23.36.28:727][183]LogContentValidation: Enabled validators:
+[2026.03.07-23.36.28:727][183]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.07-23.36.28:727][183]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.07-23.36.28:727][183]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.07-23.36.28:727][183]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.07-23.36.28:727][183]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.07-23.36.28:727][183]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.07-23.36.28:727][183]AssetCheck: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room Validating asset
+[2026.03.07-23.36.45:412][162]LogEditorTransaction: Undo Move Node
+[2026.03.07-23.37.36:980][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.03.07-23.37.37:043][198]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.07-23.37.37:078][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room] ([2] browsable assets)...
+[2026.03.07-23.37.37:078][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room]
+[2026.03.07-23.37.37:122][198]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room
+[2026.03.07-23.37.37:123][198]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_DetermineProbability_Room3B4F25AC4D6E41149A725C9B7EA518B0.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_DetermineProbability_Room.uasset'
+[2026.03.07-23.37.37:138][198]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.810 ms (total: 19.8 sec)
+[2026.03.07-23.37.37:181][198]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.07-23.37.37:181][198]LogContentValidation: Enabled validators:
+[2026.03.07-23.37.37:181][198]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.07-23.37.37:181][198]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.07-23.37.37:181][198]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.07-23.37.37:181][198]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.07-23.37.37:181][198]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.07-23.37.37:181][198]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.07-23.37.37:181][198]AssetCheck: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room Validating asset
+[2026.03.07-23.37.52:425][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.03.07-23.37.52:498][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.07-23.37.52:539][ 73]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room] ([2] browsable assets)...
+[2026.03.07-23.37.52:539][ 73]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room]
+[2026.03.07-23.37.52:581][ 73]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room
+[2026.03.07-23.37.52:582][ 73]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_DetermineProbability_Room42493FB44CB133A69862579D59274A13.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_DetermineProbability_Room.uasset'
+[2026.03.07-23.37.52:592][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.236 ms (total: 19.9 sec)
+[2026.03.07-23.37.52:634][ 73]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.07-23.37.52:634][ 73]LogContentValidation: Enabled validators:
+[2026.03.07-23.37.52:634][ 73]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.07-23.37.52:634][ 73]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.07-23.37.52:634][ 73]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.07-23.37.52:634][ 73]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.07-23.37.52:634][ 73]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.07-23.37.52:634][ 73]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.07-23.37.52:634][ 73]AssetCheck: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room Validating asset
+[2026.03.07-23.38.32:315][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.03.07-23.38.32:486][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.07-23.38.32:523][ 89]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room] ([2] browsable assets)...
+[2026.03.07-23.38.32:523][ 89]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room]
+[2026.03.07-23.38.32:561][ 89]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room
+[2026.03.07-23.38.32:562][ 89]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_DetermineProbability_RoomD74E18854B66D7CE2DAE0F930BCAF968.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_DetermineProbability_Room.uasset'
+[2026.03.07-23.38.32:580][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.389 ms (total: 19.9 sec)
+[2026.03.07-23.38.32:622][ 89]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.07-23.38.32:622][ 89]LogContentValidation: Enabled validators:
+[2026.03.07-23.38.32:622][ 89]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.07-23.38.32:622][ 89]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.07-23.38.32:622][ 89]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.07-23.38.32:622][ 89]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.07-23.38.32:622][ 89]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.07-23.38.32:622][ 89]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.07-23.38.32:622][ 89]AssetCheck: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room Validating asset
+[2026.03.07-23.41.53:752][758]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16709.423828
+[2026.03.07-23.41.54:751][761]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.07-23.41.54:751][761]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16710.087891, Update Interval: 345.492126
+[2026.03.07-23.42.35:864][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.03.07-23.42.35:953][227]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.07-23.42.35:988][227]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room] ([2] browsable assets)...
+[2026.03.07-23.42.35:988][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room]
+[2026.03.07-23.42.36:028][227]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room
+[2026.03.07-23.42.36:029][227]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_DetermineProbability_Room781B78BB41E912641AA0BFAE37592E70.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_DetermineProbability_Room.uasset'
+[2026.03.07-23.42.36:042][227]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.284 ms (total: 20.0 sec)
+[2026.03.07-23.42.36:088][227]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.07-23.42.36:088][227]LogContentValidation: Enabled validators:
+[2026.03.07-23.42.36:088][227]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.07-23.42.36:088][227]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.07-23.42.36:088][227]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.07-23.42.36:088][227]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.07-23.42.36:088][227]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.07-23.42.36:088][227]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.07-23.42.36:088][227]AssetCheck: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room Validating asset
+[2026.03.07-23.44.20:135][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.03.07-23.44.20:221][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.07-23.44.20:255][332]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room] ([2] browsable assets)...
+[2026.03.07-23.44.20:255][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room]
+[2026.03.07-23.44.20:298][332]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room
+[2026.03.07-23.44.20:299][332]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_DetermineProbability_RoomB4DD61BA4E3BA73456E9209DCC5544F8.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_DetermineProbability_Room.uasset'
+[2026.03.07-23.44.20:314][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.467 ms (total: 20.1 sec)
+[2026.03.07-23.44.20:358][332]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.07-23.44.20:358][332]LogContentValidation: Enabled validators:
+[2026.03.07-23.44.20:358][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.07-23.44.20:358][332]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.07-23.44.20:358][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.07-23.44.20:358][332]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.07-23.44.20:358][332]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.07-23.44.20:358][332]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.07-23.44.20:358][332]AssetCheck: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room Validating asset
+[2026.03.07-23.44.58:546][503]LogEditorTransaction: Undo Create Reroute Node
+[2026.03.07-23.45.12:579][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.03.07-23.45.12:671][304]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.07-23.45.12:707][304]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room] ([2] browsable assets)...
+[2026.03.07-23.45.12:707][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room]
+[2026.03.07-23.45.12:750][304]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room
+[2026.03.07-23.45.12:751][304]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_DetermineProbability_Room1A1A90D6428F101143F830A470445B30.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_DetermineProbability_Room.uasset'
+[2026.03.07-23.45.12:766][304]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.904 ms (total: 20.2 sec)
+[2026.03.07-23.45.12:821][304]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.07-23.45.12:821][304]LogContentValidation: Enabled validators:
+[2026.03.07-23.45.12:821][304]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.07-23.45.12:821][304]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.07-23.45.12:821][304]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.07-23.45.12:821][304]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.07-23.45.12:821][304]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.07-23.45.12:821][304]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.07-23.45.12:821][304]AssetCheck: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room Validating asset
+[2026.03.07-23.46.01:790][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.03.07-23.46.01:903][194]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.07-23.46.01:948][194]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room] ([2] browsable assets)...
+[2026.03.07-23.46.01:949][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room]
+[2026.03.07-23.46.01:988][194]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room
+[2026.03.07-23.46.01:990][194]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_DetermineProbability_Room3A43EB184F3305CEAE038DA3FA0AE9D8.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_DetermineProbability_Room.uasset'
+[2026.03.07-23.46.02:005][194]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.119 ms (total: 20.3 sec)
+[2026.03.07-23.46.02:049][194]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.07-23.46.02:049][194]LogContentValidation: Enabled validators:
+[2026.03.07-23.46.02:049][194]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.07-23.46.02:049][194]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.07-23.46.02:049][194]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.07-23.46.02:049][194]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.07-23.46.02:049][194]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.07-23.46.02:049][194]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.07-23.46.02:050][194]AssetCheck: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room Validating asset
+[2026.03.07-23.46.09:868][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.03.07-23.46.09:970][620]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.07-23.46.10:012][620]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room] ([2] browsable assets)...
+[2026.03.07-23.46.10:012][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room]
+[2026.03.07-23.46.10:054][620]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room
+[2026.03.07-23.46.10:055][620]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_DetermineProbability_Room009434A74FDB471770F40D9FCB6908C6.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_DetermineProbability_Room.uasset'
+[2026.03.07-23.46.10:069][620]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.509 ms (total: 20.4 sec)
+[2026.03.07-23.46.10:118][620]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.07-23.46.10:119][620]LogContentValidation: Enabled validators:
+[2026.03.07-23.46.10:119][620]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.07-23.46.10:119][620]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.07-23.46.10:119][620]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.07-23.46.10:119][620]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.07-23.46.10:119][620]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.07-23.46.10:119][620]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.07-23.46.10:119][620]AssetCheck: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room Validating asset
+[2026.03.07-23.46.15:489][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.03.07-23.46.15:633][924]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.07-23.46.15:687][924]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Components/C_InformationTracker] ([2] browsable assets)...
+[2026.03.07-23.46.15:687][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Components/C_InformationTracker]
+[2026.03.07-23.46.15:729][924]LogSavePackage: Moving output files for package: /Game/AI/Components/C_InformationTracker
+[2026.03.07-23.46.15:731][924]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/C_InformationTracker28832CDD4838BBB61F70979B7474F0E7.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Components/C_InformationTracker.uasset'
+[2026.03.07-23.46.15:740][924]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.281 ms (total: 20.5 sec)
+[2026.03.07-23.46.15:781][924]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.07-23.46.15:781][924]LogContentValidation: Enabled validators:
+[2026.03.07-23.46.15:781][924]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.07-23.46.15:781][924]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.07-23.46.15:781][924]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.07-23.46.15:781][924]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.07-23.46.15:781][924]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.07-23.46.15:781][924]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.07-23.46.15:781][924]AssetCheck: /Game/AI/Components/C_InformationTracker Validating asset
+[2026.03.07-23.47.19:825][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.07-23.47.19:861][376]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.07-23.47.19:898][376]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Components/C_InformationTracker] ([2] browsable assets)...
+[2026.03.07-23.47.19:898][376]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Components/C_InformationTracker]
+[2026.03.07-23.47.19:942][376]LogSavePackage: Moving output files for package: /Game/AI/Components/C_InformationTracker
+[2026.03.07-23.47.19:943][376]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/C_InformationTrackerFFA6C0C3465506F5FA7BCE9D9886CE53.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Components/C_InformationTracker.uasset'
+[2026.03.07-23.47.19:944][376]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Action] ([2] browsable assets)...
+[2026.03.07-23.47.19:944][376]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Action]
+[2026.03.07-23.47.19:977][376]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Action
+[2026.03.07-23.47.19:978][376]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_DetermineProbability_Action7EEBE7C14ECC64C3E00D9F8EF9620BC4.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_DetermineProbability_Action.uasset'
+[2026.03.07-23.47.19:990][376]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.305 ms (total: 20.7 sec)
+[2026.03.07-23.47.20:029][376]LogContentValidation: Display: Starting to validate 2 assets
+[2026.03.07-23.47.20:030][376]LogContentValidation: Enabled validators:
+[2026.03.07-23.47.20:030][376]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.07-23.47.20:030][376]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.07-23.47.20:030][376]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.07-23.47.20:030][376]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.07-23.47.20:030][376]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.07-23.47.20:030][376]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.07-23.47.20:030][376]AssetCheck: /Game/AI/Components/C_InformationTracker Validating asset
+[2026.03.07-23.47.20:030][376]AssetCheck: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Action Validating asset
+[2026.03.07-23.47.21:237][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.03.07-23.47.21:331][432]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.07-23.47.21:365][432]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room] ([2] browsable assets)...
+[2026.03.07-23.47.21:365][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room]
+[2026.03.07-23.47.21:417][432]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room
+[2026.03.07-23.47.21:419][432]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_DetermineProbability_Room856C0DDA4B7F3EEC1CFB4DA18FB5A52E.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_DetermineProbability_Room.uasset'
+[2026.03.07-23.47.21:431][432]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.398 ms (total: 20.8 sec)
+[2026.03.07-23.47.21:477][432]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.07-23.47.21:477][432]LogContentValidation: Enabled validators:
+[2026.03.07-23.47.21:477][432]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.07-23.47.21:477][432]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.07-23.47.21:477][432]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.07-23.47.21:477][432]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.07-23.47.21:477][432]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.07-23.47.21:477][432]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.07-23.47.21:477][432]AssetCheck: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room Validating asset
+[2026.03.07-23.47.49:071][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.03.07-23.47.49:179][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.07-23.47.49:228][ 20]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room] ([2] browsable assets)...
+[2026.03.07-23.47.49:228][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Room]
+[2026.03.07-23.47.49:268][ 20]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room
+[2026.03.07-23.47.49:269][ 20]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_DetermineProbability_Room9D1E81AE463C9FE72E7AE7BB25F8D687.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_DetermineProbability_Room.uasset'
+[2026.03.07-23.47.49:284][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.406 ms (total: 20.9 sec)
+[2026.03.07-23.47.49:324][ 20]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.07-23.47.49:324][ 20]LogContentValidation: Enabled validators:
+[2026.03.07-23.47.49:324][ 20]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.07-23.47.49:324][ 20]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.07-23.47.49:324][ 20]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.07-23.47.49:324][ 20]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.07-23.47.49:324][ 20]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.07-23.47.49:324][ 20]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.07-23.47.49:324][ 20]AssetCheck: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Room Validating asset
+[2026.03.07-23.48.24:096][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.03.07-23.48.24:223][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.07-23.48.24:260][ 85]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Components/C_InformationTracker] ([2] browsable assets)...
+[2026.03.07-23.48.24:260][ 85]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Components/C_InformationTracker]
+[2026.03.07-23.48.24:306][ 85]LogSavePackage: Moving output files for package: /Game/AI/Components/C_InformationTracker
+[2026.03.07-23.48.24:308][ 85]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/C_InformationTrackerD94C0513429B0A721323E0B970BAA5B9.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Components/C_InformationTracker.uasset'
+[2026.03.07-23.48.24:320][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.884 ms (total: 21.0 sec)
+[2026.03.07-23.48.24:355][ 85]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.07-23.48.24:356][ 85]LogContentValidation: Enabled validators:
+[2026.03.07-23.48.24:356][ 85]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.07-23.48.24:356][ 85]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.07-23.48.24:356][ 85]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.07-23.48.24:356][ 85]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.07-23.48.24:356][ 85]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.07-23.48.24:356][ 85]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.07-23.48.24:356][ 85]AssetCheck: /Game/AI/Components/C_InformationTracker Validating asset
+[2026.03.07-23.48.28:540][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.03.07-23.48.28:571][318]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.07-23.48.28:610][318]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_GetNewArea] ([2] browsable assets)...
+[2026.03.07-23.48.28:610][318]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_GetNewArea]
+[2026.03.07-23.48.28:613][318]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_GetNewArea
+[2026.03.07-23.48.28:615][318]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_GetNewAreaCFA21CBC4ABED1B3294A668AFB19C849.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_GetNewArea.uasset'
+[2026.03.07-23.48.28:628][318]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.038 ms (total: 21.0 sec)
+[2026.03.07-23.48.28:675][318]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.07-23.48.28:675][318]LogContentValidation: Enabled validators:
+[2026.03.07-23.48.28:675][318]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.07-23.48.28:675][318]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.07-23.48.28:675][318]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.07-23.48.28:675][318]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.07-23.48.28:675][318]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.07-23.48.28:675][318]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.07-23.48.28:675][318]AssetCheck: /Game/AI/Trees/Tasks/BTT_GetNewArea Validating asset
+[2026.03.07-23.48.36:501][781]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17112.292969
+[2026.03.07-23.48.36:652][790]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.07-23.48.36:652][790]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17112.423828, Update Interval: 326.053040
+[2026.03.07-23.48.38:113][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.07-23.48.38:143][873]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.07-23.48.38:178][873]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_GetNewArea] ([2] browsable assets)...
+[2026.03.07-23.48.38:178][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_GetNewArea]
+[2026.03.07-23.48.38:183][873]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_GetNewArea
+[2026.03.07-23.48.38:184][873]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_GetNewArea5FE234D34DAEC87B364A8CB5F24DA552.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_GetNewArea.uasset'
+[2026.03.07-23.48.38:198][873]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.096 ms (total: 21.1 sec)
+[2026.03.07-23.48.38:243][873]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.07-23.48.38:243][873]LogContentValidation: Enabled validators:
+[2026.03.07-23.48.38:243][873]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.07-23.48.38:243][873]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.07-23.48.38:243][873]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.07-23.48.38:243][873]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.07-23.48.38:243][873]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.07-23.48.38:243][873]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.07-23.48.38:243][873]AssetCheck: /Game/AI/Trees/Tasks/BTT_GetNewArea Validating asset
+[2026.03.07-23.50.43:260][ 52]LogEditorTransaction: Undo Straighten Connection(s)
+[2026.03.07-23.51.24:011][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.03.07-23.51.24:113][870]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.07-23.51.24:151][870]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Action] ([2] browsable assets)...
+[2026.03.07-23.51.24:151][870]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Action]
+[2026.03.07-23.51.24:183][870]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Action
+[2026.03.07-23.51.24:184][870]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_DetermineProbability_ActionDBFC2B324206E366AF3E69899045FEF3.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_DetermineProbability_Action.uasset'
+[2026.03.07-23.51.24:200][870]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.418 ms (total: 21.2 sec)
+[2026.03.07-23.51.24:248][870]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.07-23.51.24:248][870]LogContentValidation: Enabled validators:
+[2026.03.07-23.51.24:248][870]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.07-23.51.24:248][870]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.07-23.51.24:248][870]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.07-23.51.24:248][870]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.07-23.51.24:248][870]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.07-23.51.24:248][870]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.07-23.51.24:248][870]AssetCheck: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Action Validating asset
+[2026.03.07-23.53.15:517][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.03.07-23.53.15:626][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.07-23.53.15:668][ 61]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Action] ([2] browsable assets)...
+[2026.03.07-23.53.15:668][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Action]
+[2026.03.07-23.53.15:699][ 61]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Action
+[2026.03.07-23.53.15:701][ 61]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_DetermineProbability_Action5DD98247486C92601A67B7986AD343D5.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_DetermineProbability_Action.uasset'
+[2026.03.07-23.53.15:714][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.544 ms (total: 21.2 sec)
+[2026.03.07-23.53.15:751][ 61]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.07-23.53.15:751][ 61]LogContentValidation: Enabled validators:
+[2026.03.07-23.53.15:751][ 61]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.07-23.53.15:751][ 61]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.07-23.53.15:751][ 61]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.07-23.53.15:751][ 61]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.07-23.53.15:751][ 61]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.07-23.53.15:751][ 61]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.07-23.53.15:751][ 61]AssetCheck: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Action Validating asset
+[2026.03.07-23.53.19:249][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.03.07-23.53.19:362][215]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.07-23.53.19:402][215]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Action] ([2] browsable assets)...
+[2026.03.07-23.53.19:402][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_DetermineProbability_Action]
+[2026.03.07-23.53.19:435][215]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Action
+[2026.03.07-23.53.19:437][215]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_DetermineProbability_ActionE4C8DC13487562D8F65AAE9C5BCE3B6B.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_DetermineProbability_Action.uasset'
+[2026.03.07-23.53.19:450][215]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.631 ms (total: 21.3 sec)
+[2026.03.07-23.53.19:485][215]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.07-23.53.19:485][215]LogContentValidation: Enabled validators:
+[2026.03.07-23.53.19:485][215]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.07-23.53.19:485][215]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.07-23.53.19:485][215]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.07-23.53.19:485][215]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.07-23.53.19:485][215]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.07-23.53.19:485][215]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.07-23.53.19:485][215]AssetCheck: /Game/AI/Trees/Tasks/BTT_DetermineProbability_Action Validating asset
+[2026.03.07-23.53.22:934][375]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.07-23.53.22:955][375]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.07-23.53.22:955][375]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FullEnvironment
+[2026.03.07-23.53.23:106][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:106][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:152][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.196910s)
+[2026.03.07-23.53.23:152][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FullEnvironment.FullEnvironment to /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment (0.196962s)
+[2026.03.07-23.53.23:174][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.03.07-23.53.23:177][375]LogChaosDD: Creating Chaos Debug Draw Scene for world FullEnvironment
+[2026.03.07-23.53.23:179][375]LogPlayLevel: PIE: World Init took: (0.001780s)
+[2026.03.07-23.53.23:179][375]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2026.03.07-23.53.23:179][375]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.07-23.53.23:179][375]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.07-23.53.23:179][375]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.07-23.53.23:181][375]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.07-23.53.23:181][375]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.07-23.53.23:181][375]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.07-23.53.23:181][375]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.07-23.53.23:181][375]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.07-23.53.23:181][375]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.07-23.53.23:181][375]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.07-23.53.23:181][375]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.07-23.53.23:184][375]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.07-23.53.23:213][375]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH520)
+[2026.03.07-23.53.23:213][375]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.07-23.53.23:213][375]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.07-23.53.23:213][375]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.07-23.53.23:214][375]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=62
+[2026.03.07-23.53.23:215][375]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=62
+[2026.03.07-23.53.23:216][375]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=62
+[2026.03.07-23.53.23:217][375]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=62
+[2026.03.07-23.53.23:217][375]LogInit: FAudioDevice initialized with ID 62.
+[2026.03.07-23.53.23:217][375]LogAudio: Display: Audio Device (ID: 62) registered with world 'FullEnvironment'.
+[2026.03.07-23.53.23:217][375]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 62
+[2026.03.07-23.53.23:221][375]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.07-23.53.23:307][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:307][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:307][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:307][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:307][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:307][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:307][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:307][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:390][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:390][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:390][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:390][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:390][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:390][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:390][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:390][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:390][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:390][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:390][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:390][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:390][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:390][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:390][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:390][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:390][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:390][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:390][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:390][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:390][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:390][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:392][375]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment up for play (max tick rate 60) at 2026.03.07-23.53.23
+[2026.03.07-23.53.23:394][375]LogWorld: Bringing up level for play took: 0.173803
+[2026.03.07-23.53.23:398][375]LogOnline: OSS: Created online subsystem instance for: :Context_76
+[2026.03.07-23.53.23:413][375]PIE: Server logged in
+[2026.03.07-23.53.23:415][375]PIE: Play in editor total start time 0.467 seconds.
+[2026.03.07-23.53.23:420][375]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'AllEnemyActions' of length 0 in '/Game/AI/Components/C_InformationTracker.C_InformationTracker_C'!
+[2026.03.07-23.53.23:420][375]LogScript: Warning: Script Msg called by: C_InformationTracker_C /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment:PersistentLevel.AI_AdvancedStitched_C_1.InformationTracker
+[2026.03.07-23.53.23:490][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:490][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.23:490][375]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.30:083][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.07-23.53.30:083][746]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FullEnvironment
+[2026.03.07-23.53.30:084][746]LogWorld: UWorld::CleanupWorld for FullEnvironment, bSessionEnded=true, bCleanupResources=true
+[2026.03.07-23.53.30:132][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.07-23.53.30:138][746]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.07-23.53.30:144][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.07-23.53.30:181][746]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.07-23.53.30:182][746]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 62
+[2026.03.07-23.53.30:182][746]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2026.03.07-23.53.30:185][746]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2026.03.07-23.53.30:191][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.07-23.53.30:220][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2026.03.07-23.53.30:438][747]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2026.03.07-23.53.36:275][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.07-23.53.36:536][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.07-23.53.36:572][ 68]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Components/C_InformationTracker] ([2] browsable assets)...
+[2026.03.07-23.53.36:572][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Components/C_InformationTracker]
+[2026.03.07-23.53.36:614][ 68]LogSavePackage: Moving output files for package: /Game/AI/Components/C_InformationTracker
+[2026.03.07-23.53.36:616][ 68]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/C_InformationTracker303DEA8C45CB97034469AAA35A7F1CC0.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Components/C_InformationTracker.uasset'
+[2026.03.07-23.53.36:633][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.048 ms (total: 21.4 sec)
+[2026.03.07-23.53.36:677][ 68]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.07-23.53.36:677][ 68]LogContentValidation: Enabled validators:
+[2026.03.07-23.53.36:677][ 68]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.07-23.53.36:677][ 68]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.07-23.53.36:677][ 68]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.07-23.53.36:677][ 68]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.07-23.53.36:677][ 68]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.07-23.53.36:677][ 68]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.07-23.53.36:677][ 68]AssetCheck: /Game/AI/Components/C_InformationTracker Validating asset
+[2026.03.07-23.53.37:133][ 83]LogSlate: Window 'BTT_DetermineProbability_Room' being destroyed
+[2026.03.07-23.53.37:144][ 83]LogSlate: Window 'BTT_DetermineProbability_Room' being destroyed
+[2026.03.07-23.53.37:153][ 83]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2026.03.07-23.53.37:153][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.07-23.53.37:486][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.03.07-23.53.42:110][357]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.07-23.53.42:129][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.07-23.53.42:131][357]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FullEnvironment
+[2026.03.07-23.53.42:268][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:268][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:313][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.183029s)
+[2026.03.07-23.53.42:313][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FullEnvironment.FullEnvironment to /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment (0.183076s)
+[2026.03.07-23.53.42:335][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.03.07-23.53.42:338][357]LogChaosDD: Creating Chaos Debug Draw Scene for world FullEnvironment
+[2026.03.07-23.53.42:340][357]LogPlayLevel: PIE: World Init took: (0.001706s)
+[2026.03.07-23.53.42:341][357]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2026.03.07-23.53.42:341][357]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.07-23.53.42:341][357]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.07-23.53.42:341][357]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.07-23.53.42:341][357]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.07-23.53.42:341][357]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.07-23.53.42:341][357]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.07-23.53.42:341][357]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.07-23.53.42:341][357]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.07-23.53.42:341][357]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.07-23.53.42:341][357]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.07-23.53.42:341][357]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.07-23.53.42:344][357]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.07-23.53.42:371][357]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH520)
+[2026.03.07-23.53.42:371][357]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.07-23.53.42:371][357]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.07-23.53.42:371][357]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.07-23.53.42:372][357]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=63
+[2026.03.07-23.53.42:372][357]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=63
+[2026.03.07-23.53.42:375][357]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=63
+[2026.03.07-23.53.42:375][357]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=63
+[2026.03.07-23.53.42:375][357]LogInit: FAudioDevice initialized with ID 63.
+[2026.03.07-23.53.42:375][357]LogAudio: Display: Audio Device (ID: 63) registered with world 'FullEnvironment'.
+[2026.03.07-23.53.42:375][357]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 63
+[2026.03.07-23.53.42:379][357]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.07-23.53.42:467][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:467][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:467][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:467][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:467][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:467][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:467][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:467][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:543][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:543][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:543][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:543][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:543][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:543][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:543][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:543][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:543][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:544][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:544][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:544][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:544][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:544][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:544][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:544][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:544][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:544][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:544][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:544][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:544][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:544][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:545][357]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment up for play (max tick rate 60) at 2026.03.07-23.53.42
+[2026.03.07-23.53.42:549][357]LogWorld: Bringing up level for play took: 0.169653
+[2026.03.07-23.53.42:552][357]LogOnline: OSS: Created online subsystem instance for: :Context_77
+[2026.03.07-23.53.42:566][357]PIE: Server logged in
+[2026.03.07-23.53.42:567][357]PIE: Play in editor total start time 0.445 seconds.
+[2026.03.07-23.53.42:570][357]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'AllEnemyActions' of length 0 in '/Game/AI/Components/C_InformationTracker.C_InformationTracker_C'!
+[2026.03.07-23.53.42:570][357]LogScript: Warning: Script Msg called by: C_InformationTracker_C /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment:PersistentLevel.AI_AdvancedStitched_C_1.InformationTracker
+[2026.03.07-23.53.42:634][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:634][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:634][357]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.53.42:779][360]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Volumes In Room' of length 0 in '/Game/AI/Trees/Tasks/BTT_FindHidingSpot.BTT_FindHidingSpot_C'!
+[2026.03.07-23.53.42:779][360]LogScript: Warning: Script Msg called by: BTT_FindHidingSpot_C /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment:PersistentLevel.AI_AdvancedController_C_0.BTComponent.BTT_FindHidingSpot_C_0
+[2026.03.07-23.53.42:781][360]LogScript: Warning: Accessed None trying to read property Hiding Volume Object
+	BTT_FindHidingSpot_C /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment:PersistentLevel.AI_AdvancedController_C_0.BTComponent.BTT_FindHidingSpot_C_0
+	Function /Game/AI/Trees/Tasks/BTT_FindHidingSpot.BTT_FindHidingSpot_C:ExecuteUbergraph_BTT_FindHidingSpot:002D
+[2026.03.07-23.53.42:782][360]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hiding Volume Object". Node:  Set Blackboard Value as Vector Graph:  SizeToVolume Function:  Execute Ubergraph BTT Find Hiding Spot Blueprint:  BTT_FindHidingSpot
+[2026.03.07-23.53.42:782][360]LogScript: Warning: Accessed None trying to read property Hiding Volume Object
+	BTT_FindHidingSpot_C /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment:PersistentLevel.AI_AdvancedController_C_0.BTComponent.BTT_FindHidingSpot_C_0
+	Function /Game/AI/Trees/Tasks/BTT_FindHidingSpot.BTT_FindHidingSpot_C:ExecuteUbergraph_BTT_FindHidingSpot:0125
+[2026.03.07-23.53.42:782][360]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hiding Volume Object". Node:  Branch Graph:  SizeToVolume Function:  Execute Ubergraph BTT Find Hiding Spot Blueprint:  BTT_FindHidingSpot
+[2026.03.07-23.53.42:782][360]LogScript: Warning: Accessed None
+	BTT_FindHidingSpot_C /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment:PersistentLevel.AI_AdvancedController_C_0.BTComponent.BTT_FindHidingSpot_C_0
+	Function /Game/AI/Trees/Tasks/BTT_FindHidingSpot.BTT_FindHidingSpot_C:ExecuteUbergraph_BTT_FindHidingSpot:013A
+[2026.03.07-23.53.42:782][360]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  SizeToVolume Function:  Execute Ubergraph BTT Find Hiding Spot Blueprint:  BTT_FindHidingSpot
+[2026.03.07-23.53.42:782][360]LogScript: Warning: Accessed None trying to read property Hiding Volume Object
+	BTT_FindHidingSpot_C /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment:PersistentLevel.AI_AdvancedController_C_0.BTComponent.BTT_FindHidingSpot_C_0
+	Function /Game/AI/Trees/Tasks/BTT_FindHidingSpot.BTT_FindHidingSpot_C:ExecuteUbergraph_BTT_FindHidingSpot:0249
+[2026.03.07-23.53.42:782][360]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hiding Volume Object". Node:  Set Relative Location Graph:  SizeToVolume Function:  Execute Ubergraph BTT Find Hiding Spot Blueprint:  BTT_FindHidingSpot
+[2026.03.07-23.53.42:782][360]LogScript: Warning: Accessed None
+	BTT_FindHidingSpot_C /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment:PersistentLevel.AI_AdvancedController_C_0.BTComponent.BTT_FindHidingSpot_C_0
+	Function /Game/AI/Trees/Tasks/BTT_FindHidingSpot.BTT_FindHidingSpot_C:ExecuteUbergraph_BTT_FindHidingSpot:025E
+[2026.03.07-23.53.42:782][360]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Relative Location Graph:  SizeToVolume Function:  Execute Ubergraph BTT Find Hiding Spot Blueprint:  BTT_FindHidingSpot
+[2026.03.07-23.53.42:783][360]LogScript: Warning: Accessed None trying to read property Hiding Volume Object
+	BTT_FindHidingSpot_C /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment:PersistentLevel.AI_AdvancedController_C_0.BTComponent.BTT_FindHidingSpot_C_0
+	Function /Game/AI/Trees/Tasks/BTT_FindHidingSpot.BTT_FindHidingSpot_C:ExecuteUbergraph_BTT_FindHidingSpot:0461
+[2026.03.07-23.53.42:783][360]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hiding Volume Object". Node:  Set Capsule Half Height Graph:  SizeToVolume Function:  Execute Ubergraph BTT Find Hiding Spot Blueprint:  BTT_FindHidingSpot
+[2026.03.07-23.53.42:783][360]LogScript: Warning: Accessed None
+	BTT_FindHidingSpot_C /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment:PersistentLevel.AI_AdvancedController_C_0.BTComponent.BTT_FindHidingSpot_C_0
+	Function /Game/AI/Trees/Tasks/BTT_FindHidingSpot.BTT_FindHidingSpot_C:ExecuteUbergraph_BTT_FindHidingSpot:0476
+[2026.03.07-23.53.42:783][360]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Capsule Half Height Graph:  SizeToVolume Function:  Execute Ubergraph BTT Find Hiding Spot Blueprint:  BTT_FindHidingSpot
+[2026.03.07-23.53.45:929][546]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Volumes In Room' of length 0 in '/Game/AI/Trees/Tasks/BTT_FindHidingSpot.BTT_FindHidingSpot_C'!
+[2026.03.07-23.53.45:929][546]LogScript: Warning: Script Msg called by: BTT_FindHidingSpot_C /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment:PersistentLevel.AI_AdvancedController_C_0.BTComponent.BTT_FindHidingSpot_C_0
+[2026.03.07-23.53.45:929][546]LogScript: Warning: Accessed None trying to read property Hiding Volume Object
+	BTT_FindHidingSpot_C /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment:PersistentLevel.AI_AdvancedController_C_0.BTComponent.BTT_FindHidingSpot_C_0
+	Function /Game/AI/Trees/Tasks/BTT_FindHidingSpot.BTT_FindHidingSpot_C:ExecuteUbergraph_BTT_FindHidingSpot:002D
+[2026.03.07-23.53.45:929][546]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hiding Volume Object". Node:  Set Blackboard Value as Vector Graph:  SizeToVolume Function:  Execute Ubergraph BTT Find Hiding Spot Blueprint:  BTT_FindHidingSpot
+[2026.03.07-23.53.45:929][546]LogScript: Warning: Accessed None trying to read property Hiding Volume Object
+	BTT_FindHidingSpot_C /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment:PersistentLevel.AI_AdvancedController_C_0.BTComponent.BTT_FindHidingSpot_C_0
+	Function /Game/AI/Trees/Tasks/BTT_FindHidingSpot.BTT_FindHidingSpot_C:ExecuteUbergraph_BTT_FindHidingSpot:0125
+[2026.03.07-23.53.45:929][546]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hiding Volume Object". Node:  Branch Graph:  SizeToVolume Function:  Execute Ubergraph BTT Find Hiding Spot Blueprint:  BTT_FindHidingSpot
+[2026.03.07-23.53.45:929][546]LogScript: Warning: Accessed None
+	BTT_FindHidingSpot_C /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment:PersistentLevel.AI_AdvancedController_C_0.BTComponent.BTT_FindHidingSpot_C_0
+	Function /Game/AI/Trees/Tasks/BTT_FindHidingSpot.BTT_FindHidingSpot_C:ExecuteUbergraph_BTT_FindHidingSpot:013A
+[2026.03.07-23.53.45:929][546]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  SizeToVolume Function:  Execute Ubergraph BTT Find Hiding Spot Blueprint:  BTT_FindHidingSpot
+[2026.03.07-23.53.45:929][546]LogScript: Warning: Accessed None trying to read property Hiding Volume Object
+	BTT_FindHidingSpot_C /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment:PersistentLevel.AI_AdvancedController_C_0.BTComponent.BTT_FindHidingSpot_C_0
+	Function /Game/AI/Trees/Tasks/BTT_FindHidingSpot.BTT_FindHidingSpot_C:ExecuteUbergraph_BTT_FindHidingSpot:0249
+[2026.03.07-23.53.45:929][546]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hiding Volume Object". Node:  Set Relative Location Graph:  SizeToVolume Function:  Execute Ubergraph BTT Find Hiding Spot Blueprint:  BTT_FindHidingSpot
+[2026.03.07-23.53.45:929][546]LogScript: Warning: Accessed None
+	BTT_FindHidingSpot_C /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment:PersistentLevel.AI_AdvancedController_C_0.BTComponent.BTT_FindHidingSpot_C_0
+	Function /Game/AI/Trees/Tasks/BTT_FindHidingSpot.BTT_FindHidingSpot_C:ExecuteUbergraph_BTT_FindHidingSpot:025E
+[2026.03.07-23.53.45:929][546]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Relative Location Graph:  SizeToVolume Function:  Execute Ubergraph BTT Find Hiding Spot Blueprint:  BTT_FindHidingSpot
+[2026.03.07-23.53.45:929][546]LogScript: Warning: Accessed None trying to read property Hiding Volume Object
+	BTT_FindHidingSpot_C /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment:PersistentLevel.AI_AdvancedController_C_0.BTComponent.BTT_FindHidingSpot_C_0
+	Function /Game/AI/Trees/Tasks/BTT_FindHidingSpot.BTT_FindHidingSpot_C:ExecuteUbergraph_BTT_FindHidingSpot:0461
+[2026.03.07-23.53.45:930][546]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hiding Volume Object". Node:  Set Capsule Half Height Graph:  SizeToVolume Function:  Execute Ubergraph BTT Find Hiding Spot Blueprint:  BTT_FindHidingSpot
+[2026.03.07-23.53.45:930][546]LogScript: Warning: Accessed None
+	BTT_FindHidingSpot_C /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment:PersistentLevel.AI_AdvancedController_C_0.BTComponent.BTT_FindHidingSpot_C_0
+	Function /Game/AI/Trees/Tasks/BTT_FindHidingSpot.BTT_FindHidingSpot_C:ExecuteUbergraph_BTT_FindHidingSpot:0476
+[2026.03.07-23.53.45:930][546]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Capsule Half Height Graph:  SizeToVolume Function:  Execute Ubergraph BTT Find Hiding Spot Blueprint:  BTT_FindHidingSpot
+[2026.03.07-23.53.49:746][775]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_2] fail to get valid point
+[2026.03.07-23.53.56:696][ 59]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_2] fail to get valid point
+[2026.03.07-23.53.56:774][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.07-23.53.56:774][ 62]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FullEnvironment
+[2026.03.07-23.53.56:775][ 62]LogWorld: UWorld::CleanupWorld for FullEnvironment, bSessionEnded=true, bCleanupResources=true
+[2026.03.07-23.53.56:832][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.07-23.53.56:836][ 62]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.07-23.53.56:843][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.07-23.53.56:871][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.07-23.53.56:887][ 62]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 63
+[2026.03.07-23.53.56:887][ 62]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2026.03.07-23.53.56:890][ 62]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2026.03.07-23.53.56:929][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2026.03.07-23.53.57:202][ 63]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2026.03.07-23.54.30:447][477]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Trees/Tasks/BTT_FindHidingSpot.BTT_FindHidingSpot
+[2026.03.07-23.54.30:448][477]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_78
+[2026.03.07-23.54.54:303][846]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17490.232422
+[2026.03.07-23.54.54:477][856]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.07-23.54.54:477][856]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17490.396484, Update Interval: 325.708801
+[2026.03.07-23.55.16:528][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.03.07-23.55.44:384][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.03.07-23.55.44:462][712]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.07-23.55.44:500][712]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot] ([2] browsable assets)...
+[2026.03.07-23.55.44:500][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Trees/Tasks/BTT_FindHidingSpot]
+[2026.03.07-23.55.44:513][712]LogSavePackage: Moving output files for package: /Game/AI/Trees/Tasks/BTT_FindHidingSpot
+[2026.03.07-23.55.44:515][712]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/BTT_FindHidingSpotE3D27A7F401FB38FDE9D67940FB2EB78.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/AI/Trees/Tasks/BTT_FindHidingSpot.uasset'
+[2026.03.07-23.55.44:529][712]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.622 ms (total: 21.5 sec)
+[2026.03.07-23.55.44:567][712]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.07-23.55.44:567][712]LogContentValidation: Enabled validators:
+[2026.03.07-23.55.44:567][712]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.07-23.55.44:567][712]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.07-23.55.44:567][712]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.07-23.55.44:567][712]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.07-23.55.44:567][712]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.07-23.55.44:567][712]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.07-23.55.44:567][712]AssetCheck: /Game/AI/Trees/Tasks/BTT_FindHidingSpot Validating asset
+[2026.03.07-23.56.16:484][694]LogSlate: Window 'Message Log' being destroyed
+[2026.03.07-23.56.16:497][694]LogSlate: Window 'Message Log' being destroyed
+[2026.03.07-23.56.19:474][873]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.07-23.56.19:491][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.07-23.56.19:491][873]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FullEnvironment
+[2026.03.07-23.56.19:632][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:632][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:672][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.181089s)
+[2026.03.07-23.56.19:672][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FullEnvironment.FullEnvironment to /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment (0.181134s)
+[2026.03.07-23.56.19:696][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.03.07-23.56.19:700][873]LogChaosDD: Creating Chaos Debug Draw Scene for world FullEnvironment
+[2026.03.07-23.56.19:701][873]LogPlayLevel: PIE: World Init took: (0.001670s)
+[2026.03.07-23.56.19:702][873]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2026.03.07-23.56.19:702][873]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.07-23.56.19:702][873]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.07-23.56.19:702][873]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.07-23.56.19:702][873]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.07-23.56.19:702][873]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.07-23.56.19:702][873]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.07-23.56.19:702][873]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.07-23.56.19:702][873]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.07-23.56.19:702][873]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.07-23.56.19:702][873]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.07-23.56.19:702][873]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.07-23.56.19:706][873]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.07-23.56.19:733][873]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH520)
+[2026.03.07-23.56.19:733][873]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.07-23.56.19:733][873]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.07-23.56.19:733][873]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.07-23.56.19:733][873]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=64
+[2026.03.07-23.56.19:733][873]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=64
+[2026.03.07-23.56.19:737][873]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=64
+[2026.03.07-23.56.19:737][873]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=64
+[2026.03.07-23.56.19:737][873]LogInit: FAudioDevice initialized with ID 64.
+[2026.03.07-23.56.19:737][873]LogAudio: Display: Audio Device (ID: 64) registered with world 'FullEnvironment'.
+[2026.03.07-23.56.19:737][873]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 64
+[2026.03.07-23.56.19:741][873]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.07-23.56.19:827][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:827][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:827][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:827][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:827][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:827][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:827][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:827][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:900][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:900][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:900][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:900][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:900][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:900][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:900][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:900][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:900][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:900][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:900][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:900][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:900][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:900][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:900][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:900][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:900][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:900][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:900][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:900][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:900][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:900][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:902][873]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment up for play (max tick rate 60) at 2026.03.07-23.56.19
+[2026.03.07-23.56.19:905][873]LogWorld: Bringing up level for play took: 0.163933
+[2026.03.07-23.56.19:908][873]LogOnline: OSS: Created online subsystem instance for: :Context_79
+[2026.03.07-23.56.19:922][873]PIE: Server logged in
+[2026.03.07-23.56.19:923][873]PIE: Play in editor total start time 0.436 seconds.
+[2026.03.07-23.56.19:927][873]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'AllEnemyActions' of length 0 in '/Game/AI/Components/C_InformationTracker.C_InformationTracker_C'!
+[2026.03.07-23.56.19:927][873]LogScript: Warning: Script Msg called by: C_InformationTracker_C /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment:PersistentLevel.AI_AdvancedStitched_C_1.InformationTracker
+[2026.03.07-23.56.19:992][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:992][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.19:992][873]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.07-23.56.20:138][876]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Volumes In Room' of length 0 in '/Game/AI/Trees/Tasks/BTT_FindHidingSpot.BTT_FindHidingSpot_C'!
+[2026.03.07-23.56.20:138][876]LogScript: Warning: Script Msg called by: BTT_FindHidingSpot_C /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment:PersistentLevel.AI_AdvancedController_C_0.BTComponent.BTT_FindHidingSpot_C_0
+[2026.03.07-23.56.20:138][876]LogScript: Warning: Accessed None trying to read property Hiding Volume Object
+	BTT_FindHidingSpot_C /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment:PersistentLevel.AI_AdvancedController_C_0.BTComponent.BTT_FindHidingSpot_C_0
+	Function /Game/AI/Trees/Tasks/BTT_FindHidingSpot.BTT_FindHidingSpot_C:ExecuteUbergraph_BTT_FindHidingSpot:002D
+[2026.03.07-23.56.20:138][876]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hiding Volume Object". Node:  Set Blackboard Value as Vector Graph:  SizeToVolume Function:  Execute Ubergraph BTT Find Hiding Spot Blueprint:  BTT_FindHidingSpot
+[2026.03.07-23.56.20:138][876]LogScript: Warning: Accessed None trying to read property Hiding Volume Object
+	BTT_FindHidingSpot_C /Game/Maps/UEDPIE_0_FullEnvironment.FullEnvironment:PersistentLevel.AI_AdvancedController_C_0.BTComponent.BTT_FindHidingSpot_C_0
+	Function /Game/AI/Trees/Tasks/BTT_FindHidingSpot.BTT_FindHidingSpot_C:ExecuteUbergraph_BTT_FindHidingSpot:0125
+[2026.03.07-23.56.20:138][876]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hiding Volume Object". Node:  Branch Graph:  SizeToVolume Function:  Execute Ubergraph BTT Find Hiding Spot Blueprint:  BTT_FindHidingSpot
+[2026.03.07-23.56.20:138][876]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  SizeToVolume Function:  Execute Ubergraph BTT Find Hiding Spot Blueprint:  BTT_FindHidingSpot
+[2026.03.07-23.56.20:139][876]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hiding Volume Object". Node:  Set Relative Location Graph:  SizeToVolume Function:  Execute Ubergraph BTT Find Hiding Spot Blueprint:  BTT_FindHidingSpot
+[2026.03.07-23.56.20:139][876]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Relative Location Graph:  SizeToVolume Function:  Execute Ubergraph BTT Find Hiding Spot Blueprint:  BTT_FindHidingSpot
+[2026.03.07-23.56.20:139][876]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Hiding Volume Object". Node:  Set Capsule Half Height Graph:  SizeToVolume Function:  Execute Ubergraph BTT Find Hiding Spot Blueprint:  BTT_FindHidingSpot
+[2026.03.07-23.56.20:139][876]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Capsule Half Height Graph:  SizeToVolume Function:  Execute Ubergraph BTT Find Hiding Spot Blueprint:  BTT_FindHidingSpot
+[2026.03.07-23.56.22:173][995]LogBlueprintUserMessages: [BTT_GetRandPointInRoom_C_2] fail to get valid point
+[2026.03.07-23.56.24:133][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.07-23.56.24:133][110]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FullEnvironment
+[2026.03.07-23.56.24:134][110]LogWorld: UWorld::CleanupWorld for FullEnvironment, bSessionEnded=true, bCleanupResources=true
+[2026.03.07-23.56.24:183][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.07-23.56.24:188][110]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.07-23.56.24:194][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.07-23.56.24:230][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.07-23.56.24:233][110]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 64
+[2026.03.07-23.56.24:233][110]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2026.03.07-23.56.24:237][110]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2026.03.07-23.56.24:274][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2026.03.07-23.56.24:552][111]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2026.03.07-23.57.52:698][929]LogSlate: Window 'Message Log' being destroyed
+[2026.03.07-23.57.52:709][929]LogSlate: Window 'Message Log' being destroyed
+[2026.03.07-23.57.55:249][ 72]Cmd: SELECT NONE
+[2026.03.07-23.57.56:134][122]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.07-23.57.56:232][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.03.07-23.57.56:748][122]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.07-23.57.56:749][122]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironmentABE0D27C4E06340D8689F381DF34909B.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.07-23.57.56:778][122]LogFileHelpers: Saving map 'FullEnvironment' took 0.607
+[2026.03.07-23.57.56:800][122]LogFileHelpers: InternalPromptForCheckoutAndSave took 667.133 ms (total: 22.2 sec)
+[2026.03.07-23.57.56:847][122]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.07-23.57.56:847][122]LogContentValidation: Enabled validators:
+[2026.03.07-23.57.56:847][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.07-23.57.56:847][122]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.07-23.57.56:847][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.07-23.57.56:847][122]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.07-23.57.56:847][122]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.07-23.57.56:847][122]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.07-23.57.56:848][122]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.07-23.59.41:090][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.03.08-00.01.07:742][677]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17863.855469
+[2026.03.08-00.01.07:925][688]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.08-00.01.07:925][688]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17864.023438, Update Interval: 300.360718
