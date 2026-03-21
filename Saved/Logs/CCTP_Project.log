@@ -55954,3 +55954,1022 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.21-11.50.40:683][406]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.03.21-11.50.40:683][406]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.21-11.50.40:683][406]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.21-11.52.28:381][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-11.52.28:473][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.03.21-11.52.29:154][354]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.21-11.52.29:156][354]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironmentF7E0BDB34B3C9784E1B8229C5D15EF03.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.21-11.52.29:188][354]LogFileHelpers: Saving map 'FullEnvironment' took 0.781
+[2026.03.21-11.52.29:210][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 829.657 ms (total: 35.5 sec)
+[2026.03.21-11.52.29:258][354]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.21-11.52.29:258][354]LogContentValidation: Enabled validators:
+[2026.03.21-11.52.29:258][354]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.21-11.52.29:258][354]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.21-11.52.29:258][354]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.21-11.52.29:258][354]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.21-11.52.29:258][354]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.21-11.52.29:258][354]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.21-11.52.29:259][354]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.21-11.53.57:069][614]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-11.53.57:172][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.03.21-11.53.57:893][614]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.21-11.53.57:894][614]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironment6F1166CA4B01D50BCF58338308E7D1BC.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.21-11.53.57:930][614]LogFileHelpers: Saving map 'FullEnvironment' took 0.834
+[2026.03.21-11.53.57:953][614]LogFileHelpers: InternalPromptForCheckoutAndSave took 883.701 ms (total: 36.3 sec)
+[2026.03.21-11.53.58:004][614]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.21-11.53.58:004][614]LogContentValidation: Enabled validators:
+[2026.03.21-11.53.58:004][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.21-11.53.58:004][614]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.21-11.53.58:004][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.21-11.53.58:004][614]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.21-11.53.58:004][614]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.21-11.53.58:004][614]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.21-11.53.58:005][614]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.21-11.55.14:232][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:232][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:232][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:232][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:232][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:232][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:232][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:232][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:232][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:232][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:232][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:232][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:232][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:232][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:232][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:232][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:232][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:232][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:232][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:232][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:232][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:232][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:235][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:235][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:235][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:235][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:235][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:235][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:235][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:235][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:235][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:235][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:235][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:235][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:235][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:235][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:235][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:235][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:235][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:235][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:235][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:235][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:235][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.14:235][ 37]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-11.55.16:479][168]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/Door/SM_Door_Plate_05a.SM_Door_Plate_05a
+[2026.03.21-11.55.16:479][168]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/Door/SM_Door_Plate_05a.SM_Door_Plate_05a
+[2026.03.21-11.55.16:480][168]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/Door/SM_Door_Plate_05a.SM_Door_Plate_05a as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_226
+[2026.03.21-11.55.18:180][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.03.21-11.55.18:186][261]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2026.03.21-11.55.18:198][261]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/Door/SM_Door_Plate_05a.SM_Door_Plate_05a
+[2026.03.21-11.55.18:198][261]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/Door/SM_Door_Plate_05a.SM_Door_Plate_05a
+[2026.03.21-11.55.18:200][261]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/Door/SM_Door_Plate_05a.SM_Door_Plate_05a as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_227
+[2026.03.21-11.55.25:118][649]Cmd: SELECT NONE
+[2026.03.21-11.55.33:699][132]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3588.593750
+[2026.03.21-11.55.33:890][143]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.21-11.55.33:890][143]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3588.773682, Update Interval: 308.293091
+[2026.03.21-11.55.33:930][146]Cmd: SELECT NONE
+[2026.03.21-11.55.54:193][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-11.55.54:288][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.03.21-11.55.54:990][535]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.21-11.55.54:991][535]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironment8F7F55024189B93A538159B14ED974EF.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.21-11.55.55:023][535]LogFileHelpers: Saving map 'FullEnvironment' took 0.801
+[2026.03.21-11.55.55:040][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 846.767 ms (total: 37.2 sec)
+[2026.03.21-11.55.55:079][535]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.21-11.55.55:079][535]LogContentValidation: Enabled validators:
+[2026.03.21-11.55.55:079][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.21-11.55.55:079][535]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.21-11.55.55:079][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.21-11.55.55:079][535]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.21-11.55.55:079][535]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.21-11.55.55:079][535]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.21-11.55.55:080][535]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.21-11.56.29:550][501]Cmd: SELECT NONE
+[2026.03.21-11.56.35:457][800]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Bench_01a.SM_Bench_01a
+[2026.03.21-11.56.35:457][800]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Bench_01a.SM_Bench_01a
+[2026.03.21-11.56.35:458][800]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Bench_01a.SM_Bench_01a as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_228
+[2026.03.21-11.56.36:944][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.03.21-11.56.36:946][830]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2026.03.21-11.56.36:957][830]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Bench_01a.SM_Bench_01a
+[2026.03.21-11.56.36:957][830]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Bench_01a.SM_Bench_01a
+[2026.03.21-11.56.36:959][830]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Bench_01a.SM_Bench_01a as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_229
+[2026.03.21-11.56.47:298][275]Cmd: SELECT NONE
+[2026.03.21-11.56.48:990][368]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-11.56.49:092][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.03.21-11.56.49:861][368]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.21-11.56.49:861][368]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironment638FDB9949A159C3DD223C837DEB8241.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.21-11.56.49:894][368]LogFileHelpers: Saving map 'FullEnvironment' took 0.869
+[2026.03.21-11.56.49:914][368]LogFileHelpers: InternalPromptForCheckoutAndSave took 924.192 ms (total: 38.1 sec)
+[2026.03.21-11.56.49:957][368]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.21-11.56.49:957][368]LogContentValidation: Enabled validators:
+[2026.03.21-11.56.49:957][368]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.21-11.56.49:957][368]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.21-11.56.49:957][368]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.21-11.56.49:957][368]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.21-11.56.49:957][368]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.21-11.56.49:957][368]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.21-11.56.49:959][368]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.21-11.56.53:608][567]Cmd: SELECT NONE
+[2026.03.21-11.57.08:629][402]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Crack_01a.BP_Decal_Crack_01a_C
+[2026.03.21-11.57.08:629][402]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Crack_01a.BP_Decal_Crack_01a_C
+[2026.03.21-11.57.08:630][402]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Crack_01a.BP_Decal_Crack_01a as actor: BP_Decal_Crack_01a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_Crack_01a_C_0
+[2026.03.21-11.57.08:631][402]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Crack_01a.BP_Decal_Crack_01a as actor: BP_Decal_Crack_01a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_Crack_01a_C_0
+[2026.03.21-11.57.09:488][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.03.21-11.57.09:492][447]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2026.03.21-11.57.09:503][447]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Crack_01a.BP_Decal_Crack_01a_C
+[2026.03.21-11.57.09:503][447]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Crack_01a.BP_Decal_Crack_01a_C
+[2026.03.21-11.57.09:505][447]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Crack_01a.BP_Decal_Crack_01a as actor: BP_Decal_Crack_01a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_Crack_01a_C_3
+[2026.03.21-11.57.09:506][447]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Crack_01a.BP_Decal_Crack_01a as actor: BP_Decal_Crack_01a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_Crack_01a_C_3
+[2026.03.21-11.57.17:555][903]Cmd: DUPLICATE
+[2026.03.21-11.57.17:555][903]Cmd: ACTOR DUPLICATE
+[2026.03.21-11.57.34:345][893]Cmd: SELECT NONE
+[2026.03.21-11.57.41:017][277]LogDerivedDataCache: C:/Users/landy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.21-11.57.41:355][297]Cmd: SELECT NONE
+[2026.03.21-11.57.43:428][419]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-11.57.43:528][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.03.21-11.57.44:222][419]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.21-11.57.44:222][419]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironmentCD5C7AC7499CA0ACCB7E50AAB8F2BF5C.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.21-11.57.44:255][419]LogFileHelpers: Saving map 'FullEnvironment' took 0.800
+[2026.03.21-11.57.44:273][419]LogFileHelpers: InternalPromptForCheckoutAndSave took 845.014 ms (total: 39.0 sec)
+[2026.03.21-11.57.44:316][419]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.21-11.57.44:316][419]LogContentValidation: Enabled validators:
+[2026.03.21-11.57.44:316][419]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.21-11.57.44:316][419]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.21-11.57.44:316][419]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.21-11.57.44:316][419]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.21-11.57.44:316][419]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.21-11.57.44:316][419]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.21-11.57.44:317][419]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.21-11.58.41:983][607]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.21-11.58.51:734][154]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.21-11.59.17:703][499]Cmd: DELETE
+[2026.03.21-11.59.17:703][499]Cmd: ACTOR DELETE
+[2026.03.21-11.59.17:771][499]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.21-11.59.17:791][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.03.21-11.59.17:794][499]LogEditorActor: Deleted 1 Actors (0.091 secs)
+[2026.03.21-11.59.30:944][256]Cmd: TRANSACTION UNDO
+[2026.03.21-11.59.30:944][256]LogEditorTransaction: Undo Move Elements
+[2026.03.21-12.00.00:602][751]Cmd: SELECT NONE
+[2026.03.21-12.00.06:692][ 72]Cmd: TRANSACTION UNDO
+[2026.03.21-12.00.06:692][ 72]LogEditorTransaction: Undo Select None
+[2026.03.21-12.00.08:795][159]Cmd: TRANSACTION UNDO
+[2026.03.21-12.00.08:795][159]LogEditorTransaction: Undo Edit Intensity
+[2026.03.21-12.00.24:139][ 49]Cmd: SELECT NONE
+[2026.03.21-12.00.31:244][385]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-12.00.31:352][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.03.21-12.00.32:129][385]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.21-12.00.32:130][385]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironmentE4F588CB46733FF43039ABADA25F0823.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.21-12.00.32:170][385]LogFileHelpers: Saving map 'FullEnvironment' took 0.892
+[2026.03.21-12.00.32:190][385]LogFileHelpers: InternalPromptForCheckoutAndSave took 945.566 ms (total: 39.9 sec)
+[2026.03.21-12.00.32:239][385]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.21-12.00.32:239][385]LogContentValidation: Enabled validators:
+[2026.03.21-12.00.32:239][385]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.21-12.00.32:239][385]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.21-12.00.32:239][385]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.21-12.00.32:239][385]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.21-12.00.32:239][385]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.21-12.00.32:239][385]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.21-12.00.32:240][385]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.21-12.00.44:229][ 81]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:230][ 81]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:230][ 81]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:230][ 81]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:230][ 81]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:230][ 81]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:230][ 81]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:230][ 81]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:230][ 81]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:230][ 81]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:230][ 81]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:230][ 81]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:230][ 81]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:230][ 81]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:230][ 81]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:230][ 81]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:230][ 81]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:230][ 81]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:230][ 81]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:230][ 81]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:230][ 81]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:230][ 81]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03b]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:243][ 82]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:243][ 82]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:243][ 82]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:243][ 82]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:243][ 82]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:243][ 82]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:243][ 82]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:243][ 82]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:243][ 82]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:243][ 82]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:243][ 82]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:243][ 82]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:243][ 82]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:243][ 82]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:243][ 82]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:243][ 82]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:243][ 82]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:243][ 82]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:243][ 82]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:243][ 82]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:243][ 82]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.44:243][ 82]LogStaticMesh: Warning: Invalid material [MI_Glass_Door_03a] used on Nanite static mesh [SM_Door_Frame_03a]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.03.21-12.00.47:183][255]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/Door/SM_Door_Plate_Cracked_05b.SM_Door_Plate_Cracked_05b
+[2026.03.21-12.00.47:183][255]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/Door/SM_Door_Plate_Cracked_05b.SM_Door_Plate_Cracked_05b
+[2026.03.21-12.00.47:183][255]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/Door/SM_Door_Plate_Cracked_05b.SM_Door_Plate_Cracked_05b as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_232
+[2026.03.21-12.00.49:171][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.03.21-12.00.49:174][361]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.03.21-12.00.49:188][361]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/Door/SM_Door_Plate_Cracked_05b.SM_Door_Plate_Cracked_05b
+[2026.03.21-12.00.49:188][361]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/Door/SM_Door_Plate_Cracked_05b.SM_Door_Plate_Cracked_05b
+[2026.03.21-12.00.49:191][361]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/Door/SM_Door_Plate_Cracked_05b.SM_Door_Plate_Cracked_05b as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_235
+[2026.03.21-12.00.58:006][839]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/Door/SM_Door_Plate_Cracked_05a.SM_Door_Plate_Cracked_05a
+[2026.03.21-12.00.58:006][839]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/Door/SM_Door_Plate_Cracked_05a.SM_Door_Plate_Cracked_05a
+[2026.03.21-12.00.58:006][839]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/Door/SM_Door_Plate_Cracked_05a.SM_Door_Plate_Cracked_05a as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_236
+[2026.03.21-12.01.00:107][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.03.21-12.01.00:109][950]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2026.03.21-12.01.00:122][950]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/Door/SM_Door_Plate_Cracked_05a.SM_Door_Plate_Cracked_05a
+[2026.03.21-12.01.00:122][950]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/Door/SM_Door_Plate_Cracked_05a.SM_Door_Plate_Cracked_05a
+[2026.03.21-12.01.00:125][950]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/Door/SM_Door_Plate_Cracked_05a.SM_Door_Plate_Cracked_05a as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_237
+[2026.03.21-12.01.06:389][284]Cmd: SELECT NONE
+[2026.03.21-12.01.11:303][554]Cmd: SELECT NONE
+[2026.03.21-12.01.12:015][595]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-12.01.12:114][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.03.21-12.01.12:882][595]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.21-12.01.12:883][595]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironment8DAD45484F63A42870F5C6AA92E471C6.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.21-12.01.12:920][595]LogFileHelpers: Saving map 'FullEnvironment' took 0.874
+[2026.03.21-12.01.12:946][595]LogFileHelpers: InternalPromptForCheckoutAndSave took 930.250 ms (total: 40.8 sec)
+[2026.03.21-12.01.12:989][595]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.21-12.01.12:989][595]LogContentValidation: Enabled validators:
+[2026.03.21-12.01.12:989][595]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.21-12.01.12:989][595]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.21-12.01.12:989][595]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.21-12.01.12:989][595]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.21-12.01.12:989][595]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.21-12.01.12:989][595]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.21-12.01.12:990][595]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.21-12.01.38:667][579]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3953.554688
+[2026.03.21-12.01.39:671][582]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.21-12.01.39:671][582]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3954.221680, Update Interval: 349.016998
+[2026.03.21-12.02.28:437][766]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-12.02.28:536][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.03.21-12.02.29:246][766]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.21-12.02.29:247][766]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironment597F3FFE4EFCF2AC70023B92C93777E4.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.21-12.02.29:282][766]LogFileHelpers: Saving map 'FullEnvironment' took 0.811
+[2026.03.21-12.02.29:302][766]LogFileHelpers: InternalPromptForCheckoutAndSave took 864.686 ms (total: 41.7 sec)
+[2026.03.21-12.02.29:344][766]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.21-12.02.29:344][766]LogContentValidation: Enabled validators:
+[2026.03.21-12.02.29:344][766]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.21-12.02.29:344][766]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.21-12.02.29:344][766]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.21-12.02.29:344][766]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.21-12.02.29:344][766]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.21-12.02.29:344][766]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.21-12.02.29:345][766]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.21-12.02.34:851][ 89]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01a.SM_Corpse_01a
+[2026.03.21-12.02.34:851][ 89]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01a.SM_Corpse_01a
+[2026.03.21-12.02.34:851][ 89]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01a.SM_Corpse_01a as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_238
+[2026.03.21-12.02.35:537][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.03.21-12.02.35:539][118]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2026.03.21-12.02.35:550][118]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01a.SM_Corpse_01a
+[2026.03.21-12.02.35:550][118]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01a.SM_Corpse_01a
+[2026.03.21-12.02.35:552][118]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01a.SM_Corpse_01a as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_239
+[2026.03.21-12.02.40:244][355]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01a.SM_Corpse_01a
+[2026.03.21-12.02.40:245][355]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01a.SM_Corpse_01a
+[2026.03.21-12.02.40:245][355]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01a.SM_Corpse_01a as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_241
+[2026.03.21-12.02.40:736][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.03.21-12.02.40:738][372]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2026.03.21-12.02.40:748][372]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01a.SM_Corpse_01a
+[2026.03.21-12.02.40:748][372]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01a.SM_Corpse_01a
+[2026.03.21-12.02.40:750][372]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01a.SM_Corpse_01a as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_242
+[2026.03.21-12.02.43:818][534]Cmd: SELECT NONE
+[2026.03.21-12.02.46:227][671]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01a.SM_Corpse_01a
+[2026.03.21-12.02.46:227][671]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01a.SM_Corpse_01a
+[2026.03.21-12.02.46:228][671]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01a.SM_Corpse_01a as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_244
+[2026.03.21-12.02.46:808][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.03.21-12.02.46:810][702]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2026.03.21-12.02.46:820][702]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01a.SM_Corpse_01a
+[2026.03.21-12.02.46:820][702]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01a.SM_Corpse_01a
+[2026.03.21-12.02.46:822][702]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01a.SM_Corpse_01a as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_246
+[2026.03.21-12.02.53:772][ 55]Cmd: SELECT NONE
+[2026.03.21-12.02.58:658][338]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Chair_01a.SM_Chair_01a
+[2026.03.21-12.02.58:658][338]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Chair_01a.SM_Chair_01a
+[2026.03.21-12.02.58:660][338]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Chair_01a.SM_Chair_01a as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_247
+[2026.03.21-12.03.00:791][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.03.21-12.03.00:793][454]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2026.03.21-12.03.00:804][454]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Chair_01a.SM_Chair_01a
+[2026.03.21-12.03.00:804][454]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Chair_01a.SM_Chair_01a
+[2026.03.21-12.03.00:805][454]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Chair_01a.SM_Chair_01a as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_248
+[2026.03.21-12.03.11:145][ 17]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01d.SM_Corpse_01d
+[2026.03.21-12.03.11:145][ 17]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01d.SM_Corpse_01d
+[2026.03.21-12.03.11:146][ 17]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01d.SM_Corpse_01d as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_250
+[2026.03.21-12.03.11:956][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.03.21-12.03.11:959][ 56]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2026.03.21-12.03.11:968][ 56]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01d.SM_Corpse_01d
+[2026.03.21-12.03.11:969][ 56]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01d.SM_Corpse_01d
+[2026.03.21-12.03.11:971][ 56]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01d.SM_Corpse_01d as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_252
+[2026.03.21-12.03.14:261][164]Cmd: DELETE
+[2026.03.21-12.03.14:261][164]Cmd: ACTOR DELETE
+[2026.03.21-12.03.14:319][164]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.21-12.03.14:346][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.03.21-12.03.14:349][164]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2026.03.21-12.03.29:156][ 39]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Bench_01a.SM_Bench_01a
+[2026.03.21-12.03.29:156][ 39]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Bench_01a.SM_Bench_01a
+[2026.03.21-12.03.29:156][ 39]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Bench_01a.SM_Bench_01a as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_254
+[2026.03.21-12.03.30:048][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.03.21-12.03.30:053][ 86]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2026.03.21-12.03.30:064][ 86]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Bench_01a.SM_Bench_01a
+[2026.03.21-12.03.30:064][ 86]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Bench_01a.SM_Bench_01a
+[2026.03.21-12.03.30:067][ 86]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Bench_01a.SM_Bench_01a as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_256
+[2026.03.21-12.03.36:616][449]Cmd: SELECT NONE
+[2026.03.21-12.03.46:396][ 18]LogStreaming: Display: FlushAsyncLoading(353): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.21-12.03.46:409][ 18]LogStaticMesh: Display: Building static mesh SM_Glass_01a (Required Memory Estimate: 0.586469 MB)...
+[2026.03.21-12.03.46:414][ 18]LogStaticMesh: Adjacency [0.00s], tris: 392, UVs 2, Color
+[2026.03.21-12.03.46:416][ 18]LogStaticMesh: Clustering [0.00s]. Ratio: 1.500000
+[2026.03.21-12.03.46:417][ 18]LogStaticMesh: Leaves [0.00s]
+[2026.03.21-12.03.46:430][ 18]LogStaticMesh: Reduce [0.01s]
+[2026.03.21-12.03.46:438][ 18]LogStaticMesh: Fallback [0.01s], num tris: 256
+[2026.03.21-12.03.46:438][ 18]LogStaticMesh: ConstrainClusters:
+[2026.03.21-12.03.46:439][ 18]LogStaticMesh:   Input: 9 Clusters, 770 Triangles and 1283 Vertices
+[2026.03.21-12.03.46:439][ 18]LogStaticMesh:   Output without splits: 9 Clusters, 770 Triangles and 1283 Vertices
+[2026.03.21-12.03.46:439][ 18]LogStaticMesh:   Output with splits: 9 Clusters, 770 Triangles and 1283 Vertices
+[2026.03.21-12.03.46:439][ 18]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 9, Slow Path Clusters: 0, 1 Material: 9, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.03.21-12.03.46:439][ 18]LogStaticMesh: WritePages:
+[2026.03.21-12.03.46:439][ 18]LogStaticMesh:   Root: GPU size: 18160 bytes. 1 Pages. 18160.000 bytes per page (55.420% utilization).
+[2026.03.21-12.03.46:439][ 18]LogStaticMesh:   Streaming: 0 bytes.
+[2026.03.21-12.03.46:439][ 18]LogStaticMesh:   Page data disk size: 16536 bytes. Fixup data size: 56 bytes.
+[2026.03.21-12.03.46:439][ 18]LogStaticMesh:   Total GPU size: 18160 bytes, Total disk size: 16592 bytes.
+[2026.03.21-12.03.46:439][ 18]LogStaticMesh: Encode [0.00s]
+[2026.03.21-12.03.46:439][ 18]LogStaticMesh: Nanite build [0.02s]
+
+[2026.03.21-12.03.46:448][ 18]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Glass_01a.SM_Glass_01a
+[2026.03.21-12.03.46:635][ 28]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_BedsideTable_01b.BP_BedsideTable_01b_C
+[2026.03.21-12.03.46:635][ 28]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_BedsideTable_01b.BP_BedsideTable_01b_C
+[2026.03.21-12.03.46:638][ 28]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_BedsideTable_01b.BP_BedsideTable_01b as actor: BP_BedsideTable_01b_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_BedsideTable_01b_C_0
+[2026.03.21-12.03.46:641][ 28]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_BedsideTable_01b.BP_BedsideTable_01b as actor: BP_BedsideTable_01b_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_BedsideTable_01b_C_0
+[2026.03.21-12.03.48:246][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.03.21-12.03.48:249][ 81]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2026.03.21-12.03.48:263][ 81]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_BedsideTable_01b.BP_BedsideTable_01b_C
+[2026.03.21-12.03.48:263][ 81]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_BedsideTable_01b.BP_BedsideTable_01b_C
+[2026.03.21-12.03.48:268][ 81]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_BedsideTable_01b.BP_BedsideTable_01b as actor: BP_BedsideTable_01b_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_BedsideTable_01b_C_1
+[2026.03.21-12.03.48:272][ 81]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_BedsideTable_01b.BP_BedsideTable_01b as actor: BP_BedsideTable_01b_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_BedsideTable_01b_C_1
+[2026.03.21-12.03.57:321][568]Cmd: SELECT NONE
+[2026.03.21-12.04.06:994][133]Cmd: DELETE
+[2026.03.21-12.04.06:995][133]Cmd: ACTOR DELETE
+[2026.03.21-12.04.07:059][133]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.21-12.04.07:080][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.03.21-12.04.07:085][133]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2026.03.21-12.04.14:192][554]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Bench_01a.BP_Bench_01a_C
+[2026.03.21-12.04.14:192][554]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Bench_01a.BP_Bench_01a_C
+[2026.03.21-12.04.14:194][554]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Bench_01a.BP_Bench_01a as actor: BP_Bench_01a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Bench_01a_C_31
+[2026.03.21-12.04.14:199][554]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Bench_01a.BP_Bench_01a as actor: BP_Bench_01a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Bench_01a_C_31
+[2026.03.21-12.04.15:345][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.03.21-12.04.15:348][597]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2026.03.21-12.04.15:358][597]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Bench_01a.BP_Bench_01a_C
+[2026.03.21-12.04.15:358][597]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Bench_01a.BP_Bench_01a_C
+[2026.03.21-12.04.15:365][597]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Bench_01a.BP_Bench_01a as actor: BP_Bench_01a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Bench_01a_C_32
+[2026.03.21-12.04.15:370][597]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Bench_01a.BP_Bench_01a as actor: BP_Bench_01a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Bench_01a_C_32
+[2026.03.21-12.04.22:582][983]Cmd: DUPLICATE
+[2026.03.21-12.04.22:583][983]Cmd: ACTOR DUPLICATE
+[2026.03.21-12.04.23:897][ 45]Cmd: DUPLICATE
+[2026.03.21-12.04.23:897][ 45]Cmd: ACTOR DUPLICATE
+[2026.03.21-12.04.24:960][ 90]Cmd: DUPLICATE
+[2026.03.21-12.04.24:960][ 90]Cmd: ACTOR DUPLICATE
+[2026.03.21-12.04.25:887][128]Cmd: SELECT NONE
+[2026.03.21-12.04.27:379][214]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-12.04.27:478][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.03.21-12.04.28:194][214]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.21-12.04.28:196][214]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironment38435EBD45160ED88CB952A3FAC5EEA0.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.21-12.04.28:231][214]LogFileHelpers: Saving map 'FullEnvironment' took 0.825
+[2026.03.21-12.04.28:240][214]LogFileHelpers: InternalPromptForCheckoutAndSave took 860.663 ms (total: 42.6 sec)
+[2026.03.21-12.04.28:287][214]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.21-12.04.28:287][214]LogContentValidation: Enabled validators:
+[2026.03.21-12.04.28:287][214]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.21-12.04.28:287][214]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.21-12.04.28:287][214]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.21-12.04.28:287][214]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.21-12.04.28:287][214]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.21-12.04.28:287][214]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.21-12.04.28:287][214]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.21-12.04.34:849][577]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01a.BP_Decal_BloodSplash_01a_C
+[2026.03.21-12.04.34:849][577]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01a.BP_Decal_BloodSplash_01a_C
+[2026.03.21-12.04.34:850][577]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01a.BP_Decal_BloodSplash_01a as actor: BP_Decal_BloodSplash_01a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_BloodSplash_01a_C_0
+[2026.03.21-12.04.34:850][577]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01a.BP_Decal_BloodSplash_01a as actor: BP_Decal_BloodSplash_01a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_BloodSplash_01a_C_0
+[2026.03.21-12.04.35:562][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.03.21-12.04.35:565][609]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2026.03.21-12.04.35:577][609]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01a.BP_Decal_BloodSplash_01a_C
+[2026.03.21-12.04.35:577][609]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01a.BP_Decal_BloodSplash_01a_C
+[2026.03.21-12.04.35:580][609]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01a.BP_Decal_BloodSplash_01a as actor: BP_Decal_BloodSplash_01a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_BloodSplash_01a_C_4
+[2026.03.21-12.04.35:580][609]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01a.BP_Decal_BloodSplash_01a as actor: BP_Decal_BloodSplash_01a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_BloodSplash_01a_C_4
+[2026.03.21-12.04.46:915][273]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01c.BP_Decal_BloodSplash_01c_C
+[2026.03.21-12.04.46:915][273]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01c.BP_Decal_BloodSplash_01c_C
+[2026.03.21-12.04.46:916][273]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01c.BP_Decal_BloodSplash_01c as actor: BP_Decal_BloodSplash_01c_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_BloodSplash_01c_C_0
+[2026.03.21-12.04.46:917][273]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01c.BP_Decal_BloodSplash_01c as actor: BP_Decal_BloodSplash_01c_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_BloodSplash_01c_C_0
+[2026.03.21-12.04.47:443][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.03.21-12.04.47:445][293]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2026.03.21-12.04.47:457][293]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01c.BP_Decal_BloodSplash_01c_C
+[2026.03.21-12.04.47:457][293]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01c.BP_Decal_BloodSplash_01c_C
+[2026.03.21-12.04.47:460][293]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01c.BP_Decal_BloodSplash_01c as actor: BP_Decal_BloodSplash_01c_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_BloodSplash_01c_C_3
+[2026.03.21-12.04.47:460][293]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01c.BP_Decal_BloodSplash_01c as actor: BP_Decal_BloodSplash_01c_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_BloodSplash_01c_C_3
+[2026.03.21-12.04.58:868][953]Cmd: TRANSACTION UNDO
+[2026.03.21-12.04.58:868][953]LogEditorTransaction: Undo Move Elements
+[2026.03.21-12.04.59:489][979]Cmd: TRANSACTION UNDO
+[2026.03.21-12.04.59:489][979]LogEditorTransaction: Undo Scale Elements
+[2026.03.21-12.04.59:942][  5]Cmd: TRANSACTION UNDO
+[2026.03.21-12.04.59:942][  5]LogEditorTransaction: Undo Move Elements
+[2026.03.21-12.05.13:038][756]Cmd: MODE ROTGRID=0
+[2026.03.21-12.05.20:968][215]Cmd: MODE ROTGRID=1
+[2026.03.21-12.05.22:213][287]Cmd: SELECT NONE
+[2026.03.21-12.05.22:933][330]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-12.05.23:036][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.03.21-12.05.23:712][330]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.21-12.05.23:713][330]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironmentF99AFA9141099E01729D64B7097D90E3.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.21-12.05.23:746][330]LogFileHelpers: Saving map 'FullEnvironment' took 0.782
+[2026.03.21-12.05.23:755][330]LogFileHelpers: InternalPromptForCheckoutAndSave took 822.910 ms (total: 43.4 sec)
+[2026.03.21-12.05.23:807][330]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.21-12.05.23:808][330]LogContentValidation: Enabled validators:
+[2026.03.21-12.05.23:808][330]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.21-12.05.23:808][330]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.21-12.05.23:808][330]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.21-12.05.23:808][330]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.21-12.05.23:808][330]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.21-12.05.23:808][330]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.21-12.05.23:810][330]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.21-12.05.59:176][387]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Plant_02b.SM_Plant_02b
+[2026.03.21-12.05.59:176][387]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Plant_02b.SM_Plant_02b
+[2026.03.21-12.05.59:176][387]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Plant_02b.SM_Plant_02b as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_257
+[2026.03.21-12.06.00:126][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.03.21-12.06.00:131][428]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2026.03.21-12.06.00:141][428]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Plant_02b.SM_Plant_02b
+[2026.03.21-12.06.00:141][428]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Plant_02b.SM_Plant_02b
+[2026.03.21-12.06.00:142][428]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Plant_02b.SM_Plant_02b as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_258
+[2026.03.21-12.06.05:670][720]Cmd: SELECT NONE
+[2026.03.21-12.06.10:032][930]Cmd: SELECT NONE
+[2026.03.21-12.06.24:133][677]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-12.06.24:238][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.03.21-12.06.24:957][677]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.21-12.06.24:957][677]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironment868C119D4296A0D2AA630DB7CE1E5046.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.21-12.06.24:991][677]LogFileHelpers: Saving map 'FullEnvironment' took 0.816
+[2026.03.21-12.06.25:007][677]LogFileHelpers: InternalPromptForCheckoutAndSave took 875.131 ms (total: 44.3 sec)
+[2026.03.21-12.06.25:064][677]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.21-12.06.25:064][677]LogContentValidation: Enabled validators:
+[2026.03.21-12.06.25:064][677]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.21-12.06.25:064][677]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.21-12.06.25:064][677]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.21-12.06.25:064][677]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.21-12.06.25:064][677]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.21-12.06.25:064][677]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.21-12.06.25:066][677]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.21-12.06.56:512][493]Cmd: SELECT NONE
+[2026.03.21-12.08.26:747][269]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4361.636230
+[2026.03.21-12.08.27:745][272]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.21-12.08.27:745][272]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4362.299805, Update Interval: 316.128418
+[2026.03.21-12.11.05:828][863]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-12.11.05:940][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.03.21-12.11.06:616][863]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.21-12.11.06:617][863]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironmentDA1B43E04841B01DEB14D98AAEAA4F27.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.21-12.11.06:650][863]LogFileHelpers: Saving map 'FullEnvironment' took 0.792
+[2026.03.21-12.11.06:666][863]LogFileHelpers: InternalPromptForCheckoutAndSave took 838.848 ms (total: 45.1 sec)
+[2026.03.21-12.11.06:713][863]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.21-12.11.06:713][863]LogContentValidation: Enabled validators:
+[2026.03.21-12.11.06:713][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.21-12.11.06:713][863]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.21-12.11.06:713][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.21-12.11.06:713][863]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.21-12.11.06:713][863]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.21-12.11.06:713][863]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.21-12.11.06:714][863]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.21-12.11.46:956][553]LogStreaming: Display: FlushAsyncLoading(354): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.21-12.11.46:980][553]LogStaticMesh: Display: Building static mesh SM_Glass_01c (Required Memory Estimate: 0.7573 MB)...
+[2026.03.21-12.11.46:980][553]LogStaticMesh: Display: Building static mesh SM_Phone_01a (Required Memory Estimate: 1.463979 MB)...
+[2026.03.21-12.11.46:989][553]LogStaticMesh: Adjacency [0.00s], tris: 508, UVs 2, Color
+[2026.03.21-12.11.46:990][553]LogStaticMesh: Adjacency [0.00s], tris: 988, UVs 2, Color
+[2026.03.21-12.11.46:992][553]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.03.21-12.11.46:992][553]LogStaticMesh: Leaves [0.00s]
+[2026.03.21-12.11.46:995][553]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.03.21-12.11.46:995][553]LogStaticMesh: Leaves [0.00s]
+[2026.03.21-12.11.47:012][553]LogStaticMesh: Reduce [0.02s]
+[2026.03.21-12.11.47:024][554]LogStaticMesh: Fallback [0.01s], num tris: 304
+[2026.03.21-12.11.47:026][554]LogStaticMesh: ConstrainClusters:
+[2026.03.21-12.11.47:026][554]LogStaticMesh:   Input: 7 Clusters, 886 Triangles and 1541 Vertices
+[2026.03.21-12.11.47:026][554]LogStaticMesh:   Output without splits: 7 Clusters, 886 Triangles and 1541 Vertices
+[2026.03.21-12.11.47:026][554]LogStaticMesh:   Output with splits: 8 Clusters, 886 Triangles and 1543 Vertices
+[2026.03.21-12.11.47:026][554]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 8, Slow Path Clusters: 0, 1 Material: 8, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.03.21-12.11.47:026][554]LogStaticMesh: WritePages:
+[2026.03.21-12.11.47:026][554]LogStaticMesh:   Root: GPU size: 21720 bytes. 1 Pages. 21720.000 bytes per page (66.284% utilization).
+[2026.03.21-12.11.47:027][554]LogStaticMesh:   Streaming: 0 bytes.
+[2026.03.21-12.11.47:027][554]LogStaticMesh:   Page data disk size: 21704 bytes. Fixup data size: 56 bytes.
+[2026.03.21-12.11.47:027][554]LogStaticMesh:   Total GPU size: 21720 bytes, Total disk size: 21760 bytes.
+[2026.03.21-12.11.47:027][554]LogStaticMesh: Encode [0.00s]
+[2026.03.21-12.11.47:027][554]LogStaticMesh: Nanite build [0.04s]
+
+[2026.03.21-12.11.47:030][554]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Glass_01c.SM_Glass_01c
+[2026.03.21-12.11.47:041][554]LogStaticMesh: Reduce [0.05s]
+[2026.03.21-12.11.47:059][556]LogStaticMesh: Fallback [0.02s], num tris: 600
+[2026.03.21-12.11.47:060][556]LogStaticMesh: ConstrainClusters:
+[2026.03.21-12.11.47:060][556]LogStaticMesh:   Input: 15 Clusters, 1870 Triangles and 2068 Vertices
+[2026.03.21-12.11.47:060][556]LogStaticMesh:   Output without splits: 15 Clusters, 1870 Triangles and 2071 Vertices
+[2026.03.21-12.11.47:060][556]LogStaticMesh:   Output with splits: 15 Clusters, 1870 Triangles and 2071 Vertices
+[2026.03.21-12.11.47:060][556]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 15, Slow Path Clusters: 0, 1 Material: 15, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.03.21-12.11.47:060][556]LogStaticMesh: WritePages:
+[2026.03.21-12.11.47:060][556]LogStaticMesh:   Root: GPU size: 30892 bytes. 1 Pages. 30892.000 bytes per page (94.275% utilization).
+[2026.03.21-12.11.47:060][556]LogStaticMesh:   Streaming: 0 bytes.
+[2026.03.21-12.11.47:060][556]LogStaticMesh:   Page data disk size: 26836 bytes. Fixup data size: 72 bytes.
+[2026.03.21-12.11.47:060][556]LogStaticMesh:   Total GPU size: 30892 bytes, Total disk size: 26908 bytes.
+[2026.03.21-12.11.47:060][556]LogStaticMesh: Encode [0.00s]
+[2026.03.21-12.11.47:060][556]LogStaticMesh: Nanite build [0.07s]
+
+[2026.03.21-12.11.47:085][556]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Desk_01c.BP_Desk_01c_C
+[2026.03.21-12.11.47:085][556]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Desk_01c.BP_Desk_01c_C
+[2026.03.21-12.11.47:090][556]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Desk_01c.BP_Desk_01c as actor: BP_Desk_01c_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Desk_01c_C_0
+[2026.03.21-12.11.47:095][556]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Desk_01c.BP_Desk_01c as actor: BP_Desk_01c_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Desk_01c_C_0
+[2026.03.21-12.11.47:179][556]LogStaticMesh: Built static mesh [0.21s] /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Phone_01a.SM_Phone_01a
+[2026.03.21-12.11.48:111][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.03.21-12.11.48:115][602]LogEditorActor: Deleted 0 Actors (0.034 secs)
+[2026.03.21-12.11.48:126][602]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Desk_01c.BP_Desk_01c_C
+[2026.03.21-12.11.48:126][602]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Desk_01c.BP_Desk_01c_C
+[2026.03.21-12.11.48:133][602]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Desk_01c.BP_Desk_01c as actor: BP_Desk_01c_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Desk_01c_C_1
+[2026.03.21-12.11.48:137][602]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Desk_01c.BP_Desk_01c as actor: BP_Desk_01c_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Desk_01c_C_1
+[2026.03.21-12.12.04:865][438]Cmd: SELECT NONE
+[2026.03.21-12.12.12:485][884]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Chair_01a.BP_Chair_01a_C
+[2026.03.21-12.12.12:485][884]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Chair_01a.BP_Chair_01a_C
+[2026.03.21-12.12.12:487][884]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Chair_01a.BP_Chair_01a as actor: BP_Chair_01a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Chair_01a_C_0
+[2026.03.21-12.12.12:490][884]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Chair_01a.BP_Chair_01a as actor: BP_Chair_01a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Chair_01a_C_0
+[2026.03.21-12.12.13:553][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.03.21-12.12.13:557][924]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2026.03.21-12.12.13:567][924]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Chair_01a.BP_Chair_01a_C
+[2026.03.21-12.12.13:567][924]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Chair_01a.BP_Chair_01a_C
+[2026.03.21-12.12.13:570][924]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Chair_01a.BP_Chair_01a as actor: BP_Chair_01a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Chair_01a_C_2
+[2026.03.21-12.12.13:572][924]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Chair_01a.BP_Chair_01a as actor: BP_Chair_01a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Chair_01a_C_2
+[2026.03.21-12.12.17:054][105]Cmd: SELECT NONE
+[2026.03.21-12.12.21:229][333]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Box_01a.BP_Box_01a_C
+[2026.03.21-12.12.21:229][333]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Box_01a.BP_Box_01a_C
+[2026.03.21-12.12.21:230][333]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Box_01a.BP_Box_01a as actor: BP_Box_01a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Box_01a_C_11
+[2026.03.21-12.12.21:232][333]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Box_01a.BP_Box_01a as actor: BP_Box_01a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Box_01a_C_11
+[2026.03.21-12.12.22:228][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.03.21-12.12.22:231][369]LogEditorActor: Deleted 0 Actors (0.038 secs)
+[2026.03.21-12.12.22:241][369]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Box_01a.BP_Box_01a_C
+[2026.03.21-12.12.22:241][369]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Box_01a.BP_Box_01a_C
+[2026.03.21-12.12.22:245][369]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Box_01a.BP_Box_01a as actor: BP_Box_01a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Box_01a_C_12
+[2026.03.21-12.12.22:247][369]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Box_01a.BP_Box_01a as actor: BP_Box_01a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Box_01a_C_12
+[2026.03.21-12.12.24:348][482]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Box_01b.BP_Box_01b_C
+[2026.03.21-12.12.24:348][482]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Box_01b.BP_Box_01b_C
+[2026.03.21-12.12.24:351][482]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Box_01b.BP_Box_01b as actor: BP_Box_01b_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Box_01b_C_0
+[2026.03.21-12.12.24:353][482]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Box_01b.BP_Box_01b as actor: BP_Box_01b_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Box_01b_C_0
+[2026.03.21-12.12.25:108][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.03.21-12.12.25:111][506]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.03.21-12.12.25:120][506]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Box_01b.BP_Box_01b_C
+[2026.03.21-12.12.25:120][506]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Box_01b.BP_Box_01b_C
+[2026.03.21-12.12.25:123][506]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Box_01b.BP_Box_01b as actor: BP_Box_01b_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Box_01b_C_2
+[2026.03.21-12.12.25:125][506]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Box_01b.BP_Box_01b as actor: BP_Box_01b_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Box_01b_C_2
+[2026.03.21-12.12.25:980][552]Cmd: SELECT NONE
+[2026.03.21-12.12.36:576][162]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Chair_04a.SM_Chair_04a
+[2026.03.21-12.12.36:576][162]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Chair_04a.SM_Chair_04a
+[2026.03.21-12.12.36:577][162]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Chair_04a.SM_Chair_04a as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_261
+[2026.03.21-12.12.37:719][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.03.21-12.12.37:722][217]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2026.03.21-12.12.37:732][217]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Chair_04a.SM_Chair_04a
+[2026.03.21-12.12.37:732][217]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Chair_04a.SM_Chair_04a
+[2026.03.21-12.12.37:734][217]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Chair_04a.SM_Chair_04a as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_263
+[2026.03.21-12.12.37:860][219]Cmd: SELECT NONE
+[2026.03.21-12.12.42:753][475]Cmd: SELECT NONE
+[2026.03.21-12.13.29:768][900]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-12.13.29:870][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.03.21-12.13.30:587][900]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.21-12.13.30:587][900]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironment93E5CBE24A84868466155BBE785A88D3.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.21-12.13.30:621][900]LogFileHelpers: Saving map 'FullEnvironment' took 0.820
+[2026.03.21-12.13.30:642][900]LogFileHelpers: InternalPromptForCheckoutAndSave took 872.525 ms (total: 46.0 sec)
+[2026.03.21-12.13.30:688][900]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.21-12.13.30:688][900]LogContentValidation: Enabled validators:
+[2026.03.21-12.13.30:688][900]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.21-12.13.30:688][900]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.21-12.13.30:688][900]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.21-12.13.30:688][900]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.21-12.13.30:688][900]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.21-12.13.30:688][900]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.21-12.13.30:690][900]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.21-12.13.31:109][924]Cmd: SELECT NONE
+[2026.03.21-12.13.36:047][201]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_MedicalBarrier_01d.SM_MedicalBarrier_01d
+[2026.03.21-12.13.36:047][201]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_MedicalBarrier_01d.SM_MedicalBarrier_01d
+[2026.03.21-12.13.36:048][201]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_MedicalBarrier_01d.SM_MedicalBarrier_01d as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_266
+[2026.03.21-12.13.37:009][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.03.21-12.13.37:012][245]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2026.03.21-12.13.37:021][245]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_MedicalBarrier_01d.SM_MedicalBarrier_01d
+[2026.03.21-12.13.37:021][245]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_MedicalBarrier_01d.SM_MedicalBarrier_01d
+[2026.03.21-12.13.37:024][245]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_MedicalBarrier_01d.SM_MedicalBarrier_01d as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_268
+[2026.03.21-12.13.42:040][509]Cmd: SELECT NONE
+[2026.03.21-12.13.44:981][665]Cmd: SELECT NONE
+[2026.03.21-12.13.45:997][724]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-12.13.46:105][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.03.21-12.13.46:822][724]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.21-12.13.46:822][724]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironment9EE3B7E641BD261AFEB20A97E6F2859A.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.21-12.13.46:855][724]LogFileHelpers: Saving map 'FullEnvironment' took 0.827
+[2026.03.21-12.13.46:876][724]LogFileHelpers: InternalPromptForCheckoutAndSave took 878.620 ms (total: 46.8 sec)
+[2026.03.21-12.13.46:933][724]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.21-12.13.46:933][724]LogContentValidation: Enabled validators:
+[2026.03.21-12.13.46:933][724]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.21-12.13.46:933][724]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.21-12.13.46:933][724]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.21-12.13.46:933][724]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.21-12.13.46:933][724]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.21-12.13.46:933][724]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.21-12.13.46:935][724]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.21-12.13.54:974][195]Cmd: DUPLICATE
+[2026.03.21-12.13.54:974][195]Cmd: ACTOR DUPLICATE
+[2026.03.21-12.14.37:025][919]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4731.920898
+[2026.03.21-12.14.37:209][930]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.21-12.14.37:209][930]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4732.088867, Update Interval: 307.172455
+[2026.03.21-12.15.10:511][238]Cmd: DUPLICATE
+[2026.03.21-12.15.10:512][238]Cmd: ACTOR DUPLICATE
+[2026.03.21-12.15.21:776][610]Cmd: SELECT NONE
+[2026.03.21-12.15.22:475][640]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-12.15.22:595][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.03.21-12.15.23:363][640]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.21-12.15.23:364][640]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironment70FB7E9043917204F579EE8F02BCD057.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.21-12.15.23:404][640]LogFileHelpers: Saving map 'FullEnvironment' took 0.898
+[2026.03.21-12.15.23:410][640]LogFileHelpers: InternalPromptForCheckoutAndSave took 935.565 ms (total: 47.8 sec)
+[2026.03.21-12.15.23:453][640]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.21-12.15.23:453][640]LogContentValidation: Enabled validators:
+[2026.03.21-12.15.23:453][640]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.21-12.15.23:453][640]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.21-12.15.23:453][640]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.21-12.15.23:453][640]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.21-12.15.23:453][640]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.21-12.15.23:453][640]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.21-12.15.23:456][640]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.21-12.15.26:533][811]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_MedicalBarrier_01b.SM_MedicalBarrier_01b
+[2026.03.21-12.15.26:533][811]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_MedicalBarrier_01b.SM_MedicalBarrier_01b
+[2026.03.21-12.15.26:534][811]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_MedicalBarrier_01b.SM_MedicalBarrier_01b as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_272
+[2026.03.21-12.15.27:146][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.03.21-12.15.27:147][827]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2026.03.21-12.15.27:158][827]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_MedicalBarrier_01b.SM_MedicalBarrier_01b
+[2026.03.21-12.15.27:158][827]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_MedicalBarrier_01b.SM_MedicalBarrier_01b
+[2026.03.21-12.15.27:161][827]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_MedicalBarrier_01b.SM_MedicalBarrier_01b as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_275
+[2026.03.21-12.15.34:706][217]Cmd: SELECT NONE
+[2026.03.21-12.15.52:011][221]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Bench_01a.SM_Bench_01a
+[2026.03.21-12.15.52:011][221]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Bench_01a.SM_Bench_01a
+[2026.03.21-12.15.52:012][221]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Bench_01a.SM_Bench_01a as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_277
+[2026.03.21-12.15.53:030][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.03.21-12.15.53:033][270]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2026.03.21-12.15.53:044][270]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Bench_01a.SM_Bench_01a
+[2026.03.21-12.15.53:044][270]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Bench_01a.SM_Bench_01a
+[2026.03.21-12.15.53:046][270]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Bench_01a.SM_Bench_01a as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_278
+[2026.03.21-12.16.03:648][822]Cmd: SELECT NONE
+[2026.03.21-12.16.05:365][922]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-12.16.05:462][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.03.21-12.16.06:194][922]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.21-12.16.06:194][922]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironmentF606839445E4DC84CBB57A9B70E1B389.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.21-12.16.06:231][922]LogFileHelpers: Saving map 'FullEnvironment' took 0.837
+[2026.03.21-12.16.06:238][922]LogFileHelpers: InternalPromptForCheckoutAndSave took 872.813 ms (total: 48.6 sec)
+[2026.03.21-12.16.06:299][922]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.21-12.16.06:299][922]LogContentValidation: Enabled validators:
+[2026.03.21-12.16.06:299][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.21-12.16.06:299][922]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.21-12.16.06:299][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.21-12.16.06:299][922]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.21-12.16.06:299][922]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.21-12.16.06:299][922]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.21-12.16.06:300][922]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.21-12.16.12:330][116]Cmd: DUPLICATE
+[2026.03.21-12.16.12:330][116]Cmd: ACTOR DUPLICATE
+[2026.03.21-12.16.14:812][241]Cmd: SELECT NONE
+[2026.03.21-12.16.17:212][361]Cmd: DUPLICATE
+[2026.03.21-12.16.17:212][361]Cmd: ACTOR DUPLICATE
+[2026.03.21-12.16.19:343][471]Cmd: SELECT NONE
+[2026.03.21-12.16.20:152][518]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-12.16.20:253][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.03.21-12.16.21:019][518]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.21-12.16.21:020][518]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironmentB3F17CD340EB176DAF9AF59F7560CA66.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.21-12.16.21:056][518]LogFileHelpers: Saving map 'FullEnvironment' took 0.872
+[2026.03.21-12.16.21:069][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 917.259 ms (total: 49.6 sec)
+[2026.03.21-12.16.21:123][518]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.21-12.16.21:123][518]LogContentValidation: Enabled validators:
+[2026.03.21-12.16.21:123][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.21-12.16.21:123][518]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.21-12.16.21:123][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.21-12.16.21:123][518]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.21-12.16.21:123][518]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.21-12.16.21:123][518]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.21-12.16.21:124][518]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.21-12.16.28:945][973]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Graffiti_01c.BP_Decal_Graffiti_01c_C
+[2026.03.21-12.16.28:945][973]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Graffiti_01c.BP_Decal_Graffiti_01c_C
+[2026.03.21-12.16.28:946][973]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Graffiti_01c.BP_Decal_Graffiti_01c as actor: BP_Decal_Graffiti_01c_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_Graffiti_01c_C_0
+[2026.03.21-12.16.28:946][973]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Graffiti_01c.BP_Decal_Graffiti_01c as actor: BP_Decal_Graffiti_01c_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_Graffiti_01c_C_0
+[2026.03.21-12.16.29:753][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.03.21-12.16.29:756][ 12]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2026.03.21-12.16.29:766][ 12]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Graffiti_01c.BP_Decal_Graffiti_01c_C
+[2026.03.21-12.16.29:766][ 12]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Graffiti_01c.BP_Decal_Graffiti_01c_C
+[2026.03.21-12.16.29:769][ 12]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Graffiti_01c.BP_Decal_Graffiti_01c as actor: BP_Decal_Graffiti_01c_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_Graffiti_01c_C_5
+[2026.03.21-12.16.29:770][ 12]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Graffiti_01c.BP_Decal_Graffiti_01c as actor: BP_Decal_Graffiti_01c_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_Graffiti_01c_C_5
+[2026.03.21-12.16.35:029][317]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Graffiti_01e.BP_Decal_Graffiti_01e_C
+[2026.03.21-12.16.35:031][317]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Graffiti_01e.BP_Decal_Graffiti_01e_C
+[2026.03.21-12.16.35:031][317]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Graffiti_01e.BP_Decal_Graffiti_01e as actor: BP_Decal_Graffiti_01e_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_Graffiti_01e_C_0
+[2026.03.21-12.16.35:031][317]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Graffiti_01e.BP_Decal_Graffiti_01e as actor: BP_Decal_Graffiti_01e_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_Graffiti_01e_C_0
+[2026.03.21-12.16.36:138][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.03.21-12.16.36:140][373]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2026.03.21-12.16.36:151][373]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Graffiti_01e.BP_Decal_Graffiti_01e_C
+[2026.03.21-12.16.36:151][373]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Graffiti_01e.BP_Decal_Graffiti_01e_C
+[2026.03.21-12.16.36:153][373]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Graffiti_01e.BP_Decal_Graffiti_01e as actor: BP_Decal_Graffiti_01e_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_Graffiti_01e_C_4
+[2026.03.21-12.16.36:154][373]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Graffiti_01e.BP_Decal_Graffiti_01e as actor: BP_Decal_Graffiti_01e_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_Graffiti_01e_C_4
+[2026.03.21-12.16.42:931][770]Cmd: SELECT NONE
+[2026.03.21-12.16.44:195][844]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-12.16.44:295][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.03.21-12.16.44:980][844]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.21-12.16.44:980][844]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironment6038E94E4FD1E4E685FB65B93E742F9C.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.21-12.16.45:014][844]LogFileHelpers: Saving map 'FullEnvironment' took 0.787
+[2026.03.21-12.16.45:025][844]LogFileHelpers: InternalPromptForCheckoutAndSave took 829.728 ms (total: 50.4 sec)
+[2026.03.21-12.16.45:077][844]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.21-12.16.45:077][844]LogContentValidation: Enabled validators:
+[2026.03.21-12.16.45:077][844]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.21-12.16.45:077][844]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.21-12.16.45:077][844]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.21-12.16.45:077][844]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.21-12.16.45:077][844]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.21-12.16.45:077][844]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.21-12.16.45:078][844]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.21-12.16.45:856][888]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Graffiti_02c.BP_Decal_Graffiti_02c_C
+[2026.03.21-12.16.45:856][888]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Graffiti_02c.BP_Decal_Graffiti_02c_C
+[2026.03.21-12.16.45:857][888]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Graffiti_02c.BP_Decal_Graffiti_02c as actor: BP_Decal_Graffiti_02c_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_Graffiti_02c_C_0
+[2026.03.21-12.16.45:858][888]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Graffiti_02c.BP_Decal_Graffiti_02c as actor: BP_Decal_Graffiti_02c_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_Graffiti_02c_C_0
+[2026.03.21-12.16.46:431][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.03.21-12.16.46:432][914]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2026.03.21-12.16.46:442][914]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Graffiti_02c.BP_Decal_Graffiti_02c_C
+[2026.03.21-12.16.46:442][914]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Graffiti_02c.BP_Decal_Graffiti_02c_C
+[2026.03.21-12.16.46:445][914]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Graffiti_02c.BP_Decal_Graffiti_02c as actor: BP_Decal_Graffiti_02c_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_Graffiti_02c_C_2
+[2026.03.21-12.16.46:445][914]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_Graffiti_02c.BP_Decal_Graffiti_02c as actor: BP_Decal_Graffiti_02c_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_Graffiti_02c_C_2
+[2026.03.21-12.16.52:530][267]Cmd: SELECT NONE
+[2026.03.21-12.16.53:342][315]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-12.16.53:449][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.03.21-12.16.54:161][315]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.21-12.16.54:163][315]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironmentE022A7D644045C0649316191BE997A26.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.21-12.16.54:198][315]LogFileHelpers: Saving map 'FullEnvironment' took 0.826
+[2026.03.21-12.16.54:219][315]LogFileHelpers: InternalPromptForCheckoutAndSave took 876.724 ms (total: 51.3 sec)
+[2026.03.21-12.16.54:271][315]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.21-12.16.54:271][315]LogContentValidation: Enabled validators:
+[2026.03.21-12.16.54:271][315]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.21-12.16.54:271][315]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.21-12.16.54:271][315]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.21-12.16.54:271][315]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.21-12.16.54:271][315]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.21-12.16.54:271][315]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.21-12.16.54:271][315]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.21-12.16.56:868][463]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01a.BP_Decal_BloodSplash_01a_C
+[2026.03.21-12.16.56:868][463]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01a.BP_Decal_BloodSplash_01a_C
+[2026.03.21-12.16.56:869][463]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01a.BP_Decal_BloodSplash_01a as actor: BP_Decal_BloodSplash_01a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_BloodSplash_01a_C_5
+[2026.03.21-12.16.56:870][463]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01a.BP_Decal_BloodSplash_01a as actor: BP_Decal_BloodSplash_01a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_BloodSplash_01a_C_5
+[2026.03.21-12.16.57:767][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.03.21-12.16.57:769][507]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2026.03.21-12.16.57:780][507]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01a.BP_Decal_BloodSplash_01a_C
+[2026.03.21-12.16.57:780][507]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01a.BP_Decal_BloodSplash_01a_C
+[2026.03.21-12.16.57:782][507]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01a.BP_Decal_BloodSplash_01a as actor: BP_Decal_BloodSplash_01a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_BloodSplash_01a_C_6
+[2026.03.21-12.16.57:783][507]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01a.BP_Decal_BloodSplash_01a as actor: BP_Decal_BloodSplash_01a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_BloodSplash_01a_C_6
+[2026.03.21-12.17.00:095][639]Cmd: SELECT NONE
+[2026.03.21-12.17.03:274][814]Cmd: DELETE
+[2026.03.21-12.17.03:274][814]Cmd: ACTOR DELETE
+[2026.03.21-12.17.03:324][814]LogEditorActor: Deleted Actor: BP_Decal_BloodSplash_01a_C
+[2026.03.21-12.17.03:351][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.03.21-12.17.03:353][814]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2026.03.21-12.17.05:266][925]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01b.BP_Decal_BloodSplash_01b_C
+[2026.03.21-12.17.05:266][925]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01b.BP_Decal_BloodSplash_01b_C
+[2026.03.21-12.17.05:267][925]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01b.BP_Decal_BloodSplash_01b as actor: BP_Decal_BloodSplash_01b_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_BloodSplash_01b_C_0
+[2026.03.21-12.17.05:267][925]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01b.BP_Decal_BloodSplash_01b as actor: BP_Decal_BloodSplash_01b_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_BloodSplash_01b_C_0
+[2026.03.21-12.17.06:185][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.03.21-12.17.06:189][967]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2026.03.21-12.17.06:200][967]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01b.BP_Decal_BloodSplash_01b_C
+[2026.03.21-12.17.06:200][967]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01b.BP_Decal_BloodSplash_01b_C
+[2026.03.21-12.17.06:203][967]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01b.BP_Decal_BloodSplash_01b as actor: BP_Decal_BloodSplash_01b_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_BloodSplash_01b_C_2
+[2026.03.21-12.17.06:203][967]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Decal/BP_Decal_BloodSplash_01b.BP_Decal_BloodSplash_01b as actor: BP_Decal_BloodSplash_01b_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Decal_BloodSplash_01b_C_2
+[2026.03.21-12.17.18:415][670]Cmd: SELECT NONE
+[2026.03.21-12.17.19:040][706]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-12.17.19:148][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.03.21-12.17.19:892][706]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.21-12.17.19:892][706]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironmentD22F59C04AE40BBD2CF0E9807F997836.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.21-12.17.19:926][706]LogFileHelpers: Saving map 'FullEnvironment' took 0.862
+[2026.03.21-12.17.19:950][706]LogFileHelpers: InternalPromptForCheckoutAndSave took 910.142 ms (total: 52.2 sec)
+[2026.03.21-12.17.20:011][706]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.21-12.17.20:011][706]LogContentValidation: Enabled validators:
+[2026.03.21-12.17.20:011][706]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.21-12.17.20:011][706]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.21-12.17.20:011][706]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.21-12.17.20:011][706]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.21-12.17.20:011][706]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.21-12.17.20:011][706]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.21-12.17.20:013][706]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.21-12.17.42:066][944]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01d.SM_Corpse_01d
+[2026.03.21-12.17.42:066][944]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01d.SM_Corpse_01d
+[2026.03.21-12.17.42:067][944]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01d.SM_Corpse_01d as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_281
+[2026.03.21-12.17.42:865][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.03.21-12.17.42:868][981]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2026.03.21-12.17.42:877][981]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01d.SM_Corpse_01d
+[2026.03.21-12.17.42:877][981]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01d.SM_Corpse_01d
+[2026.03.21-12.17.42:879][981]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_Corpse_01d.SM_Corpse_01d as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_282
+[2026.03.21-12.17.51:098][426]Cmd: SELECT NONE
+[2026.03.21-12.17.54:022][598]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-12.17.54:127][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.03.21-12.17.54:855][598]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.21-12.17.54:856][598]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironmentFA2EFEA9455B59D0A595CC8B176B8F29.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.21-12.17.54:889][598]LogFileHelpers: Saving map 'FullEnvironment' took 0.833
+[2026.03.21-12.17.54:899][598]LogFileHelpers: InternalPromptForCheckoutAndSave took 876.792 ms (total: 53.1 sec)
+[2026.03.21-12.17.54:959][598]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.21-12.17.54:959][598]LogContentValidation: Enabled validators:
+[2026.03.21-12.17.54:959][598]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.21-12.17.54:959][598]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.21-12.17.54:959][598]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.21-12.17.54:959][598]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.21-12.17.54:959][598]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.21-12.17.54:959][598]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.21-12.17.54:960][598]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.21-12.17.58:031][770]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_IVstand_01b.SM_IVstand_01b
+[2026.03.21-12.17.58:031][770]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_IVstand_01b.SM_IVstand_01b
+[2026.03.21-12.17.58:032][770]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_IVstand_01b.SM_IVstand_01b as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_283
+[2026.03.21-12.18.00:294][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.03.21-12.18.00:298][889]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2026.03.21-12.18.00:309][889]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_IVstand_01b.SM_IVstand_01b
+[2026.03.21-12.18.00:309][889]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_IVstand_01b.SM_IVstand_01b
+[2026.03.21-12.18.00:311][889]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_IVstand_01b.SM_IVstand_01b as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_284
+[2026.03.21-12.18.01:959][978]Cmd: SELECT NONE
+[2026.03.21-12.18.03:238][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-12.18.03:346][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.03.21-12.18.04:084][ 50]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.21-12.18.04:084][ 50]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironment967801B34EC3FEB7BE2DD2B297FF19F9.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.21-12.18.04:122][ 50]LogFileHelpers: Saving map 'FullEnvironment' took 0.856
+[2026.03.21-12.18.04:132][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 893.569 ms (total: 54.0 sec)
+[2026.03.21-12.18.04:176][ 50]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.21-12.18.04:176][ 50]LogContentValidation: Enabled validators:
+[2026.03.21-12.18.04:176][ 50]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.21-12.18.04:176][ 50]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.21-12.18.04:176][ 50]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.21-12.18.04:176][ 50]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.21-12.18.04:176][ 50]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.21-12.18.04:176][ 50]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.21-12.18.04:177][ 50]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.21-12.18.11:292][456]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_TrashCan_01a.SM_TrashCan_01a
+[2026.03.21-12.18.11:292][456]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_TrashCan_01a.SM_TrashCan_01a
+[2026.03.21-12.18.11:293][456]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_TrashCan_01a.SM_TrashCan_01a as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_285
+[2026.03.21-12.18.13:337][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.03.21-12.18.13:340][555]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.03.21-12.18.13:350][555]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_TrashCan_01a.SM_TrashCan_01a
+[2026.03.21-12.18.13:350][555]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_TrashCan_01a.SM_TrashCan_01a
+[2026.03.21-12.18.13:353][555]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Hospital_Meshingun/Environment/Asset/Mesh/Props/SM_TrashCan_01a.SM_TrashCan_01a as actor: StaticMeshActor /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.StaticMeshActor_286
+[2026.03.21-12.18.15:685][685]Cmd: SELECT NONE
+[2026.03.21-12.18.33:260][718]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_BookBunch_01a.BP_BookBunch_01a_C
+[2026.03.21-12.18.33:260][718]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_BookBunch_01a.BP_BookBunch_01a_C
+[2026.03.21-12.18.33:263][718]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_BookBunch_01a.BP_BookBunch_01a as actor: BP_BookBunch_01a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_BookBunch_01a_C_0
+[2026.03.21-12.18.33:267][718]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_BookBunch_01a.BP_BookBunch_01a as actor: BP_BookBunch_01a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_BookBunch_01a_C_0
+[2026.03.21-12.18.34:776][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.03.21-12.18.34:779][781]LogEditorActor: Deleted 0 Actors (0.041 secs)
+[2026.03.21-12.18.34:790][781]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_BookBunch_01a.BP_BookBunch_01a_C
+[2026.03.21-12.18.34:790][781]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_BookBunch_01a.BP_BookBunch_01a_C
+[2026.03.21-12.18.34:793][781]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_BookBunch_01a.BP_BookBunch_01a as actor: BP_BookBunch_01a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_BookBunch_01a_C_5
+[2026.03.21-12.18.34:797][781]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_BookBunch_01a.BP_BookBunch_01a as actor: BP_BookBunch_01a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_BookBunch_01a_C_5
+[2026.03.21-12.18.41:536][170]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Rack_02b.BP_Rack_02b_C
+[2026.03.21-12.18.41:536][170]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Rack_02b.BP_Rack_02b_C
+[2026.03.21-12.18.41:555][170]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Rack_02b.BP_Rack_02b as actor: BP_Rack_02b_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Rack_02b_C_0
+[2026.03.21-12.18.41:569][170]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Rack_02b.BP_Rack_02b as actor: BP_Rack_02b_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Rack_02b_C_0
+[2026.03.21-12.18.42:982][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.03.21-12.18.42:985][204]LogEditorActor: Deleted 0 Actors (0.052 secs)
+[2026.03.21-12.18.42:995][204]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Rack_02b.BP_Rack_02b_C
+[2026.03.21-12.18.42:995][204]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Rack_02b.BP_Rack_02b_C
+[2026.03.21-12.18.43:006][204]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Rack_02b.BP_Rack_02b as actor: BP_Rack_02b_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Rack_02b_C_2
+[2026.03.21-12.18.43:019][204]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Rack_02b.BP_Rack_02b as actor: BP_Rack_02b_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Rack_02b_C_2
+[2026.03.21-12.18.48:669][469]Cmd: SELECT NONE
+[2026.03.21-12.19.43:253][149]LogStreaming: Display: FlushAsyncLoading(355): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.21-12.19.43:407][154]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Rack_06a.BP_Rack_06a_C
+[2026.03.21-12.19.43:407][154]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Rack_06a.BP_Rack_06a_C
+[2026.03.21-12.19.43:411][154]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Rack_06a.BP_Rack_06a as actor: BP_Rack_06a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Rack_06a_C_0
+[2026.03.21-12.19.43:414][154]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Rack_06a.BP_Rack_06a as actor: BP_Rack_06a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Rack_06a_C_0
+[2026.03.21-12.19.44:465][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.03.21-12.19.44:472][183]LogEditorActor: Deleted 0 Actors (0.040 secs)
+[2026.03.21-12.19.44:482][183]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Rack_06a.BP_Rack_06a_C
+[2026.03.21-12.19.44:483][183]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Rack_06a.BP_Rack_06a_C
+[2026.03.21-12.19.44:488][183]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Rack_06a.BP_Rack_06a as actor: BP_Rack_06a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Rack_06a_C_1
+[2026.03.21-12.19.44:491][183]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_Rack_06a.BP_Rack_06a as actor: BP_Rack_06a_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_Rack_06a_C_1
+[2026.03.21-12.19.49:608][431]Cmd: DUPLICATE
+[2026.03.21-12.19.49:608][431]Cmd: ACTOR DUPLICATE
+[2026.03.21-12.19.53:351][604]Cmd: DUPLICATE
+[2026.03.21-12.19.53:351][604]Cmd: ACTOR DUPLICATE
+[2026.03.21-12.19.55:204][677]Cmd: SELECT NONE
+[2026.03.21-12.20.04:860][237]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_TreatmentTable_02d.BP_TreatmentTable_02d_C
+[2026.03.21-12.20.04:860][237]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_TreatmentTable_02d.BP_TreatmentTable_02d_C
+[2026.03.21-12.20.04:865][237]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_TreatmentTable_02d.BP_TreatmentTable_02d as actor: BP_TreatmentTable_02d_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_TreatmentTable_02d_C_0
+[2026.03.21-12.20.04:871][237]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_TreatmentTable_02d.BP_TreatmentTable_02d as actor: BP_TreatmentTable_02d_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_TreatmentTable_02d_C_0
+[2026.03.21-12.20.06:904][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.03.21-12.20.06:908][316]LogEditorActor: Deleted 0 Actors (0.044 secs)
+[2026.03.21-12.20.06:919][316]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_TreatmentTable_02d.BP_TreatmentTable_02d_C
+[2026.03.21-12.20.06:919][316]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_TreatmentTable_02d.BP_TreatmentTable_02d_C
+[2026.03.21-12.20.06:923][316]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_TreatmentTable_02d.BP_TreatmentTable_02d as actor: BP_TreatmentTable_02d_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_TreatmentTable_02d_C_2
+[2026.03.21-12.20.06:929][316]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Hospital_Meshingun/Blueprint/Prefab/BP_TreatmentTable_02d.BP_TreatmentTable_02d as actor: BP_TreatmentTable_02d_C /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.BP_TreatmentTable_02d_C_2
+[2026.03.21-12.20.09:891][463]Cmd: SELECT NONE
+[2026.03.21-12.20.12:377][610]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-12.20.12:489][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.03.21-12.20.13:180][610]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.21-12.20.13:182][610]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironmentA4F10FB4432E90DC36EC31BA0BE90FAB.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.21-12.20.13:215][610]LogFileHelpers: Saving map 'FullEnvironment' took 0.808
+[2026.03.21-12.20.13:233][610]LogFileHelpers: InternalPromptForCheckoutAndSave took 856.088 ms (total: 54.8 sec)
+[2026.03.21-12.20.13:287][610]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.21-12.20.13:287][610]LogContentValidation: Enabled validators:
+[2026.03.21-12.20.13:287][610]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.21-12.20.13:287][610]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.21-12.20.13:287][610]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.21-12.20.13:287][610]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.21-12.20.13:287][610]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.21-12.20.13:287][610]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.21-12.20.13:288][610]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.21-12.20.22:048][927]Cmd: SELECT NONE
+[2026.03.21-12.20.29:223][184]Cmd: DUPLICATE
+[2026.03.21-12.20.29:223][184]Cmd: ACTOR DUPLICATE
+[2026.03.21-12.20.35:375][359]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5090.267090
+[2026.03.21-12.20.35:583][367]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.21-12.20.35:583][367]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5090.448242, Update Interval: 303.217255
+[2026.03.21-12.20.47:925][871]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.21-12.20.52:234][ 43]Cmd: SELECT NONE
+[2026.03.21-12.20.52:857][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-12.20.53:005][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.03.21-12.20.53:733][ 69]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.21-12.20.53:733][ 69]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironment798875594FC82420CA97A287EBE9AC80.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.21-12.20.53:767][ 69]LogFileHelpers: Saving map 'FullEnvironment' took 0.838
+[2026.03.21-12.20.53:775][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 917.518 ms (total: 55.7 sec)
+[2026.03.21-12.20.53:824][ 69]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.21-12.20.53:824][ 69]LogContentValidation: Enabled validators:
+[2026.03.21-12.20.53:824][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.21-12.20.53:824][ 69]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.21-12.20.53:824][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.21-12.20.53:824][ 69]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.21-12.20.53:824][ 69]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.21-12.20.53:824][ 69]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.21-12.20.53:825][ 69]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.21-12.21.00:381][349]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/Hospital_Meshingun/Effect/Dust/P_Ambient_Dust.P_Ambient_Dust
+[2026.03.21-12.21.00:381][349]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/Hospital_Meshingun/Effect/Dust/P_Ambient_Dust.P_Ambient_Dust
+[2026.03.21-12.21.00:382][349]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/Hospital_Meshingun/Effect/Dust/P_Ambient_Dust.P_Ambient_Dust as actor: Emitter /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.Emitter_0
+[2026.03.21-12.21.00:383][349]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/Hospital_Meshingun/Effect/Dust/P_Ambient_Dust.P_Ambient_Dust as actor: Emitter /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.Emitter_0
+[2026.03.21-12.21.01:143][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.03.21-12.21.01:147][370]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2026.03.21-12.21.01:159][370]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/Hospital_Meshingun/Effect/Dust/P_Ambient_Dust.P_Ambient_Dust
+[2026.03.21-12.21.01:159][370]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/Hospital_Meshingun/Effect/Dust/P_Ambient_Dust.P_Ambient_Dust
+[2026.03.21-12.21.01:161][370]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/Hospital_Meshingun/Effect/Dust/P_Ambient_Dust.P_Ambient_Dust as actor: Emitter /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.Emitter_6
+[2026.03.21-12.21.01:163][370]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/Hospital_Meshingun/Effect/Dust/P_Ambient_Dust.P_Ambient_Dust as actor: Emitter /Game/Maps/FullEnvironment.FullEnvironment:PersistentLevel.Emitter_6
+[2026.03.21-12.21.11:493][743]Cmd: SELECT NONE
+[2026.03.21-12.21.16:160][933]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-12.21.16:303][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.03.21-12.21.17:053][933]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.21-12.21.17:053][933]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironment5240AA454782F6CC68CF46B061AAF26B.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.21-12.21.17:092][933]LogFileHelpers: Saving map 'FullEnvironment' took 0.864
+[2026.03.21-12.21.17:112][933]LogFileHelpers: InternalPromptForCheckoutAndSave took 950.654 ms (total: 56.7 sec)
+[2026.03.21-12.21.17:163][933]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.21-12.21.17:163][933]LogContentValidation: Enabled validators:
+[2026.03.21-12.21.17:163][933]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.21-12.21.17:163][933]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.21-12.21.17:163][933]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.21-12.21.17:163][933]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.21-12.21.17:163][933]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.21-12.21.17:163][933]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.21-12.21.17:163][933]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.21-12.21.18:484][979]Cmd: DUPLICATE
+[2026.03.21-12.21.18:484][979]Cmd: ACTOR DUPLICATE
+[2026.03.21-12.21.21:219][ 71]Cmd: SELECT NONE
+[2026.03.21-12.21.35:787][592]Cmd: DUPLICATE
+[2026.03.21-12.21.35:787][592]Cmd: ACTOR DUPLICATE
+[2026.03.21-12.21.42:633][811]Cmd: SELECT NONE
+[2026.03.21-12.21.43:324][845]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-12.21.43:463][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.03.21-12.21.44:235][845]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.21-12.21.44:236][845]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironment1E9B42824E4A1276E11E549E3FCDFE96.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.21-12.21.44:275][845]LogFileHelpers: Saving map 'FullEnvironment' took 0.890
+[2026.03.21-12.21.44:295][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 971.051 ms (total: 57.6 sec)
+[2026.03.21-12.21.44:345][845]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.21-12.21.44:345][845]LogContentValidation: Enabled validators:
+[2026.03.21-12.21.44:345][845]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.21-12.21.44:345][845]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.21-12.21.44:345][845]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.21-12.21.44:345][845]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.21-12.21.44:345][845]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.21-12.21.44:345][845]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.21-12.21.44:346][845]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.21-12.21.56:009][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-12.21.56:149][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.03.21-12.21.56:937][399]LogSavePackage: Moving output files for package: /Game/Maps/FullEnvironment
+[2026.03.21-12.21.56:937][399]LogSavePackage: Moving '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Saved/FullEnvironmentA7D35C434BCCE4D13DC567B929805AED.tmp' to '../../../../../../Users/landy/OneDrive/Documents/Unreal Projects/fear-behaviour-trees/Content/Maps/FullEnvironment.umap'
+[2026.03.21-12.21.56:974][399]LogFileHelpers: Saving map 'FullEnvironment' took 0.907
+[2026.03.21-12.21.56:983][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 974.095 ms (total: 58.6 sec)
+[2026.03.21-12.21.57:038][399]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.21-12.21.57:038][399]LogContentValidation: Enabled validators:
+[2026.03.21-12.21.57:038][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.21-12.21.57:038][399]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.21-12.21.57:038][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.21-12.21.57:038][399]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.21-12.21.57:038][399]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.21-12.21.57:038][399]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.21-12.21.57:039][399]AssetCheck: /Game/Maps/FullEnvironment Validating asset
+[2026.03.21-12.21.59:070][507]LogSlate: Window 'Content Browser' being destroyed
+[2026.03.21-12.21.59:080][507]LogSlate: Window 'Content Browser' being destroyed
